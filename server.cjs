@@ -22,5 +22,5 @@ function createServer({roomsOptions}={}){const api=roomHandler(createRooms(rooms
     res.writeHead(200,headers);if(req.method==='HEAD')return res.end();const stream=fs.createReadStream(real);stream.on('error',()=>res.destroy());res.on('close',()=>stream.destroy());if(gzip)stream.pipe(zlib.createGzip({level:1})).pipe(res);else stream.pipe(res);
   }catch{if(!res.headersSent){res.writeHead(404);res.end('Not found');}else res.destroy();}
 });}
-if(require.main===module){const port=Number(process.env.PORT)||4175,server=createServer();server.listen(port,'127.0.0.1',()=>console.log(`Need for Speed: Blacklisted: http://127.0.0.1:${port}`));server.on('error',e=>{console.error(e.message);process.exitCode=1;});}
+if(require.main===module){const port=Number(process.env.PORT)||4175,host=process.env.HOST||(process.env.RENDER?'0.0.0.0':'127.0.0.1'),server=createServer();server.listen(port,host,()=>console.log(`Need for Speed: Blacklisted: http://${host}:${server.address().port}`));server.on('error',e=>{console.error(e.message);process.exitCode=1;});}
 module.exports={createServer,allowed};
