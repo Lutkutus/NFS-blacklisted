@@ -1,0 +1,16 @@
+/* The user's NFS Edge garage, converted locally to a small PSX showroom. */
+window.BlacklineDealerShowroom={async create(){
+ const T=THREE,data=await fetch('assets/dealer/showroom.json').then(r=>{if(!r.ok)throw Error('Showroom data is missing');return r.json();}),buffer=await fetch('assets/dealer/showroom.bin').then(r=>r.arrayBuffer()),scene=new T.Scene(),camera=new T.PerspectiveCamera(44,innerWidth/innerHeight,.1,80);
+ scene.background=new T.Color(0x222c23);scene.fog=new T.Fog(0x333e2a,23,55);scene.add(new T.HemisphereLight(0xffedb8,0x333c27,2));const light=new T.DirectionalLight(0xffe5ac,1.4);light.position.set(3,7,4);scene.add(light);
+ const textures=await Promise.all(data.textures.map(url=>new T.TextureLoader().loadAsync(url).then(t=>{t.colorSpace=T.SRGBColorSpace;t.magFilter=t.minFilter=T.NearestFilter;t.generateMipmaps=false;t.flipY=false;t.wrapS=t.wrapT=T.RepeatWrapping;return t;})));
+ const materials=data.materials.map(m=>BlacklinePSX.material(new T.MeshBasicMaterial({map:m.texture===null?null:textures[m.texture],color:0xffffff,side:T.DoubleSide,transparent:m.transparent,opacity:m.transparent?.35:1,alphaTest:m.transparent?.05:0,depthWrite:!m.transparent})));
+ function decode(q,size){const a=new Uint16Array(buffer,q.offset,q.count),f=new Float32Array(q.count);for(let i=0;i<f.length;i++)f[i]=q.min[i%size]+a[i]*q.scale[i%size];return new T.BufferAttribute(f,size);}
+ for(const p of data.parts){const g=new T.BufferGeometry();g.setAttribute('position',decode(p.position,3));g.setAttribute('uv',decode(p.uv,2));g.setIndex(new T.BufferAttribute(new Uint16Array(buffer,p.index.offset,p.index.count),1));g.computeVertexNormals();scene.add(new T.Mesh(g,materials[p.material]));}
+ const shadowCanvas=document.createElement('canvas');shadowCanvas.width=shadowCanvas.height=64;const ctx=shadowCanvas.getContext('2d'),gradient=ctx.createRadialGradient(32,32,5,32,32,32);gradient.addColorStop(0,'rgba(0,0,0,.65)');gradient.addColorStop(.65,'rgba(0,0,0,.4)');gradient.addColorStop(1,'rgba(0,0,0,0)');ctx.fillStyle=gradient;ctx.fillRect(0,0,64,64);
+ const shadow=new T.Mesh(new T.PlaneGeometry(1,1),new T.MeshBasicMaterial({map:new T.CanvasTexture(shadowCanvas),transparent:true,depthWrite:false,polygonOffset:true,polygonOffsetFactor:-1,polygonOffsetUnits:-1}));shadow.rotation.x=-Math.PI/2;shadow.position.y=.015;scene.add(shadow);
+ let car=null,time=0;
+ function resize(){camera.aspect=innerWidth/innerHeight;const narrow=innerWidth<=800;camera.fov=narrow?Math.max(48,2*Math.atan(5.6/(2*7.7*camera.aspect*.58))*180/Math.PI):44;camera.clearViewOffset();camera.setViewOffset(innerWidth,innerHeight,-innerWidth*(narrow?.19:.13),0,innerWidth,innerHeight);camera.updateProjectionMatrix();}
+ function select(id){if(car){scene.remove(car);car.traverse(n=>{n.geometry?.dispose();if(n.material){for(const m of Array.isArray(n.material)?n.material:[n.material]){m.map?.dispose();m.dispose();}}});}car=BlacklineCars.create({...BlacklineCars.defaults,vehicle:id,wear:'clean'});car.position.y=.025;scene.add(car);const size=new T.Box3().setFromObject(car).getSize(new T.Vector3());shadow.scale.set(size.x+1,size.z+1,1);}
+ function frame(dt){time+=dt;const angle=.8+Math.sin(time*.12)*.35;camera.position.set(Math.sin(angle)*7.7,2.0,Math.cos(angle)*7.7);camera.lookAt(0,.9,0);}
+ resize();return {scene,camera,select,frame,resize};
+}};
