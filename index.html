@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#121717">
+  <title>Need for Speed: Blacklisted</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <canvas id="game" aria-label="3D driving game view"></canvas>
+  <div class="vignette"></div>
+  <header id="topbar"><a class="brand" href="#" aria-label="Need for Speed: Blacklisted home">NFS<span> / </span></a><span class="series">NEED FOR SPEED <b>BLACKLISTED</b></span><div class="top-right"><span class="live-dot"></span> LOCAL GARAGE <button id="sound" aria-label="Enable sound">SOUND OFF</button></div></header>
+
+  <main id="menu">
+    <section class="intro">
+      <p class="eyebrow">NEED FOR SPEED · NIGHT RUN</p>
+      <h1 class="game-title"><span>Need for Speed</span><em>blacklisted</em></h1>
+      <p class="description">Rust. Concrete. Turbo whistle.<br>Build your ride and own the night.</p>
+      <button id="rockport" class="primary">DRIVE TO ROCKPORT <span>↗</span></button>
+      <button id="open-map" class="outline">ROCKPORT MAP · M</button>
+      <p class="world-caption">Rockport · Free roam · 8 collectibles · Areas load as you drive</p>
+
+      <p class="world-caption">Races · Blacklist · Police · Dealership · Speed trap</p>
+      <button id="career" class="outline">BLACKLIST <span id="career-summary">0 / 13</span> · <span id="cash">8 000</span> €</button>
+      <button id="dealership" class="outline">DEALERSHIP ↗ <span>ROSEWOOD MOTORS</span></button>
+      <details class="cheat-panel"><summary>UNLOCK CODE</summary><form id="cheat-form"><label for="cheat-code">Enter BLACKLISTED to unlock everything.</label><div><input id="cheat-code" name="code" type="text" autocomplete="off" autocapitalize="characters" spellcheck="false" maxlength="32" placeholder="BLACKLISTED"><button type="submit">UNLOCK</button></div><p id="cheat-feedback" role="status" aria-live="polite"></p></form></details>
+      <p id="cheat-status" class="world-caption" role="status" hidden>UNLOCK ALL · Cars, Stage 4 and challenges unlocked</p>
+      <p class="world-caption">Start races at the Rockport race markers · Press M to find them.</p>
+    </section>
+    <section class="garage" aria-label="Garage">
+      <div class="garage-title"><span class="eyebrow" id="garage-count">OWNED CARS / 1</span><span class="tag" id="drivetrain">AWD</span></div>
+      <label class="car-label" for="vehicle">SELECT CAR</label><select id="vehicle"><option value="skyline">Nissan Skyline 1998</option><option value="emery">Emery Aventus 1992</option><option value="diablo">Lamborghini Diablo</option><option value="porsche">Porsche 911 Carrera 993</option><option value="charger">Dodge Charger R/T</option><option value="r390">Nissan R390 GT1</option><option value="gtone">Toyota GT-One</option><option value="gtr">Nissan GT-R</option><option value="crown">Ford Crown Victoria</option><option value="rotary">Mazda RX-7</option></select>
+      <h2 id="car-title">SKYLINE <span>R34</span></h2><p class="car-sub" id="car-sub">GT-R INSPIRED · LOW POLY EDITION</p>
+      <div class="stats"><div><strong id="power">320</strong><small>HP</small></div><div><strong id="top-speed">234</strong><small>KM/H</small></div><div><strong id="grip">9.0</strong><small>GRIP</small></div></div>
+      <div class="garage-options" hidden><div><label>BODY COLOR</label><div class="swatches"><button data-color="#315bcf" class="swatch selected" style="--swatch:#315bcf" aria-label="Bayside Blue" aria-pressed="true"></button><button data-color="#b8bfbc" class="swatch" style="--swatch:#b8bfbc" aria-label="Silver" aria-pressed="false"></button><button data-color="#b64334" class="swatch" style="--swatch:#b64334" aria-label="Red" aria-pressed="false"></button><button data-color="#20282b" class="swatch" style="--swatch:#20282b" aria-label="Black" aria-pressed="false"></button></div></div><div><label for="rims">WHEELS</label><select id="rims"><option value="silver">Silver</option><option value="gold">Bronze</option><option value="black">Black</option></select></div></div>
+      <button id="customize" class="outline">FIND TUNING GARAGE <span>SHOW ON MAP · T</span></button><p id="tuning-feedback" role="status"></p><div class="view-controls"><button id="view-front">FRONT</button><button id="view-side">SIDE</button><button id="view-rear">REAR</button><label>ORBIT <input id="orbit" type="range" min="-180" max="180" value="43" aria-label="Camera rotation"></label></div><label class="toggle" hidden><span>REAR WING <small>Street aero</small></span><input id="spoiler" type="checkbox" checked></label>
+      <div id="engine-home" hidden><div id="engine-upgrade">      <label class="car-label" for="stage">PERFORMANCE PACKAGE</label><select id="stage"><option value="0">Stock</option><option value="1">Stage 1 · ECU + exhaust</option><option value="2">Stage 2 · Turbo + intercooler</option><option value="3">Stage 3 · Engine + suspension</option><option value="4">Stage 4 · Full race build</option></select>
+      <p id="tune-description">Stock suspension and factory engine.</p><div class="tune-meter"><i id="tune-meter"></i></div>
+      <button id="buy-stage" class="outline" hidden>BUY PACKAGE</button>
+</div></div>
+      <div class="garage-foot">GARAGE / <span>Buy upgrades with race winnings</span></div>
+    </section>
+    <div class="garage-camera-help">LEFT DRAG: ORBIT · SCROLL: ZOOM · SHIFT + DRAG: PAN <button id="garage-camera-reset">RESET CAMERA</button></div><footer class="menu-footer"><span><i></i> NEED FOR SPEED: BLACKLISTED <b>v0.25.1</b></span><span>WASD / ARROWS <b>DRIVING</b> &nbsp; SHIFT <b>NITRO</b></span></footer>
+  </main>
+
+  <section id="custom-panel" hidden aria-label="Tuning Garage"><div class="custom-head"><div><p class="eyebrow">BLACKLISTED / TUNING GARAGE</p><h2 id="workshop-title">CUSTOMIZATION</h2></div><button id="custom-close" class="outline">LEAVE WORKSHOP ✓</button></div><p class="custom-note">Your setup is saved per car. Tires, gearing, brakes, steering response, downforce and nitrous affect handling. Rims, body parts, camber and offset are visual. Street/Track/Drift presets change driving settings only. Nitrous recharges above 43 km/h while Shift is released. Setup adjustments are free; performance packages cost race earnings.</p><div class="setup-tabs"><button data-setup-tab="look" aria-pressed="true">01 CUSTOMIZATION</button><button data-setup-tab="drive" aria-pressed="false">02 TUNING</button></div><div class="preset-row"><button data-custom-angle="43">FRONT</button><button data-custom-angle="90">SIDE</button><button data-custom-angle="145">REAR</button></div><p class="workshop-camera-help">Drag: orbit · Scroll: zoom · Shift + drag: pan <button id="workshop-camera-reset" type="button">RESET CAMERA</button></p><p id="setup-summary"></p><section id="tuning-performance" hidden><h3>ENGINE AND PERFORMANCE PACKAGES</h3><p id="tuning-wallet"></p><p id="tuning-performance-summary"></p><div id="engine-workshop"></div></section><details class="placement-panel" open><summary>PART PLACEMENT</summary><label>SELECT PART<select id="placement-part" aria-label="Part to move"></select></label><div class="placement-axes"><label>X · LEFT / RIGHT<input id="placement-x" aria-label="Part X offset in meters" type="number" min="-1.5" max="1.5" step="0.01" value="0"></label><label>Y · HEIGHT<input id="placement-y" aria-label="Part Y offset in meters" type="number" min="-1.5" max="1.5" step="0.01" value="0"></label><label>Z · FORWARD / BACK<input id="placement-z" aria-label="Part Z offset in meters" type="number" min="-1.5" max="1.5" step="0.01" value="0"></label></div><div class="preset-row"><button id="placement-mouse" aria-pressed="false">DRAG PART WITH MOUSE</button><button id="placement-reset">RESET PART POSITION</button></div><p id="placement-status" role="status"></p></details><div id="custom-fields"></div><div class="preset-row"><button data-preset="street">STREET</button><button data-preset="track">TRACK</button><button data-preset="drift">DRIFT</button><button id="custom-reset">RESET TO DEFAULT</button></div></section>
+  <section id="dealer-panel" hidden aria-label="Dealership">
+    <aside class="dealer-sidebar"><div class="dealer-heading"><p class="eyebrow">ROSEWOOD / A ON THE MINIMAP</p><h2>ROSEWOOD<br><em>MOTORS.</em></h2><strong id="dealer-wallet">0 €</strong><p id="dealer-progress">BLACKLIST 0 / 13</p></div><div id="dealer-list" aria-label="Cars for sale"></div><p class="dealer-note">Unlock more cars by winning Blacklist challenges. Earn boss cars in pink slip races.</p></aside>
+    <button id="dealer-close" class="outline">CLOSE DEALERSHIP ✕</button>
+    <div class="dealer-details"><p class="eyebrow">SHOWROOM / STOCK CAR</p><h2 id="dealer-car-title"></h2><p id="dealer-specs"></p><strong id="dealer-price"></strong><p id="dealer-message" role="status"></p><button id="dealer-buy" class="primary">BUY CAR</button><button id="dealer-use" class="outline" hidden>SELECT AND RETURN TO GARAGE ↗</button></div>
+  </section>
+  <section id="hud" hidden aria-label="Race information">
+    <div class="race-top"><div class="race-name"><span class="eyebrow" id="hud-track">ROCKPORT CENTRAL</span><strong id="position">1 <small>/ 4</small></strong><span id="position-label">POSITION</span></div><div class="timing"><div><small>LAP</small><strong id="lap">1 / 3</strong></div><div><small>TIME</small><strong id="time">00:00.000</strong></div><div><small>BEST LAP</small><strong id="best">—</strong></div></div><button id="pause" class="outline">II <span>PAUSE</span></button></div>
+    <div id="notice" role="status"></div><div id="countdown" aria-live="polite"></div><button id="interact" hidden></button>
+    <div id="pursuit-hud" hidden><strong id="heat">HEAT ★</strong><span id="pursuit-status">PATROL</span><div class="pursuit-meter"><i id="pursuit-meter"></i></div><small id="bounty">BOUNTY 0 €</small><small id="breaker">X · SPEEDBREAKER 100%</small></div>
+    <div class="map-panel"><canvas id="map" width="220" height="180" aria-label="Race map"></canvas><span id="map-legend"><i></i> YOU <b>●</b> RIVALS</span><button id="drive-map" class="text-button">M · OPEN MAP</button></div>
+    <div class="speed-panel"><div class="speed"><strong id="speed">0</strong><span>KM/H<br><b id="gear">N</b></span></div><div class="rev-bar"><i id="rev"></i></div><div class="nitro-label"><span>N₂O <b>SHIFT</b></span><span id="nitro-text">100%</span></div><div class="nitro-bar"><i id="nitro"></i></div></div>
+    <div id="race-guide" hidden role="status" aria-live="polite"><b id="race-guide-arrow">↑</b><div><strong id="race-guide-title">CONTINUE STRAIGHT</strong><small id="race-guide-detail"></small></div></div><div id="race-gates" hidden style="position:absolute;top:126px;left:30px;color:#e9d685;font:700 13px monospace;letter-spacing:1px">GATE</div><div class="drive-help">WASD / ARROWS <span>DRIVE</span> &nbsp; SPACE <span>HANDBRAKE</span> &nbsp; R <span>RESET</span> &nbsp; C <span>CAMERA</span> &nbsp; RIGHT MOUSE <span>LOOK AROUND</span> &nbsp; E <span>INTERACT</span> &nbsp; B <span>BLACKLIST</span> &nbsp; X <span>SPEEDBREAKER</span> &nbsp; ESC <span>PAUSE</span></div>
+    <div class="touch-controls"><button data-key="ArrowLeft" aria-label="Steer left">◀</button><button data-key="ArrowRight" aria-label="Steer right">▶</button><button data-key="ShiftLeft">N₂O</button><button data-key="ArrowDown">BRAKE</button><button data-key="ArrowUp">THROTTLE</button></div>
+  </section>
+  <section id="overlay" hidden><div class="modal"><p class="eyebrow" id="overlay-label">PIT STOP</p><h2 id="overlay-title">PAUSE.</h2><p id="overlay-description">Take a breather. The road is waiting.</p><div id="results"></div><button id="resume" class="primary">RESUME DRIVING <span>↗</span></button><button id="restart" class="outline">RESTART</button><button id="back" class="text-button">← BACK TO GARAGE</button></div></section>
+  <div id="loading"><span class="brand">NFS /</span><p>OPENING GARAGE…</p></div>
+  <section id="race-entry-panel" hidden aria-label="Race start"><div class="modal"><p class="eyebrow">ROCKPORT / START LINE</p><h2 id="race-entry-title">SPRINT</h2><div class="mode-row"><label for="mode">RACE MODE</label><select id="mode"><option value="race">Sprint · 4 cars</option><option value="time">Sprint time trial · solo</option></select></div><p class="best-label" id="menu-best">Track record: —</p><button id="start" class="primary">START RACE <span>↗</span></button><button id="race-entry-close" class="text-button">← RESUME FREE ROAM</button></div></section>
+  <section id="career-panel" hidden><div class="modal"><p class="eyebrow">BLACKLISTED / BLACKLIST</p><h2>RISE TO THE TOP.</h2><p>13 pink slip challenges in the original Blacklist order. Win 10 regular sprints before each new challenger. Beat a rival to add their car to your garage. Winning the Razor BMW also unlocks the prologue Mustang.</p><p id="career-race-progress" aria-live="polite"></p><button id="career-drive" class="outline">DRIVE TO ROCKPORT · B OPENS THE BLACKLIST ↗</button><div id="challenge-list"></div><button id="career-close" class="text-button">← BACK TO GARAGE</button></div></section>
+  <div id="error" hidden><h2>The game could not start</h2><p id="error-message">Your browser needs WebGL support. Try an up-to-date Chrome or Edge with hardware acceleration enabled.</p></div>
+  <script src="vendor/three.min.js"></script>
+  <script src="src/core.js"></script>
+  <script src="src/psx-render.js"></script>
+  <script src="src/art.js"></script>
+  <script src="src/career.js"></script>
+  <script src="src/dealership.js"></script>
+
+
+  <script src="assets/psx/cars.js"></script>
+  <script src="assets/psx/extra-cars.js"></script>
+  <script src="assets/blacklist/cars.js"></script>
+  <script src="assets/street/cars.js"></script>
+  <script src="assets/custom/parts.js"></script>
+  <script src="assets/custom/workshop.js"></script><script src="assets/custom/new-wheels.js"></script><script src="src/workshop-fit.js"></script><script src="src/part-placement.js"></script><script src="src/garage-controls.js"></script><script src="src/tuning-garage.js"></script><script src="src/car-colors.js"></script><script src="src/psx-cars.js"></script>
+  <script src="src/terrain.js"></script>
+  <script src="src/rockport-physics.js"></script>
+  <script src="src/rockport-navigation.js"></script><script src="src/pursuit-ai.js"></script><script src="src/race-guide.js"></script><script src="src/race-gates.js"></script>
+  <script src="src/vehicle-physics.js"></script>
+  <script src="src/drive-camera.js"></script>
+  <script src="src/civilian-traffic.js"></script><script src="src/roadblocks.js"></script>
+  <script src="src/impact-effects.js"></script>
+  <script src="src/breakables.js"></script>
+  <script src="src/rockport-world.js"></script>
+  <script src="src/dealer-showroom.js"></script>
+  <section id="world-map" hidden role="dialog" aria-modal="true" aria-labelledby="world-map-title">
+    <header><div><p class="eyebrow">BLACKLISTED / ROCKPORT</p><h2 id="world-map-title">CITY MAP.</h2><p id="map-context"></p></div><button id="map-close" class="outline">CLOSE · M / ESC</button></header>
+    <div class="city-map-layout"><div class="city-map-view"><canvas id="city-map" aria-label="Rockport map, your location and destinations"></canvas><div class="city-map-tools"><button id="map-plus" aria-label="Zoom in">+</button><button id="map-minus" aria-label="Zoom out">−</button><button id="map-fit">ENTIRE CITY</button><button id="map-player">MY LOCATION</button><button id="map-reference" aria-pressed="false">REFERENCE MAP</button></div></div>
+    <aside><p class="eyebrow">DESTINATIONS</p><div id="map-locations"></div><h3 id="map-destination">SELECT DESTINATION</h3><p id="map-description"></p><button id="map-teleport" class="primary" disabled>FAST TRAVEL</button><button id="map-navigate" class="primary" disabled>SET GPS ROUTE</button><button id="map-clear" class="text-button">CLEAR GPS ROUTE</button><small>Scroll: zoom · Drag: pan the map.<br>Green G: garage · T: tuning · A: dealership · Numbers: races.<br>Dim roads: separate map sections. <span id="map-availability-note"></span><br>The reference image is a supplied area map; GPS routes follow the roads in the game.</small></aside></div>
+  </section>
+  <script src="src/world-map.js"></script>
+  <script src="src/world-map-ui.js"></script>
+  <script src="src/multiplayer.js"></script><script src="src/multiplayer-cars.js"></script><script src="src/drift-smoke.js"></script><script src="src/game.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,37 @@
+# Local runtimes, generated packages and temporary work
+/tmp/
+/dist/
+/design/
+/node_modules/
+/tools/bin/
+__pycache__/
+*.pyc
+*.log
+*.zip
+*.7z
+*.blend
+*.blend1
+
+# Original imported models; the game uses the processed runtime assets
+/assets/*-source/
+/assets/source/
+/assets/models/
+/assets/qa/
+/assets/rockport/rockport-psx.glb
+
+# Local screenshots and temporary sharing details
+/*.png
+/Moninpelilinkki.txt
+
+# Local credentials and editor state
+.env
+.env.*
+!.env.example
+/.codex/
+/.agents/
+/.aws/
+/.ssh/
+*.pem
+*.key
+.DS_Store
+Thumbs.db

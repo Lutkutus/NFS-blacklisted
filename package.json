@@ -1,0 +1,12 @@
+{
+  "name": "need-for-speed-blacklisted",
+  "version": "0.26.0",
+  "private": true,
+  "description": "Need for Speed: Blacklisted — browser driving game with room-based multiplayer",
+  "scripts": {
+    "start": "node server.cjs",
+    "test": "node --test tests/core.test.cjs tests/career.test.cjs tests/psx.test.cjs tests/rockport.test.cjs tests/rockport-navigation.test.cjs tests/performance.test.cjs tests/vehicle-physics.test.cjs tests/blacklist.test.cjs tests/road-line.test.cjs tests/dealership.test.cjs tests/street-cars.test.cjs tests/drive-camera.test.cjs tests/world-map.test.cjs tests/rockport-extension.test.cjs tests/pursuit-ai.test.cjs tests/workshop.test.cjs tests/garage-editing.test.cjs tests/drift-smoke.test.cjs tests/race-guide.test.cjs tests/breakables.test.cjs tests/impact-effects.test.cjs tests/shortcuts.test.cjs tests/civilian-traffic.test.cjs tests/roadblocks.test.cjs tests/wheel-imports.test.cjs tests/car-colors.test.cjs tests/tuning-garage.test.cjs tests/multiplayer.test.cjs tests/multiplayer-race.test.cjs",
+    "check": "node --check src/race-guide.js && node --check src/drift-smoke.js && node --check src/part-placement.js && node --check src/garage-controls.js && node --check src/workshop-fit.js && node --check src/psx-cars.js && node --check src/core.js && node --check src/game.js && node --check src/open-world.js && node --check src/art.js && node --check src/career.js && node --check src/terrain.js && node --check src/psx-cars.js && node --check src/psx-render.js && node --check src/rockport-physics.js && node --check src/rockport-world.js && node --check src/rockport-navigation.js && node --check src/vehicle-physics.js && node --check src/dealership.js && node --check src/dealer-showroom.js && node --check src/drive-camera.js && node --check src/world-map.js && node --check src/world-map-ui.js && node --check src/race-gates.js && node --check src/pursuit-ai.js && node --check src/breakables.js && node --check src/impact-effects.js && node --check src/civilian-traffic.js && node --check src/roadblocks.js && node --check assets/custom/new-wheels.js && node --check src/car-colors.js && node --check src/tuning-garage.js && node --check server.cjs && node --check multiplayer-server.cjs && node --check src/multiplayer.js && node --check src/multiplayer-cars.js && node --check multiplayer-race.cjs",
+    "test:offline": "node --test tests/offline-package.test.cjs"
+  }
+}
