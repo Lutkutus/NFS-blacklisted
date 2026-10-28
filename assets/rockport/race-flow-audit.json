@@ -1,0 +1,1222 @@
+[
+  {
+    "id": "rosewood-ridge",
+    "name": "ROSEWOOD RIDGE",
+    "length": 8027.187504940267,
+    "samples": 1002,
+    "unsupported": 34,
+    "problemSections": [
+      {
+        "start": 408,
+        "end": 408
+      },
+      {
+        "start": 576,
+        "end": 576
+      },
+      {
+        "start": 704,
+        "end": 704
+      },
+      {
+        "start": 1336,
+        "end": 1352
+      },
+      {
+        "start": 1928,
+        "end": 1928
+      },
+      {
+        "start": 1968,
+        "end": 1968
+      },
+      {
+        "start": 2960,
+        "end": 2960
+      },
+      {
+        "start": 3256,
+        "end": 3256
+      },
+      {
+        "start": 3336,
+        "end": 3336
+      },
+      {
+        "start": 3576,
+        "end": 3576
+      },
+      {
+        "start": 3632,
+        "end": 3632
+      },
+      {
+        "start": 3672,
+        "end": 3680
+      },
+      {
+        "start": 4312,
+        "end": 4328
+      },
+      {
+        "start": 4384,
+        "end": 4384
+      },
+      {
+        "start": 4464,
+        "end": 4472
+      },
+      {
+        "start": 4864,
+        "end": 4864
+      },
+      {
+        "start": 4888,
+        "end": 4888
+      },
+      {
+        "start": 5048,
+        "end": 5048
+      },
+      {
+        "start": 5448,
+        "end": 5448
+      },
+      {
+        "start": 5880,
+        "end": 5880
+      },
+      {
+        "start": 6256,
+        "end": 6256
+      },
+      {
+        "start": 6800,
+        "end": 6800
+      },
+      {
+        "start": 6840,
+        "end": 6864
+      },
+      {
+        "start": 7136,
+        "end": 7136
+      },
+      {
+        "start": 7160,
+        "end": 7160
+      },
+      {
+        "start": 7232,
+        "end": 7232
+      },
+      {
+        "start": 7376,
+        "end": 7376
+      }
+    ],
+    "tightTurns": [
+      {
+        "distance": 1888,
+        "degrees": 47
+      },
+      {
+        "distance": 4384,
+        "degrees": 53
+      },
+      {
+        "distance": 4392,
+        "degrees": 51
+      },
+      {
+        "distance": 5864,
+        "degrees": 109
+      },
+      {
+        "distance": 5872,
+        "degrees": 150
+      },
+      {
+        "distance": 5888,
+        "degrees": 147
+      },
+      {
+        "distance": 5896,
+        "degrees": 98
+      },
+      {
+        "distance": 7360,
+        "degrees": 99
+      },
+      {
+        "distance": 7368,
+        "degrees": 106
+      },
+      {
+        "distance": 7376,
+        "degrees": 142
+      },
+      {
+        "distance": 7384,
+        "degrees": 103
+      }
+    ]
+  },
+  {
+    "id": "harbour-run",
+    "name": "HARBOUR RUN",
+    "length": 6683.701361007907,
+    "samples": 834,
+    "unsupported": 15,
+    "problemSections": [
+      {
+        "start": 1816,
+        "end": 1816
+      },
+      {
+        "start": 1872,
+        "end": 1872
+      },
+      {
+        "start": 2848,
+        "end": 2856
+      },
+      {
+        "start": 3000,
+        "end": 3000
+      },
+      {
+        "start": 3208,
+        "end": 3208
+      },
+      {
+        "start": 3328,
+        "end": 3328
+      },
+      {
+        "start": 5184,
+        "end": 5184
+      },
+      {
+        "start": 6008,
+        "end": 6024
+      },
+      {
+        "start": 6568,
+        "end": 6592
+      }
+    ],
+    "tightTurns": [
+      {
+        "distance": 40,
+        "degrees": 52
+      },
+      {
+        "distance": 304,
+        "degrees": 53
+      },
+      {
+        "distance": 2456,
+        "degrees": 48
+      },
+      {
+        "distance": 2464,
+        "degrees": 92
+      },
+      {
+        "distance": 2472,
+        "degrees": 66
+      },
+      {
+        "distance": 3200,
+        "degrees": 74
+      },
+      {
+        "distance": 3216,
+        "degrees": 71
+      },
+      {
+        "distance": 3224,
+        "degrees": 47
+      },
+      {
+        "distance": 4232,
+        "degrees": 57
+      },
+      {
+        "distance": 4256,
+        "degrees": 61
+      },
+      {
+        "distance": 4264,
+        "degrees": 73
+      },
+      {
+        "distance": 4288,
+        "degrees": 94
+      },
+      {
+        "distance": 4296,
+        "degrees": 79
+      },
+      {
+        "distance": 4304,
+        "degrees": 89
+      },
+      {
+        "distance": 4312,
+        "degrees": 79
+      },
+      {
+        "distance": 4496,
+        "degrees": 54
+      }
+    ]
+  },
+  {
+    "id": "downtown-descent",
+    "name": "DOWNTOWN DESCENT",
+    "length": 4540.893520703227,
+    "samples": 566,
+    "unsupported": 13,
+    "problemSections": [
+      {
+        "start": 272,
+        "end": 272
+      },
+      {
+        "start": 320,
+        "end": 320
+      },
+      {
+        "start": 1080,
+        "end": 1080
+      },
+      {
+        "start": 1232,
+        "end": 1232
+      },
+      {
+        "start": 2280,
+        "end": 2312
+      },
+      {
+        "start": 2360,
+        "end": 2376
+      },
+      {
+        "start": 3016,
+        "end": 3016
+      },
+      {
+        "start": 4296,
+        "end": 4296
+      }
+    ],
+    "tightTurns": [
+      {
+        "distance": 1208,
+        "degrees": 54
+      }
+    ]
+  },
+  {
+    "id": "last-run",
+    "name": "THE LAST RUN",
+    "length": 10242.59664447857,
+    "samples": 1279,
+    "unsupported": 46,
+    "problemSections": [
+      {
+        "start": 144,
+        "end": 144
+      },
+      {
+        "start": 208,
+        "end": 208
+      },
+      {
+        "start": 552,
+        "end": 568
+      },
+      {
+        "start": 688,
+        "end": 688
+      },
+      {
+        "start": 712,
+        "end": 712
+      },
+      {
+        "start": 744,
+        "end": 744
+      },
+      {
+        "start": 1136,
+        "end": 1144
+      },
+      {
+        "start": 1280,
+        "end": 1280
+      },
+      {
+        "start": 1904,
+        "end": 1904
+      },
+      {
+        "start": 1992,
+        "end": 1992
+      },
+      {
+        "start": 2032,
+        "end": 2032
+      },
+      {
+        "start": 2304,
+        "end": 2320
+      },
+      {
+        "start": 2632,
+        "end": 2648
+      },
+      {
+        "start": 4472,
+        "end": 4472
+      },
+      {
+        "start": 4728,
+        "end": 4744
+      },
+      {
+        "start": 5360,
+        "end": 5360
+      },
+      {
+        "start": 5440,
+        "end": 5456
+      },
+      {
+        "start": 5568,
+        "end": 5576
+      },
+      {
+        "start": 5840,
+        "end": 5840
+      },
+      {
+        "start": 5888,
+        "end": 5904
+      },
+      {
+        "start": 6336,
+        "end": 6336
+      },
+      {
+        "start": 7016,
+        "end": 7024
+      },
+      {
+        "start": 7048,
+        "end": 7048
+      },
+      {
+        "start": 7072,
+        "end": 7072
+      },
+      {
+        "start": 8288,
+        "end": 8320
+      },
+      {
+        "start": 8360,
+        "end": 8360
+      },
+      {
+        "start": 9064,
+        "end": 9080
+      },
+      {
+        "start": 9208,
+        "end": 9216
+      },
+      {
+        "start": 10040,
+        "end": 10056
+      }
+    ],
+    "tightTurns": [
+      {
+        "distance": 4056,
+        "degrees": 46
+      },
+      {
+        "distance": 7112,
+        "degrees": 50
+      },
+      {
+        "distance": 7120,
+        "degrees": 50
+      },
+      {
+        "distance": 7160,
+        "degrees": 47
+      },
+      {
+        "distance": 7168,
+        "degrees": 48
+      }
+    ]
+  },
+  {
+    "id": "rosewood-return",
+    "name": "ROSEWOOD RETURN",
+    "length": 8027.18750494029,
+    "samples": 1002,
+    "unsupported": 31,
+    "problemSections": [
+      {
+        "start": 656,
+        "end": 656
+      },
+      {
+        "start": 776,
+        "end": 776
+      },
+      {
+        "start": 856,
+        "end": 864
+      },
+      {
+        "start": 896,
+        "end": 896
+      },
+      {
+        "start": 1224,
+        "end": 1224
+      },
+      {
+        "start": 1288,
+        "end": 1296
+      },
+      {
+        "start": 1792,
+        "end": 1792
+      },
+      {
+        "start": 2144,
+        "end": 2144
+      },
+      {
+        "start": 3000,
+        "end": 3032
+      },
+      {
+        "start": 3128,
+        "end": 3144
+      },
+      {
+        "start": 3192,
+        "end": 3192
+      },
+      {
+        "start": 3576,
+        "end": 3576
+      },
+      {
+        "start": 3672,
+        "end": 3672
+      },
+      {
+        "start": 3704,
+        "end": 3704
+      },
+      {
+        "start": 4344,
+        "end": 4360
+      },
+      {
+        "start": 4416,
+        "end": 4416
+      },
+      {
+        "start": 4704,
+        "end": 4712
+      },
+      {
+        "start": 4760,
+        "end": 4760
+      },
+      {
+        "start": 5056,
+        "end": 5080
+      },
+      {
+        "start": 6672,
+        "end": 6688
+      }
+    ],
+    "tightTurns": [
+      {
+        "distance": 640,
+        "degrees": 103
+      },
+      {
+        "distance": 648,
+        "degrees": 142
+      },
+      {
+        "distance": 656,
+        "degrees": 130
+      },
+      {
+        "distance": 664,
+        "degrees": 81
+      },
+      {
+        "distance": 2136,
+        "degrees": 124
+      },
+      {
+        "distance": 2144,
+        "degrees": 147
+      },
+      {
+        "distance": 2152,
+        "degrees": 150
+      },
+      {
+        "distance": 2160,
+        "degrees": 126
+      },
+      {
+        "distance": 3632,
+        "degrees": 50
+      },
+      {
+        "distance": 6136,
+        "degrees": 51
+      }
+    ]
+  },
+  {
+    "id": "harbour-reverse",
+    "name": "HARBOUR REVERSE",
+    "length": 6683.701361007915,
+    "samples": 834,
+    "unsupported": 17,
+    "problemSections": [
+      {
+        "start": 88,
+        "end": 96
+      },
+      {
+        "start": 120,
+        "end": 120
+      },
+      {
+        "start": 680,
+        "end": 680
+      },
+      {
+        "start": 1280,
+        "end": 1280
+      },
+      {
+        "start": 1496,
+        "end": 1504
+      },
+      {
+        "start": 1632,
+        "end": 1632
+      },
+      {
+        "start": 1664,
+        "end": 1664
+      },
+      {
+        "start": 3824,
+        "end": 3832
+      },
+      {
+        "start": 4864,
+        "end": 4864
+      },
+      {
+        "start": 4904,
+        "end": 4936
+      },
+      {
+        "start": 5856,
+        "end": 5872
+      }
+    ],
+    "tightTurns": [
+      {
+        "distance": 2192,
+        "degrees": 64
+      },
+      {
+        "distance": 2224,
+        "degrees": 49
+      },
+      {
+        "distance": 2232,
+        "degrees": 49
+      },
+      {
+        "distance": 2376,
+        "degrees": 78
+      },
+      {
+        "distance": 2392,
+        "degrees": 85
+      },
+      {
+        "distance": 2424,
+        "degrees": 70
+      },
+      {
+        "distance": 2448,
+        "degrees": 56
+      },
+      {
+        "distance": 2456,
+        "degrees": 56
+      },
+      {
+        "distance": 3456,
+        "degrees": 52
+      },
+      {
+        "distance": 3464,
+        "degrees": 67
+      },
+      {
+        "distance": 3472,
+        "degrees": 127
+      },
+      {
+        "distance": 3480,
+        "degrees": 128
+      },
+      {
+        "distance": 3488,
+        "degrees": 69
+      },
+      {
+        "distance": 3496,
+        "degrees": 50
+      },
+      {
+        "distance": 4208,
+        "degrees": 49
+      },
+      {
+        "distance": 4216,
+        "degrees": 81
+      },
+      {
+        "distance": 4224,
+        "degrees": 68
+      },
+      {
+        "distance": 6376,
+        "degrees": 49
+      },
+      {
+        "distance": 6384,
+        "degrees": 51
+      },
+      {
+        "distance": 6648,
+        "degrees": 47
+      }
+    ]
+  },
+  {
+    "id": "downtown-ascent",
+    "name": "DOWNTOWN ASCENT",
+    "length": 4540.893520703232,
+    "samples": 566,
+    "unsupported": 17,
+    "problemSections": [
+      {
+        "start": 736,
+        "end": 736
+      },
+      {
+        "start": 1408,
+        "end": 1416
+      },
+      {
+        "start": 1448,
+        "end": 1448
+      },
+      {
+        "start": 2072,
+        "end": 2072
+      },
+      {
+        "start": 2096,
+        "end": 2096
+      },
+      {
+        "start": 2144,
+        "end": 2144
+      },
+      {
+        "start": 2176,
+        "end": 2176
+      },
+      {
+        "start": 2200,
+        "end": 2208
+      },
+      {
+        "start": 2248,
+        "end": 2248
+      },
+      {
+        "start": 2648,
+        "end": 2648
+      },
+      {
+        "start": 3304,
+        "end": 3304
+      },
+      {
+        "start": 3408,
+        "end": 3408
+      },
+      {
+        "start": 3448,
+        "end": 3456
+      },
+      {
+        "start": 4104,
+        "end": 4104
+      }
+    ],
+    "tightTurns": [
+      {
+        "distance": 2640,
+        "degrees": 50
+      }
+    ]
+  },
+  {
+    "id": "the-long-climb",
+    "name": "THE LONG CLIMB",
+    "length": 10242.596644478543,
+    "samples": 1279,
+    "unsupported": 45,
+    "problemSections": [
+      {
+        "start": 184,
+        "end": 184
+      },
+      {
+        "start": 208,
+        "end": 216
+      },
+      {
+        "start": 808,
+        "end": 808
+      },
+      {
+        "start": 1024,
+        "end": 1032
+      },
+      {
+        "start": 1176,
+        "end": 1192
+      },
+      {
+        "start": 1376,
+        "end": 1376
+      },
+      {
+        "start": 1880,
+        "end": 1880
+      },
+      {
+        "start": 1904,
+        "end": 1952
+      },
+      {
+        "start": 3168,
+        "end": 3168
+      },
+      {
+        "start": 3216,
+        "end": 3216
+      },
+      {
+        "start": 3904,
+        "end": 3904
+      },
+      {
+        "start": 4072,
+        "end": 4072
+      },
+      {
+        "start": 4336,
+        "end": 4344
+      },
+      {
+        "start": 4384,
+        "end": 4384
+      },
+      {
+        "start": 4440,
+        "end": 4456
+      },
+      {
+        "start": 4776,
+        "end": 4776
+      },
+      {
+        "start": 5184,
+        "end": 5184
+      },
+      {
+        "start": 5768,
+        "end": 5768
+      },
+      {
+        "start": 7608,
+        "end": 7608
+      },
+      {
+        "start": 7896,
+        "end": 7912
+      },
+      {
+        "start": 7960,
+        "end": 7960
+      },
+      {
+        "start": 8200,
+        "end": 8240
+      },
+      {
+        "start": 8976,
+        "end": 8976
+      },
+      {
+        "start": 9040,
+        "end": 9040
+      },
+      {
+        "start": 9072,
+        "end": 9072
+      },
+      {
+        "start": 9128,
+        "end": 9128
+      },
+      {
+        "start": 9512,
+        "end": 9528
+      },
+      {
+        "start": 9552,
+        "end": 9552
+      },
+      {
+        "start": 9648,
+        "end": 9672
+      }
+    ],
+    "tightTurns": [
+      {
+        "distance": 1120,
+        "degrees": 47
+      },
+      {
+        "distance": 3072,
+        "degrees": 48
+      },
+      {
+        "distance": 3080,
+        "degrees": 47
+      },
+      {
+        "distance": 3120,
+        "degrees": 50
+      },
+      {
+        "distance": 3128,
+        "degrees": 50
+      }
+    ]
+  },
+  {
+    "id": "campus-climb",
+    "name": "CAMPUS CLIMB",
+    "length": 3966.671167608638,
+    "samples": 494,
+    "unsupported": 17,
+    "problemSections": [
+      {
+        "start": 536,
+        "end": 552
+      },
+      {
+        "start": 1128,
+        "end": 1128
+      },
+      {
+        "start": 1168,
+        "end": 1168
+      },
+      {
+        "start": 2160,
+        "end": 2160
+      },
+      {
+        "start": 2456,
+        "end": 2456
+      },
+      {
+        "start": 2536,
+        "end": 2536
+      },
+      {
+        "start": 2776,
+        "end": 2776
+      },
+      {
+        "start": 2832,
+        "end": 2832
+      },
+      {
+        "start": 2872,
+        "end": 2880
+      },
+      {
+        "start": 3512,
+        "end": 3528
+      },
+      {
+        "start": 3584,
+        "end": 3584
+      },
+      {
+        "start": 3664,
+        "end": 3672
+      }
+    ],
+    "tightTurns": [
+      {
+        "distance": 1088,
+        "degrees": 47
+      },
+      {
+        "distance": 3584,
+        "degrees": 53
+      },
+      {
+        "distance": 3592,
+        "degrees": 51
+      }
+    ]
+  },
+  {
+    "id": "industrial-cut",
+    "name": "INDUSTRIAL CUT",
+    "length": 2860.9124225950036,
+    "samples": 356,
+    "unsupported": 8,
+    "problemSections": [
+      {
+        "start": 184,
+        "end": 184
+      },
+      {
+        "start": 344,
+        "end": 344
+      },
+      {
+        "start": 848,
+        "end": 864
+      },
+      {
+        "start": 920,
+        "end": 920
+      },
+      {
+        "start": 2080,
+        "end": 2080
+      },
+      {
+        "start": 2304,
+        "end": 2320
+      }
+    ],
+    "tightTurns": [
+      {
+        "distance": 1560,
+        "degrees": 80
+      },
+      {
+        "distance": 1568,
+        "degrees": 81
+      },
+      {
+        "distance": 2288,
+        "degrees": 50
+      },
+      {
+        "distance": 2296,
+        "degrees": 69
+      },
+      {
+        "distance": 2304,
+        "degrees": 128
+      },
+      {
+        "distance": 2312,
+        "degrees": 127
+      },
+      {
+        "distance": 2320,
+        "degrees": 67
+      },
+      {
+        "distance": 2328,
+        "degrees": 52
+      }
+    ]
+  },
+  {
+    "id": "central-sprint",
+    "name": "CENTRAL SPRINT",
+    "length": 3000.000000000001,
+    "samples": 374,
+    "unsupported": 13,
+    "problemSections": [
+      {
+        "start": 576,
+        "end": 592
+      },
+      {
+        "start": 616,
+        "end": 632
+      },
+      {
+        "start": 736,
+        "end": 736
+      },
+      {
+        "start": 1232,
+        "end": 1232
+      },
+      {
+        "start": 1392,
+        "end": 1392
+      },
+      {
+        "start": 1792,
+        "end": 1800
+      },
+      {
+        "start": 1832,
+        "end": 1832
+      },
+      {
+        "start": 1896,
+        "end": 1896
+      },
+      {
+        "start": 1928,
+        "end": 1928
+      }
+    ],
+    "tightTurns": [
+      {
+        "distance": 704,
+        "degrees": 49
+      },
+      {
+        "distance": 1400,
+        "degrees": 50
+      }
+    ]
+  },
+  {
+    "id": "cross-city",
+    "name": "CROSS CITY",
+    "length": 4409.188040337294,
+    "samples": 550,
+    "unsupported": 17,
+    "problemSections": [
+      {
+        "start": 1472,
+        "end": 1472
+      },
+      {
+        "start": 1728,
+        "end": 1744
+      },
+      {
+        "start": 2360,
+        "end": 2360
+      },
+      {
+        "start": 2440,
+        "end": 2456
+      },
+      {
+        "start": 2568,
+        "end": 2576
+      },
+      {
+        "start": 2840,
+        "end": 2840
+      },
+      {
+        "start": 2888,
+        "end": 2904
+      },
+      {
+        "start": 3336,
+        "end": 3336
+      },
+      {
+        "start": 4016,
+        "end": 4024
+      },
+      {
+        "start": 4048,
+        "end": 4048
+      },
+      {
+        "start": 4072,
+        "end": 4072
+      }
+    ],
+    "tightTurns": [
+      {
+        "distance": 1056,
+        "degrees": 46
+      },
+      {
+        "distance": 4112,
+        "degrees": 50
+      },
+      {
+        "distance": 4120,
+        "degrees": 50
+      },
+      {
+        "distance": 4160,
+        "degrees": 47
+      },
+      {
+        "distance": 4168,
+        "degrees": 48
+      }
+    ]
+  }
+]

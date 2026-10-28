@@ -1,0 +1,84 @@
+{
+  "method": "80 deterministic random mesh instances per source, up to 3 triangles each; original world coordinates vs final exported cells",
+  "parts": [
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "sampleTriangles": 238,
+      "maxVertexDistance": 0.0037878041286679496,
+      "failures": []
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "sampleTriangles": 233,
+      "maxVertexDistance": 0.0034864437857235835,
+      "failures": []
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "sampleTriangles": 235,
+      "maxVertexDistance": 0.003956080455232689,
+      "failures": []
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-12.zip",
+      "sampleTriangles": 232,
+      "maxVertexDistance": 0.0035870090321843745,
+      "failures": []
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-13.zip",
+      "sampleTriangles": 229,
+      "maxVertexDistance": 0.004509792671947633,
+      "failures": []
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-2.zip",
+      "sampleTriangles": 231,
+      "maxVertexDistance": 0.0034988745028341622,
+      "failures": []
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "sampleTriangles": 229,
+      "maxVertexDistance": 0.003537921143740557,
+      "failures": []
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "sampleTriangles": 235,
+      "maxVertexDistance": 0.004330787814649988,
+      "failures": []
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-5.zip",
+      "sampleTriangles": 232,
+      "maxVertexDistance": 0.0036583458728419453,
+      "failures": []
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "sampleTriangles": 237,
+      "maxVertexDistance": 0.004447407448531571,
+      "failures": []
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "sampleTriangles": 236,
+      "maxVertexDistance": 0.004434798276842977,
+      "failures": []
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "sampleTriangles": 235,
+      "maxVertexDistance": 0.0035792099718814133,
+      "failures": []
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "sampleTriangles": 232,
+      "maxVertexDistance": 0.004238522105733227,
+      "failures": []
+    }
+  ],
+  "passed": true
+}

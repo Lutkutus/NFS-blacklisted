@@ -1,0 +1,175 @@
+{
+  "roadSamples": 50991,
+  "nearRoad": 1779,
+  "aboveRoad": 8597,
+  "objects": [
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_TerrainCannery_01",
+      "atRoad": 0,
+      "aboveRoad": 37
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_TerrainOilRef_01",
+      "atRoad": 0,
+      "aboveRoad": 33
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_CPNorthTreesA_01",
+      "atRoad": 0,
+      "aboveRoad": 2
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_TreesHydro_04",
+      "atRoad": 0,
+      "aboveRoad": 1
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_HydroPlantA_02_DEIN",
+      "atRoad": 279,
+      "aboveRoad": 177
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_LighthouseSign01",
+      "atRoad": 0,
+      "aboveRoad": 2
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_LighthouseTerrain01",
+      "atRoad": 187,
+      "aboveRoad": 16
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_TerrainCannery_02",
+      "atRoad": 0,
+      "aboveRoad": 27
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "Pan_IndustrialTerrain_0",
+      "atRoad": 0,
+      "aboveRoad": 113
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_Island_1a_08",
+      "atRoad": 2,
+      "aboveRoad": 514
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_Island_2a_08",
+      "atRoad": 17,
+      "aboveRoad": 305
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-12.zip",
+      "node": "PAN_CP_LODA_04",
+      "atRoad": 83,
+      "aboveRoad": 0
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-12.zip",
+      "node": "PAN_CP_Scaffold_LODA_04",
+      "atRoad": 0,
+      "aboveRoad": 12
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Mountains_College_0",
+      "atRoad": 7,
+      "aboveRoad": 297
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_TerrainA_01",
+      "atRoad": 14,
+      "aboveRoad": 5644
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Campus_Towers",
+      "atRoad": 0,
+      "aboveRoad": 1
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_CityTreesA_01",
+      "atRoad": 1,
+      "aboveRoad": 19
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_Panorama_City",
+      "atRoad": 0,
+      "aboveRoad": 6
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_TerrainA_03",
+      "atRoad": 222,
+      "aboveRoad": 2096
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Mountains_College_0.003",
+      "atRoad": 0,
+      "aboveRoad": 153
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Mountains_College_0.006",
+      "atRoad": 1,
+      "aboveRoad": 32
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Mountains_College_0.007",
+      "atRoad": 0,
+      "aboveRoad": 30
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_Island_2a_06",
+      "atRoad": 14,
+      "aboveRoad": 742
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "Panorama_TC_City",
+      "atRoad": 0,
+      "aboveRoad": 67
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "PAN_Mountains_College_1",
+      "atRoad": 7,
+      "aboveRoad": 82
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "PAN_CT_TerrainA_02",
+      "atRoad": 943,
+      "aboveRoad": 259
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "PAN_Mountains_College_0.001",
+      "atRoad": 0,
+      "aboveRoad": 66
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "Panorama_TC_SouthView2",
+      "atRoad": 2,
+      "aboveRoad": 3
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rosewood-ridge",
+    "before": {
+      "totalRadians": 381.70350741116306,
+      "sharpTurns": 468
+    },
+    "after": {
+      "totalRadians": 60.06939095389376,
+      "sharpTurns": 22
+    },
+    "beforeLength": 8555.391770308981,
+    "length": 8060.516337331622,
+    "points": 2140,
+    "unsupportedFootprints": 41
+  },
+  {
+    "id": "harbour-run",
+    "before": {
+      "totalRadians": 268.606171881927,
+      "sharpTurns": 335
+    },
+    "after": {
+      "totalRadians": 64.07601867057888,
+      "sharpTurns": 28
+    },
+    "beforeLength": 7463.641553671052,
+    "length": 6949.227143172548,
+    "points": 1867,
+    "unsupportedFootprints": 22
+  },
+  {
+    "id": "downtown-descent",
+    "before": {
+      "totalRadians": 146.86945655532247,
+      "sharpTurns": 180
+    },
+    "after": {
+      "totalRadians": 33.97778205097475,
+      "sharpTurns": 11
+    },
+    "beforeLength": 4849.687875927792,
+    "length": 4569.538956903989,
+    "points": 1214,
+    "unsupportedFootprints": 22
+  },
+  {
+    "id": "last-run",
+    "before": {
+      "totalRadians": 417.83182292744704,
+      "sharpTurns": 513
+    },
+    "after": {
+      "totalRadians": 61.463283818393315,
+      "sharpTurns": 18
+    },
+    "beforeLength": 10975.3168773525,
+    "length": 10333.408604141277,
+    "points": 2745,
+    "unsupportedFootprints": 63
+  }
+]

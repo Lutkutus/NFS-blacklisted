@@ -1,0 +1,20 @@
+{
+  "id": "tuning-garage",
+  "name": "ROSEWOOD TUNING GARAGE",
+  "label": "ROSEWOOD TUNING GARAGE",
+  "kind": "tuning",
+  "district": "Rosewood",
+  "available": true,
+  "x": 1330,
+  "y": 172.36558460247426,
+  "z": -2815,
+  "yaw": -2.356194490192345,
+  "nodeId": 20974,
+  "entryRadius": 6.5,
+  "approach": {
+    "x": 1356,
+    "y": 171.55487062823988,
+    "z": -2814,
+    "yaw": -1.6092389168160848
+  }
+}

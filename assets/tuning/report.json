@@ -1,0 +1,16 @@
+{
+  "source": "garage-nfs-2015.zip",
+  "triangles": 27616,
+  "runtimeBytes": 1006926,
+  "maxTextureSize": 512,
+  "carBayMetres": [
+    2.6,
+    6.3
+  ],
+  "baySource": [
+    -0.35,
+    0.45
+  ],
+  "cityLocation": "assets/tuning/location.json",
+  "bayYawDegrees": 90
+}

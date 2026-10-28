@@ -1,0 +1,296 @@
+[
+  {
+    "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+    "node": "XO_ParkingBooth_1b_00",
+    "center": [
+      1423.12,
+      163.11,
+      -2654.96
+    ],
+    "span": [
+      2.07,
+      2.32,
+      1.87
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+    "node": "XO_ParkingBooth_1b_00.001",
+    "center": [
+      1422.76,
+      163.13,
+      -2645.0
+    ],
+    "span": [
+      2.07,
+      2.33,
+      1.87
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+    "node": "XO_ParkingBooth_1b_00.002",
+    "center": [
+      1842.08,
+      145.04,
+      -2235.17
+    ],
+    "span": [
+      2.68,
+      2.32,
+      2.68
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+    "node": "XO_ParkingBooth_1b_00.003",
+    "center": [
+      1828.82,
+      150.86,
+      -2072.35
+    ],
+    "span": [
+      2.36,
+      2.32,
+      2.48
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-11.zip",
+    "node": "XO_ParkingBooth_1b_00",
+    "center": [
+      1899.99,
+      146.04,
+      -2178.86
+    ],
+    "span": [
+      2.68,
+      2.32,
+      2.68
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-12.zip",
+    "node": "XO_ParkingBooth_1b_00",
+    "center": [
+      4268.55,
+      52.03,
+      -484.78
+    ],
+    "span": [
+      2.63,
+      2.32,
+      2.56
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-12.zip",
+    "node": "XO_ParkingBooth_1b_00.001",
+    "center": [
+      4274.65,
+      51.65,
+      -475.83
+    ],
+    "span": [
+      2.66,
+      2.32,
+      2.6
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-4.zip",
+    "node": "XO_ParkingBooth_1b_00",
+    "center": [
+      1161.51,
+      99.81,
+      31.13
+    ],
+    "span": [
+      2.04,
+      2.32,
+      2.21
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-4.zip",
+    "node": "XO_ParkingBooth_1b_00.001",
+    "center": [
+      1174.76,
+      99.72,
+      31.98
+    ],
+    "span": [
+      1.9,
+      2.32,
+      2.09
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-8.zip",
+    "node": "XO_ParkingBooth_1b_00",
+    "center": [
+      1245.0,
+      188.92,
+      -2873.24
+    ],
+    "span": [
+      2.64,
+      2.32,
+      2.68
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-8.zip",
+    "node": "XO_ParkingBooth_1b_00.001",
+    "center": [
+      1237.14,
+      188.92,
+      -2867.08
+    ],
+    "span": [
+      2.64,
+      2.32,
+      2.68
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-9.zip",
+    "node": "XO_ParkingBooth_1b_00",
+    "center": [
+      291.56,
+      189.05,
+      -3154.53
+    ],
+    "span": [
+      2.44,
+      2.32,
+      2.54
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-9.zip",
+    "node": "XO_ParkingBooth_1b_00.001",
+    "center": [
+      288.71,
+      189.05,
+      -3161.8
+    ],
+    "span": [
+      2.44,
+      2.32,
+      2.54
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-9.zip",
+    "node": "XO_ParkingBooth_1b_00.002",
+    "center": [
+      -209.37,
+      189.25,
+      -3118.09
+    ],
+    "span": [
+      2.52,
+      2.32,
+      2.6
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-9.zip",
+    "node": "XO_ParkingBooth_1b_00.003",
+    "center": [
+      -150.71,
+      189.25,
+      -3134.79
+    ],
+    "span": [
+      2.19,
+      2.4,
+      2.32
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-9.zip",
+    "node": "XO_ParkingBooth_1b_00.004",
+    "center": [
+      -154.26,
+      189.25,
+      -3152.73
+    ],
+    "span": [
+      2.18,
+      2.4,
+      2.32
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-9.zip",
+    "node": "XO_ParkingBooth_1b_00.005",
+    "center": [
+      -217.22,
+      189.25,
+      -3103.42
+    ],
+    "span": [
+      2.52,
+      2.32,
+      2.6
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-9.zip",
+    "node": "XO_ParkingBooth_1b_00.006",
+    "center": [
+      -62.19,
+      189.14,
+      -3155.07
+    ],
+    "span": [
+      1.9,
+      2.32,
+      2.09
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-9.zip",
+    "node": "XO_ParkingBooth_1b_00.007",
+    "center": [
+      161.33,
+      189.14,
+      -3158.53
+    ],
+    "span": [
+      2.24,
+      2.32,
+      2.38
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-9.zip",
+    "node": "XO_ParkingBooth_1b_00.008",
+    "center": [
+      158.41,
+      189.14,
+      -3169.89
+    ],
+    "span": [
+      2.24,
+      2.32,
+      2.38
+    ]
+  },
+  {
+    "part": "nfs-most-wanted-rockport-map-part-9.zip",
+    "node": "XO_ParkingBooth_1b_00.009",
+    "center": [
+      -61.55,
+      189.14,
+      -3166.78
+    ],
+    "span": [
+      1.9,
+      2.32,
+      2.09
+    ]
+  }
+]

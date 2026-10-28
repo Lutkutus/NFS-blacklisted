@@ -1,0 +1,194 @@
+[
+  {
+    "id": "rosewood-return",
+    "name": "ROSEWOOD RETURN",
+    "length": 8060.51633733163,
+    "start": [
+      2400,
+      145.458,
+      -2898
+    ],
+    "finish": [
+      1278,
+      148.336,
+      -2142
+    ],
+    "startingGridSupported": true,
+    "before": {
+      "totalRadians": 381.70350741116323,
+      "sharpTurns": 468
+    },
+    "after": {
+      "totalRadians": 60.069390953893695,
+      "sharpTurns": 22
+    }
+  },
+  {
+    "id": "harbour-reverse",
+    "name": "HARBOUR REVERSE",
+    "length": 6949.227143172559,
+    "start": [
+      1188,
+      122.668,
+      762
+    ],
+    "finish": [
+      2766,
+      85.779,
+      -2430
+    ],
+    "startingGridSupported": true,
+    "before": {
+      "totalRadians": 268.606171881927,
+      "sharpTurns": 335
+    },
+    "after": {
+      "totalRadians": 64.07601867057886,
+      "sharpTurns": 28
+    }
+  },
+  {
+    "id": "downtown-ascent",
+    "name": "DOWNTOWN ASCENT",
+    "length": 4569.538956903991,
+    "start": [
+      1830,
+      107.681,
+      162
+    ],
+    "finish": [
+      1656,
+      179.823,
+      -1716
+    ],
+    "startingGridSupported": true,
+    "before": {
+      "totalRadians": 146.8694565553225,
+      "sharpTurns": 180
+    },
+    "after": {
+      "totalRadians": 33.97778205097479,
+      "sharpTurns": 11
+    }
+  },
+  {
+    "id": "the-long-climb",
+    "name": "THE LONG CLIMB",
+    "length": 10333.408604141272,
+    "start": [
+      1614,
+      114.544,
+      654
+    ],
+    "finish": [
+      1998,
+      239.472,
+      -4380
+    ],
+    "startingGridSupported": true,
+    "before": {
+      "totalRadians": 417.83182292744635,
+      "sharpTurns": 513
+    },
+    "after": {
+      "totalRadians": 61.46328381839324,
+      "sharpTurns": 18
+    }
+  },
+  {
+    "id": "campus-climb",
+    "name": "CAMPUS CLIMB",
+    "length": 3999.9999999999945,
+    "start": [
+      550.4746293755254,
+      159.75020667879335,
+      -2322.5368051023465
+    ],
+    "finish": [
+      1212.7088226582548,
+      214.46513841331264,
+      -4412.606052496809
+    ],
+    "startingGridSupported": true,
+    "before": {
+      "totalRadians": 210.7897375434305,
+      "sharpTurns": 253
+    },
+    "after": {
+      "totalRadians": 27.301244350134898,
+      "sharpTurns": 9
+    }
+  },
+  {
+    "id": "industrial-cut",
+    "name": "INDUSTRIAL CUT",
+    "length": 2999.9999999999955,
+    "start": [
+      2511.6113043748787,
+      110.93869867129173,
+      -1787.5120427438483
+    ],
+    "finish": [
+      2414.311432891374,
+      136.801906399222,
+      -821.0197234113424
+    ],
+    "startingGridSupported": true,
+    "before": {
+      "totalRadians": 128.5526127235123,
+      "sharpTurns": 159
+    },
+    "after": {
+      "totalRadians": 30.671050965187657,
+      "sharpTurns": 14
+    }
+  },
+  {
+    "id": "central-sprint",
+    "name": "CENTRAL SPRINT",
+    "length": 3000.000000000001,
+    "start": [
+      1285.1285305180334,
+      132.47019264641384,
+      -1518.6561234303338
+    ],
+    "finish": [
+      888.8167871463654,
+      113.32928088066552,
+      95.50680746421286
+    ],
+    "startingGridSupported": true,
+    "before": {
+      "totalRadians": 91.94381675692979,
+      "sharpTurns": 109
+    },
+    "after": {
+      "totalRadians": 20.90437676292331,
+      "sharpTurns": 7
+    }
+  },
+  {
+    "id": "cross-city",
+    "name": "CROSS CITY",
+    "length": 4499.999999999998,
+    "start": [
+      -286.6990407121823,
+      204.22754276787163,
+      -3625.7093262896956
+    ],
+    "finish": [
+      1908.6855428339718,
+      115.81945413710754,
+      -964.0268313430033
+    ],
+    "startingGridSupported": true,
+    "before": {
+      "totalRadians": 174.1312996599572,
+      "sharpTurns": 213
+    },
+    "after": {
+      "totalRadians": 33.07625014524678,
+      "sharpTurns": 11
+    }
+  }
+]

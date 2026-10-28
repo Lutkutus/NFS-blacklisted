@@ -1,0 +1,32 @@
+[
+  {
+    "id": "rosewood",
+    "loadout": {
+      "vehicle": "porsche",
+      "stage": 3
+    },
+    "initialGap": 180,
+    "finalGap": 21.651723864065616,
+    "contactFrames": 0
+  },
+  {
+    "id": "gray-point",
+    "loadout": {
+      "vehicle": "porsche",
+      "stage": 3
+    },
+    "initialGap": 182.87700784953805,
+    "finalGap": 21.6533855809866,
+    "contactFrames": 0
+  },
+  {
+    "id": "downtown",
+    "loadout": {
+      "vehicle": "porsche",
+      "stage": 3
+    },
+    "initialGap": 180.89776118017602,
+    "finalGap": 21.968730500990553,
+    "contactFrames": 54
+  }
+]

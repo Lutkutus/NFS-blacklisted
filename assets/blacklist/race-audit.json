@@ -1,0 +1,275 @@
+[
+  {
+    "rank": 15,
+    "name": "SONNY",
+    "vehicle": "golf",
+    "stage": 0,
+    "routeLength": 2600,
+    "simulatedSeconds": 83.2,
+    "finished": true,
+    "distance": 2600,
+    "gatesPassed": 11,
+    "speedKph": 178,
+    "hits": 9,
+    "resets": 0,
+    "airFrames": 0,
+    "box": {
+      "width": 2.03031,
+      "length": 4.216,
+      "height": 1.2559,
+      "bottom": 0.18
+    }
+  },
+  {
+    "rank": 14,
+    "name": "TAZ",
+    "vehicle": "taz",
+    "stage": 1,
+    "routeLength": 2600,
+    "simulatedSeconds": 114.68,
+    "finished": true,
+    "distance": 2600,
+    "gatesPassed": 11,
+    "speedKph": 173,
+    "hits": 1012,
+    "resets": 0,
+    "airFrames": 29,
+    "box": {
+      "width": 1.91155,
+      "length": 4.505,
+      "height": 1.22588,
+      "bottom": 0.18
+    }
+  },
+  {
+    "rank": 13,
+    "name": "VIC",
+    "vehicle": "vic",
+    "stage": 1,
+    "routeLength": 3200,
+    "simulatedSeconds": 120,
+    "finished": false,
+    "distance": 3146,
+    "gatesPassed": 12,
+    "speedKph": 78,
+    "hits": 60,
+    "resets": 0,
+    "airFrames": 0,
+    "box": {
+      "width": 1.91185,
+      "length": 4.52,
+      "height": 1.04148,
+      "bottom": 0.18
+    }
+  },
+  {
+    "rank": 12,
+    "name": "IZZY",
+    "vehicle": "izzy",
+    "stage": 1,
+    "routeLength": 3500,
+    "simulatedSeconds": 120,
+    "finished": false,
+    "distance": 2309,
+    "gatesPassed": 9,
+    "speedKph": -16,
+    "hits": 495,
+    "resets": 0,
+    "airFrames": 33,
+    "box": {
+      "width": 1.95251,
+      "length": 4.435,
+      "height": 1.18264,
+      "bottom": 0.18
+    }
+  },
+  {
+    "rank": 11,
+    "name": "BIG LOU",
+    "vehicle": "big_lou",
+    "stage": 1,
+    "routeLength": 3500,
+    "simulatedSeconds": 120,
+    "finished": false,
+    "distance": 2281,
+    "gatesPassed": 9,
+    "speedKph": 71,
+    "hits": 333,
+    "resets": 0,
+    "airFrames": 0,
+    "box": {
+      "width": 1.97092,
+      "length": 4.565,
+      "height": 1.1651,
+      "bottom": 0.18
+    }
+  },
+  {
+    "rank": 10,
+    "name": "BARON",
+    "vehicle": "baron",
+    "stage": 2,
+    "routeLength": 4500,
+    "simulatedSeconds": 120,
+    "finished": false,
+    "distance": 2923,
+    "gatesPassed": 12,
+    "speedKph": 1,
+    "hits": 2085,
+    "resets": 0,
+    "airFrames": 0,
+    "box": {
+      "width": 1.86527,
+      "length": 4.341,
+      "height": 1.04635,
+      "bottom": 0.18
+    }
+  },
+  {
+    "rank": 9,
+    "name": "EARL",
+    "vehicle": "earl",
+    "stage": 2,
+    "routeLength": 3861,
+    "simulatedSeconds": 120,
+    "finished": false,
+    "distance": 3162,
+    "gatesPassed": 13,
+    "speedKph": 78,
+    "hits": 839,
+    "resets": 0,
+    "airFrames": 31,
+    "box": {
+      "width": 1.89026,
+      "length": 4.49,
+      "height": 1.21478,
+      "bottom": 0.18
+    }
+  },
+  {
+    "rank": 8,
+    "name": "JEWELS",
+    "vehicle": "jewels",
+    "stage": 2,
+    "routeLength": 5000,
+    "simulatedSeconds": 120,
+    "finished": false,
+    "distance": 2345,
+    "gatesPassed": 9,
+    "speedKph": 1,
+    "hits": 1618,
+    "resets": 0,
+    "airFrames": 10,
+    "box": {
+      "width": 2.12356,
+      "length": 4.775,
+      "height": 1.19714,
+      "bottom": 0.18
+    }
+  },
+  {
+    "rank": 7,
+    "name": "KAZE",
+    "vehicle": "kaze",
+    "stage": 2,
+    "routeLength": 4570,
+    "simulatedSeconds": 120,
+    "finished": false,
+    "distance": 2520,
+    "gatesPassed": 10,
+    "speedKph": 112,
+    "hits": 504,
+    "resets": 0,
+    "airFrames": 34,
+    "box": {
+      "width": 1.94319,
+      "length": 4.638,
+      "height": 1.25245,
+      "bottom": 0.18
+    }
+  },
+  {
+    "rank": 6,
+    "name": "MING",
+    "vehicle": "ming",
+    "stage": 3,
+    "routeLength": 6000,
+    "simulatedSeconds": 120,
+    "finished": false,
+    "distance": 3808,
+    "gatesPassed": 15,
+    "speedKph": 82,
+    "hits": 454,
+    "resets": 0,
+    "airFrames": 17,
+    "box": {
+      "width": 2.16812,
+      "length": 4.3,
+      "height": 0.96992,
+      "bottom": 0.18
+    }
+  },
+  {
+    "rank": 5,
+    "name": "WEBSTER",
+    "vehicle": "webster",
+    "stage": 3,
+    "routeLength": 7500,
+    "simulatedSeconds": 120,
+    "finished": false,
+    "distance": 4877,
+    "gatesPassed": 20,
+    "speedKph": 2,
+    "hits": 140,
+    "resets": 0,
+    "airFrames": 24,
+    "box": {
+      "width": 2.06659,
+      "length": 4.435,
+      "height": 1.04463,
+      "bottom": 0.18
+    }
+  },
+  {
+    "rank": 4,
+    "name": "JV",
+    "vehicle": "jv_viper",
+    "stage": 3,
+    "routeLength": 7000,
+    "simulatedSeconds": 120,
+    "finished": false,
+    "distance": 3121,
+    "gatesPassed": 13,
+    "speedKph": 0,
+    "hits": 1248,
+    "resets": 0,
+    "airFrames": 0,
+    "box": {
+      "width": 2.07288,
+      "length": 4.459,
+      "height": 0.99459,
+      "bottom": 0.18
+    }
+  },
+  {
+    "rank": 1,
+    "name": "RAZOR",
+    "vehicle": "m3gtr",
+    "stage": 4,
+    "routeLength": 10333,
+    "simulatedSeconds": 120,
+    "finished": false,
+    "distance": 4043,
+    "gatesPassed": 16,
+    "speedKph": 268,
+    "hits": 592,
+    "resets": 0,
+    "airFrames": 0,
+    "box": {
+      "width": 1.85178,
+      "length": 4.61,
+      "height": 1.1358,
+      "bottom": 0.18
+    }
+  }
+]

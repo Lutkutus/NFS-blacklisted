@@ -1,0 +1,58 @@
+[
+  {
+    "id": "rosewood-return",
+    "length": 8060.51633733163,
+    "startingGridSupported": true,
+    "aiDrivenMetres": 150.25912752004874,
+    "contactFrames": 0
+  },
+  {
+    "id": "harbour-reverse",
+    "length": 6949.227143172559,
+    "startingGridSupported": true,
+    "aiDrivenMetres": 150.00344345873376,
+    "contactFrames": 0
+  },
+  {
+    "id": "downtown-ascent",
+    "length": 4569.538956903991,
+    "startingGridSupported": true,
+    "aiDrivenMetres": 150.04657886931952,
+    "contactFrames": 0
+  },
+  {
+    "id": "the-long-climb",
+    "length": 10333.408604141272,
+    "startingGridSupported": true,
+    "aiDrivenMetres": 150.36909465761025,
+    "contactFrames": 0
+  },
+  {
+    "id": "campus-climb",
+    "length": 3999.9999999999945,
+    "startingGridSupported": true,
+    "aiDrivenMetres": 150.61113134903735,
+    "contactFrames": 0
+  },
+  {
+    "id": "industrial-cut",
+    "length": 2999.9999999999955,
+    "startingGridSupported": true,
+    "aiDrivenMetres": 150.2544130116225,
+    "contactFrames": 0
+  },
+  {
+    "id": "central-sprint",
+    "length": 3000.000000000001,
+    "startingGridSupported": true,
+    "aiDrivenMetres": 150.1186594777851,
+    "contactFrames": 0
+  },
+  {
+    "id": "cross-city",
+    "length": 4499.999999999998,
+    "startingGridSupported": true,
+    "aiDrivenMetres": 150.54085012882155,
+    "contactFrames": 0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "rosewood-ridge",
+    "before": {
+      "length": 8060.516337331622,
+      "turns": {
+        "totalRadians": 60.06939095389376,
+        "sharpTurns": 22
+      }
+    },
+    "after": {
+      "length": 8027.187504940267,
+      "turns": {
+        "totalRadians": 47.91288484616173,
+        "sharpTurns": 16
+      }
+    },
+    "removedDetours": 1,
+    "removedMetres": 33.328832391357594,
+    "repairedPoints": 0
+  },
+  {
+    "id": "harbour-run",
+    "before": {
+      "length": 6949.227143172548,
+      "turns": {
+        "totalRadians": 64.07601867057888,
+        "sharpTurns": 28
+      }
+    },
+    "after": {
+      "length": 6949.227143172548,
+      "turns": {
+        "totalRadians": 64.07601867057888,
+        "sharpTurns": 28
+      }
+    },
+    "removedDetours": 0,
+    "removedMetres": 0,
+    "repairedPoints": 0
+  },
+  {
+    "id": "downtown-descent",
+    "before": {
+      "length": 4569.538956903989,
+      "turns": {
+        "totalRadians": 33.97778205097475,
+        "sharpTurns": 11
+      }
+    },
+    "after": {
+      "length": 4540.893520703227,
+      "turns": {
+        "totalRadians": 27.09507720809158,
+        "sharpTurns": 7
+      }
+    },
+    "removedDetours": 1,
+    "removedMetres": 28.645436200759292,
+    "repairedPoints": 0
+  },
+  {
+    "id": "last-run",
+    "before": {
+      "length": 10333.408604141277,
+      "turns": {
+        "totalRadians": 61.463283818393315,
+        "sharpTurns": 18
+      }
+    },
+    "after": {
+      "length": 10306.36714956212,
+      "turns": {
+        "totalRadians": 60.2193055005443,
+        "sharpTurns": 19
+      }
+    },
+    "removedDetours": 1,
+    "removedMetres": 27.041454579170555,
+    "repairedPoints": 0
+  },
+  {
+    "id": "rosewood-return",
+    "before": {
+      "length": 8060.51633733163,
+      "turns": {
+        "totalRadians": 60.069390953893695,
+        "sharpTurns": 22
+      }
+    },
+    "after": {
+      "length": 8032.714446165736,
+      "turns": {
+        "totalRadians": 50.03862809426732,
+        "sharpTurns": 17
+      }
+    },
+    "removedDetours": 1,
+    "removedMetres": 27.801891165905566,
+    "repairedPoints": 0
+  },
+  {
+    "id": "harbour-reverse",
+    "before": {
+      "length": 6949.227143172559,
+      "turns": {
+        "totalRadians": 64.07601867057886,
+        "sharpTurns": 28
+      }
+    },
+    "after": {
+      "length": 6949.227143172559,
+      "turns": {
+        "totalRadians": 64.07601867057886,
+        "sharpTurns": 28
+      }
+    },
+    "removedDetours": 0,
+    "removedMetres": 0,
+    "repairedPoints": 0
+  },
+  {
+    "id": "downtown-ascent",
+    "before": {
+      "length": 4569.538956903991,
+      "turns": {
+        "totalRadians": 33.97778205097479,
+        "sharpTurns": 11
+      }
+    },
+    "after": {
+      "length": 4541.706793349172,
+      "turns": {
+        "totalRadians": 28.105669823218648,
+        "sharpTurns": 9
+      }
+    },
+    "removedDetours": 1,
+    "removedMetres": 27.8321635548196,
+    "repairedPoints": 0
+  },
+  {
+    "id": "the-long-climb",
+    "before": {
+      "length": 10333.408604141272,
+      "turns": {
+        "totalRadians": 61.46328381839324,
+        "sharpTurns": 18
+      }
+    },
+    "after": {
+      "length": 10306.367149562104,
+      "turns": {
+        "totalRadians": 60.21930550054427,
+        "sharpTurns": 19
+      }
+    },
+    "removedDetours": 1,
+    "removedMetres": 27.0414545791701,
+    "repairedPoints": 0
+  },
+  {
+    "id": "campus-climb",
+    "before": {
+      "length": 3999.9999999999945,
+      "turns": {
+        "totalRadians": 27.301244350134898,
+        "sharpTurns": 9
+      }
+    },
+    "after": {
+      "length": 3966.671167608638,
+      "turns": {
+        "totalRadians": 15.14473824240287,
+        "sharpTurns": 3
+      }
+    },
+    "removedDetours": 1,
+    "removedMetres": 33.328832391357594,
+    "repairedPoints": 0
+  },
+  {
+    "id": "industrial-cut",
+    "before": {
+      "length": 2999.9999999999955,
+      "turns": {
+        "totalRadians": 30.671050965187657,
+        "sharpTurns": 14
+      }
+    },
+    "after": {
+      "length": 2999.9999999999955,
+      "turns": {
+        "totalRadians": 30.671050965187657,
+        "sharpTurns": 14
+      }
+    },
+    "removedDetours": 0,
+    "removedMetres": 0,
+    "repairedPoints": 0
+  },
+  {
+    "id": "central-sprint",
+    "before": {
+      "length": 3000.000000000001,
+      "turns": {
+        "totalRadians": 20.90437676292331,
+        "sharpTurns": 7
+      }
+    },
+    "after": {
+      "length": 3000.000000000001,
+      "turns": {
+        "totalRadians": 20.90437676292331,
+        "sharpTurns": 7
+      }
+    },
+    "removedDetours": 0,
+    "removedMetres": 0,
+    "repairedPoints": 0
+  },
+  {
+    "id": "cross-city",
+    "before": {
+      "length": 4499.999999999998,
+      "turns": {
+        "totalRadians": 33.07625014524678,
+        "sharpTurns": 11
+      }
+    },
+    "after": {
+      "length": 4472.958545420842,
+      "turns": {
+        "totalRadians": 31.832271827397786,
+        "sharpTurns": 12
+      }
+    },
+    "removedDetours": 1,
+    "removedMetres": 27.041454579170555,
+    "repairedPoints": 0
+  }
+]

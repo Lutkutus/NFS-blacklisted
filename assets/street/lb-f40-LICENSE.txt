@@ -1,0 +1,11 @@
+Model Information:
+* title:	LB-WORKS Ferrari F40 -  FREE
+* source:	https://sketchfab.com/3d-models/lb-works-ferrari-f40-free-44e64fd0ed6d45188512e8ab08c89272
+* author:	bohmerang (https://sketchfab.com/bohmerang)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LB-WORKS Ferrari F40 -  FREE" (https://sketchfab.com/3d-models/lb-works-ferrari-f40-free-44e64fd0ed6d45188512e8ab08c89272) by bohmerang (https://sketchfab.com/bohmerang) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -1,0 +1,98 @@
+[
+  {
+    "collider": {
+      "width": 1.77574,
+      "length": 4.25,
+      "height": 1.08738,
+      "bottom": 0.18
+    },
+    "simulatedSeconds": 120,
+    "route": "ROSEWOOD RIDGE",
+    "progress": 1512,
+    "speed": 32,
+    "hits": 0,
+    "airFrames": 0,
+    "maxAirSeconds": 0,
+    "maxDrop": 0,
+    "partialContactFrames": 0,
+    "resetRequests": 0,
+    "position": [
+      157.96042510583686,
+      180.7361655944334,
+      -2788.091066741977
+    ],
+    "seconds": 3.095
+  },
+  {
+    "collider": {
+      "width": 1.77574,
+      "length": 4.25,
+      "height": 1.08738,
+      "bottom": 0.18
+    },
+    "simulatedSeconds": 120,
+    "route": "HARBOUR RUN",
+    "progress": 1637,
+    "speed": 34,
+    "hits": 0,
+    "airFrames": 0,
+    "maxAirSeconds": 0,
+    "maxDrop": 0,
+    "partialContactFrames": 0,
+    "resetRequests": 0,
+    "position": [
+      2289.7382008203876,
+      145.93422195298268,
+      -1310.3932788612162
+    ],
+    "seconds": 3.167
+  },
+  {
+    "collider": {
+      "width": 1.77574,
+      "length": 4.25,
+      "height": 1.08738,
+      "bottom": 0.18
+    },
+    "simulatedSeconds": 120,
+    "route": "DOWNTOWN DESCENT",
+    "progress": 1993,
+    "speed": 92,
+    "hits": 0,
+    "airFrames": 0,
+    "maxAirSeconds": 0,
+    "maxDrop": 0,
+    "partialContactFrames": 0,
+    "resetRequests": 0,
+    "position": [
+      1023.8908706229527,
+      115.03889562418316,
+      -629.9897763632324
+    ],
+    "seconds": 2.994
+  },
+  {
+    "collider": {
+      "width": 1.77574,
+      "length": 4.25,
+      "height": 1.08738,
+      "bottom": 0.18
+    },
+    "simulatedSeconds": 120,
+    "route": "THE LAST RUN",
+    "progress": 1455,
+    "speed": 67,
+    "hits": 58,
+    "airFrames": 0,
+    "maxAirSeconds": 0,
+    "maxDrop": 0.05536353910093794,
+    "partialContactFrames": 0,
+    "resetRequests": 0,
+    "position": [
+      694.0715628678089,
+      214.90351162842052,
+      -4536.113172188084
+    ],
+    "seconds": 4.515
+  }
+]

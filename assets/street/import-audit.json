@@ -1,0 +1,444 @@
+[
+  {
+    "id": "rotary",
+    "source": "C:\\Users\\tiiov\\Downloads\\1999-mazdaspeed-rx-7-fd3s-a-spec-gt-concept.zip",
+    "sourceZipBytes": 1360656,
+    "sourceTriangles": 19377,
+    "triangles": 13670,
+    "gridMetres": 0.015600000000000001,
+    "parts": 27,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.74864,
+          0.32093,
+          1.35029
+        ],
+        "radius": 0.32093
+      },
+      "rf": {
+        "center": [
+          0.74864,
+          0.32093,
+          1.35029
+        ],
+        "radius": 0.32093
+      },
+      "lr": {
+        "center": [
+          -0.74864,
+          0.32093,
+          -1.1382
+        ],
+        "radius": 0.32093
+      },
+      "rr": {
+        "center": [
+          0.74864,
+          0.32093,
+          -1.1382
+        ],
+        "radius": 0.32093
+      }
+    },
+    "scale": 0.010290860259334724,
+    "dimensions": [
+      1.9319329874701434,
+      1.2467689026859634,
+      4.385
+    ]
+  },
+  {
+    "id": "datsun",
+    "source": "C:\\Users\\tiiov\\Downloads\\nissan-fairlady-zdatsun-280z.zip",
+    "sourceZipBytes": 4671745,
+    "sourceTriangles": 29428,
+    "triangles": 13661,
+    "gridMetres": 0.026364000000000005,
+    "parts": 14,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.68859,
+          0.34954,
+          1.21582
+        ],
+        "radius": 0.34915
+      },
+      "rf": {
+        "center": [
+          0.68103,
+          0.34916,
+          1.21583
+        ],
+        "radius": 0.34915
+      },
+      "lr": {
+        "center": [
+          -0.68859,
+          0.34915,
+          -1.12366
+        ],
+        "radius": 0.34915
+      },
+      "rr": {
+        "center": [
+          0.68102,
+          0.34916,
+          -1.12366
+        ],
+        "radius": 0.34915
+      }
+    },
+    "scale": 0.010045413685880342,
+    "dimensions": [
+      1.6700144047432723,
+      1.285335109650693,
+      4.42
+    ]
+  },
+  {
+    "id": "supra",
+    "source": "C:\\Users\\tiiov\\Downloads\\1998-toyota-supra.zip",
+    "sourceZipBytes": 12398442,
+    "sourceTriangles": 208492,
+    "triangles": 11605,
+    "gridMetres": 0.09788768652000004,
+    "parts": 22,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.74342,
+          0.31394,
+          1.32047
+        ],
+        "radius": 0.31394
+      },
+      "rf": {
+        "center": [
+          0.74683,
+          0.31394,
+          1.32047
+        ],
+        "radius": 0.31394
+      },
+      "lr": {
+        "center": [
+          -0.74342,
+          0.31394,
+          -1.23759
+        ],
+        "radius": 0.31394
+      },
+      "rr": {
+        "center": [
+          0.74683,
+          0.31394,
+          -1.23759
+        ],
+        "radius": 0.31394
+      }
+    },
+    "scale": 0.012481157429420481,
+    "dimensions": [
+      1.9695835646944182,
+      1.2657528961335511,
+      4.52
+    ]
+  },
+  {
+    "id": "carrera_gt",
+    "source": "C:\\Users\\tiiov\\Downloads\\porsche-carrera-gt.zip",
+    "sourceZipBytes": 5534503,
+    "sourceTriangles": 30924,
+    "triangles": 13934,
+    "gridMetres": 0.03427320000000001,
+    "parts": 13,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.78132,
+          0.35084,
+          1.28511
+        ],
+        "radius": 0.34903
+      },
+      "rf": {
+        "center": [
+          0.77966,
+          0.3491,
+          1.28607
+        ],
+        "radius": 0.34852
+      },
+      "lr": {
+        "center": [
+          -0.77478,
+          0.34903,
+          -1.44015
+        ],
+        "radius": 0.34903
+      },
+      "rr": {
+        "center": [
+          0.77586,
+          0.34917,
+          -1.43922
+        ],
+        "radius": 0.34903
+      }
+    },
+    "scale": 0.010020566524101823,
+    "dimensions": [
+      1.9915563671130296,
+      1.1822893223005466,
+      4.613
+    ]
+  },
+  {
+    "id": "road_runner",
+    "source": "C:\\Users\\tiiov\\Downloads\\1971-plymouth-road-runner-gran-turismo-2.zip",
+    "sourceZipBytes": 695555,
+    "sourceTriangles": 688,
+    "triangles": 684,
+    "gridMetres": 0.012,
+    "parts": 19,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.73172,
+          0.32601,
+          1.59786
+        ],
+        "radius": 0.32601
+      },
+      "rf": {
+        "center": [
+          0.75308,
+          0.33343,
+          1.59174
+        ],
+        "radius": 0.32601
+      },
+      "lr": {
+        "center": [
+          -0.78383,
+          0.33329,
+          -1.33074
+        ],
+        "radius": 0.32601
+      },
+      "rr": {
+        "center": [
+          0.74104,
+          0.34018,
+          -1.33717
+        ],
+        "radius": 0.32601
+      }
+    },
+    "scale": 0.12809533271597687,
+    "dimensions": [
+      1.8982627425366065,
+      1.2917129078816152,
+      5.160000000000001
+    ]
+  },
+  {
+    "id": "m5_e39",
+    "source": "C:\\Users\\tiiov\\Downloads\\bmw-m5-e39-gt2psx-style.zip",
+    "sourceZipBytes": 115432,
+    "sourceTriangles": 650,
+    "triangles": 650,
+    "gridMetres": 0.012,
+    "parts": 9,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.74214,
+          0.31005,
+          1.54789
+        ],
+        "radius": 0.31005
+      },
+      "rf": {
+        "center": [
+          0.7624,
+          0.31005,
+          1.54789
+        ],
+        "radius": 0.31005
+      },
+      "lr": {
+        "center": [
+          -0.73177,
+          0.31005,
+          -1.25634
+        ],
+        "radius": 0.31005
+      },
+      "rr": {
+        "center": [
+          0.75921,
+          0.31005,
+          -1.25637
+        ],
+        "radius": 0.31005
+      }
+    },
+    "scale": 0.010030247081527555,
+    "dimensions": [
+      1.9505936151137513,
+      1.384059157568137,
+      4.784
+    ]
+  },
+  {
+    "id": "tiburon",
+    "source": "C:\\Users\\tiiov\\Downloads\\hyundai-tiburon-v6-coupe-2003-modlandnet.zip",
+    "sourceZipBytes": 14297061,
+    "sourceTriangles": 82310,
+    "triangles": 12305,
+    "gridMetres": 0.07529822040000003,
+    "parts": 49,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.76781,
+          0.2799,
+          1.22484
+        ],
+        "radius": 0.27659
+      },
+      "rf": {
+        "center": [
+          0.75944,
+          0.28566,
+          1.22311
+        ],
+        "radius": 0.27651
+      },
+      "lr": {
+        "center": [
+          -0.77468,
+          0.27669,
+          -1.3067
+        ],
+        "radius": 0.27669
+      },
+      "rr": {
+        "center": [
+          0.77473,
+          0.28495,
+          -1.30913
+        ],
+        "radius": 0.27651
+      }
+    },
+    "scale": 0.9773295124418877,
+    "dimensions": [
+      1.9600490934819994,
+      1.2934277228552635,
+      4.395
+    ]
+  },
+  {
+    "id": "resonanso",
+    "source": "C:\\Users\\tiiov\\.codex\\attachments\\7c1e5515-7235-4f64-9848-20997f375e7b\\lb-works-ferrari-f40.zip",
+    "sourceZipBytes": 25445971,
+    "sourceTriangles": 704497,
+    "triangles": 13246,
+    "gridMetres": 0.09788768652000004,
+    "parts": 40,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.74731,
+          0.31154,
+          1.08925
+        ],
+        "radius": 0.30848
+      },
+      "rf": {
+        "center": [
+          0.75099,
+          0.31154,
+          1.08925
+        ],
+        "radius": 0.30848
+      },
+      "lr": {
+        "center": [
+          -0.85309,
+          0.318,
+          -1.32957
+        ],
+        "radius": 0.318
+      },
+      "rr": {
+        "center": [
+          0.85677,
+          0.318,
+          -1.32956
+        ],
+        "radius": 0.318
+      }
+    },
+    "scale": 0.9810783072850912,
+    "dimensions": [
+      2.0870380825589976,
+      1.100979568514505,
+      4.43
+    ]
+  },
+  {
+    "id": "testarossa",
+    "source": "1986-ferrari-512-testarossa-miami-vice-edition.zip",
+    "sourceZipBytes": 59579642,
+    "sourceTriangles": 262854,
+    "bakedTriangles": 11114,
+    "triangles": 9846,
+    "gridMetres": 0.012,
+    "parts": 29,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.77433,
+          0.32635,
+          1.13813
+        ],
+        "radius": 0.32219
+      },
+      "rf": {
+        "center": [
+          0.77336,
+          0.31444,
+          1.13389
+        ],
+        "radius": 0.31444
+      },
+      "lr": {
+        "center": [
+          -0.8398,
+          0.33589,
+          -1.4202
+        ],
+        "radius": 0.33198
+      },
+      "rr": {
+        "center": [
+          0.83909,
+          0.34791,
+          -1.42136
+        ],
+        "radius": 0.34058
+      }
+    },
+    "scale": 1.0005727667001005,
+    "dimensions": [
+      1.9794357634892137,
+      1.16130556934778,
+      4.485000000000001
+    ]
+  }
+]

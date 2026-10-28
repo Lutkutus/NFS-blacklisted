@@ -1,0 +1,22 @@
+[
+  {
+    "rank": 11,
+    "name": "BIG LOU",
+    "vehicle": "big_lou",
+    "stage": 1,
+    "routeLength": 3500,
+    "simulatedSeconds": 360,
+    "distance": 3500,
+    "gatesPassed": 15,
+    "speedKph": 0,
+    "hits": 0,
+    "resets": 0,
+    "airFrames": 0,
+    "box": {
+      "width": 1.97092,
+      "length": 4.565,
+      "height": 1.1651,
+      "bottom": 0.18
+    }
+  }
+]

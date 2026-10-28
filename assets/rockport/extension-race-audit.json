@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rosewood-ridge",
+    "checked": 394,
+    "alreadyUnsupported": 10,
+    "regressions": []
+  },
+  {
+    "id": "harbour-run",
+    "checked": 343,
+    "alreadyUnsupported": 5,
+    "regressions": []
+  },
+  {
+    "id": "downtown-descent",
+    "checked": 226,
+    "alreadyUnsupported": 3,
+    "regressions": []
+  },
+  {
+    "id": "last-run",
+    "checked": 506,
+    "alreadyUnsupported": 11,
+    "regressions": []
+  }
+]

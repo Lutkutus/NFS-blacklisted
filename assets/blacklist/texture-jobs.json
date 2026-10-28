@@ -1,0 +1,262 @@
+[
+  {
+    "source": "assets\\blacklist-source\\golf\\textures\\Material_Base_color.png",
+    "target": "golf-0.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\Material.001_albedo.jpg",
+    "target": "taz-0.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\Material.008_albedo.jpg",
+    "target": "taz-1.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\INTERIOR_INTERIOR.001_albedo.jpg",
+    "target": "taz-2.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\BRAKELIGHT_BRAKELIGHT_LEFT.001_albedo.jpg",
+    "target": "taz-3.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\CHROME_BRAKELIGHT_LEFT.001_albedo.jpg",
+    "target": "taz-4.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\MOLDINGS_BRAKELIGHT_LEFT.001_albedo.jpg",
+    "target": "taz-5.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\CHROME_HEADLIGHT_LEFT.001_albedo.jpg",
+    "target": "taz-6.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\HEADLIGHTREFLECTOR_HEADLIGHT_LEFT.001_albedo.jpg",
+    "target": "taz-7.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\DULLPLASTIC_HEADLIGHT_LEFT.001_albedo.jpg",
+    "target": "taz-8.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\WINDSHIELD_REAR_DEFROSTER.001_albedo.jpg",
+    "target": "taz-9.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\WINDOWMASK_WINDOW_MASK.001_albedo.jpg",
+    "target": "taz-10.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\BRAKELIGHT_BRAKELIGHT_RIGHT.001_albedo.jpg",
+    "target": "taz-11.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\CHROME_BRAKELIGHT_RIGHT.001_albedo.jpg",
+    "target": "taz-12.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\MOLDINGS_BRAKELIGHT_RIGHT.001_albedo.jpg",
+    "target": "taz-13.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\CARSKIN_SKIN1.001_albedo.jpg",
+    "target": "taz-14.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\MOLDINGS_MISC.001_albedo.jpg",
+    "target": "taz-15.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\CHROME_MISC.001_albedo.jpg",
+    "target": "taz-16.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\Material.005_albedo.jpg",
+    "target": "taz-17.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\Material.006_albedo.jpg",
+    "target": "taz-18.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\Material.003_albedo.jpg",
+    "target": "taz-19.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\Material.007_albedo.jpg",
+    "target": "taz-20.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\Material.009_albedo.jpg",
+    "target": "taz-21.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\Material.010_albedo.jpg",
+    "target": "taz-22.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\taz\\source\\unpacked\\model\\textures\\Material.011_albedo.jpg",
+    "target": "taz-23.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\vic\\textures\\carroceria_Base_color.png",
+    "target": "vic-0.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\vic\\textures\\retrovisores_Base_color.png",
+    "target": "vic-1.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\vic\\textures\\llantas_Base_color.png",
+    "target": "vic-2.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\vic\\textures\\rines_Base_color.png",
+    "target": "vic-3.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\izzy\\textures\\carriceria_Base_color.png",
+    "target": "izzy-0.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\big_lou\\textures\\CARROCERIA_Base_color.png",
+    "target": "big_lou-0.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\baron\\textures\\carroceria_Base_color.png",
+    "target": "baron-0.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\earl\\textures\\CARROCERIA.001_Base_color.png",
+    "target": "earl-0.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\earl\\textures\\LLANTA_Base_color.png",
+    "target": "earl-1.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\razor\\textures\\carroceria_Base_color.png",
+    "target": "razor-0.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\jewels\\textures\\carroceria_basecolor.png",
+    "target": "jewels-0.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\kaze\\textures\\carroceria_Base_color.png",
+    "target": "kaze-0.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\kaze\\textures\\llantas_Base_color.png",
+    "target": "kaze-1.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\ming\\textures\\GALLARDO_MISC.jpg",
+    "target": "ming-0.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\ming\\textures\\R_(1).png",
+    "target": "ming-1.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\ming\\textures\\GALLARDO_KIT00_HEADLIGHT_ON.jpg",
+    "target": "ming-2.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\ming\\textures\\GALLARDO_INTERIOR1.png",
+    "target": "ming-3.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\ming\\textures\\LLANTA_Base_color.png",
+    "target": "ming-4.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\ming\\textures\\CARROCERIA_Base_color1.png",
+    "target": "ming-5.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\ming\\textures\\lamborghini_letra.png",
+    "target": "ming-6.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\webster\\textures\\carroceria_Base_color.png",
+    "target": "webster-0.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\webster\\textures\\CORVETTE_KIT00_BRAKELIGHT_OFF.jpg",
+    "target": "webster-1.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\webster\\textures\\INTERIOR.png",
+    "target": "webster-2.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\webster\\textures\\R.png",
+    "target": "webster-3.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\webster\\textures\\CORVETTE_KIT00_BRAKELIGHT_OFF.jpg",
+    "target": "webster-4.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\webster\\textures\\corvette.png",
+    "target": "webster-5.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\webster\\textures\\llantas_Base_color.png",
+    "target": "webster-6.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\jv_viper\\textures\\VIPER_KIT00_HEADLIGHT_ON.jpg",
+    "target": "jv_viper-0.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\jv_viper\\textures\\CARROCERIA_Base_color.png",
+    "target": "jv_viper-1.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\m3gtr\\textures\\misc2.png",
+    "target": "m3gtr-0.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\m3gtr\\textures\\BMWM3GTRE46_KIT00_HEADLIGHT_ON.jpg",
+    "target": "m3gtr-1.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\m3gtr\\textures\\misc2.png",
+    "target": "m3gtr-2.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\m3gtr\\textures\\misc2.png",
+    "target": "m3gtr-3.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\m3gtr\\textures\\interior_2.png",
+    "target": "m3gtr-4.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\m3gtr\\textures\\BMWM3GTRE46_KIT00_HEADLIGHT_ON.jpg",
+    "target": "m3gtr-5.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\m3gtr\\textures\\misc2.png",
+    "target": "m3gtr-6.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\m3gtr\\textures\\BMWM3GTRE46_KIT00_BRAKELIGHT_OFF.jpg",
+    "target": "m3gtr-7.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\m3gtr\\textures\\misc2.png",
+    "target": "m3gtr-8.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\m3gtr\\textures\\Material.016_Base_color.png",
+    "target": "m3gtr-9.png"
+  },
+  {
+    "source": "assets\\blacklist-source\\m3gtr\\textures\\Material.016_Base_color.png",
+    "target": "m3gtr-10.png"
+  }
+]

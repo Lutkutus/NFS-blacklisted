@@ -1,0 +1,688 @@
+[
+  {
+    "id": "golf",
+    "source": "C:\\Users\\tiiov\\Downloads\\nfs-mw-sonny-golf-gti.zip",
+    "sourceZipBytes": 3684312,
+    "sourceTriangles": 85272,
+    "triangles": 11096,
+    "gridMetres": 0.05792170800000002,
+    "parts": 46,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.79881,
+          0.31318,
+          1.21308
+        ],
+        "radius": 0.31318
+      },
+      "rf": {
+        "center": [
+          0.79881,
+          0.31318,
+          1.21308
+        ],
+        "radius": 0.31318
+      },
+      "lr": {
+        "center": [
+          -0.79881,
+          0.31318,
+          -1.37539
+        ],
+        "radius": 0.31318
+      },
+      "rr": {
+        "center": [
+          0.79881,
+          0.31318,
+          -1.37539
+        ],
+        "radius": 0.31318
+      }
+    },
+    "scale": 0.003933171078751202,
+    "dimensions": [
+      2.0315848733984625,
+      1.4358972223423032,
+      4.215999999999999
+    ]
+  },
+  {
+    "id": "taz",
+    "source": "C:\\Users\\tiiov\\Downloads\\taz-lexus-is300-nfsmw.zip",
+    "sourceZipBytes": 31964439,
+    "sourceTriangles": 25233,
+    "triangles": 13364,
+    "gridMetres": 0.026364000000000005,
+    "parts": 30,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.79504,
+          0.32923,
+          1.47542
+        ],
+        "radius": 0.32923
+      },
+      "rf": {
+        "center": [
+          0.79504,
+          0.32923,
+          1.47542
+        ],
+        "radius": 0.32923
+      },
+      "lr": {
+        "center": [
+          -0.79504,
+          0.32923,
+          -1.25658
+        ],
+        "radius": 0.32923
+      },
+      "rr": {
+        "center": [
+          0.79504,
+          0.32923,
+          -1.25658
+        ],
+        "radius": 0.32923
+      }
+    },
+    "scale": 0.009921409692449925,
+    "dimensions": [
+      1.9161158657229165,
+      1.632905256275685,
+      4.505
+    ]
+  },
+  {
+    "id": "vic",
+    "source": "C:\\Users\\tiiov\\Downloads\\vic-supra-nfsmw.zip",
+    "sourceZipBytes": 3034085,
+    "sourceTriangles": 21776,
+    "triangles": 13186,
+    "gridMetres": 0.026364000000000005,
+    "parts": 23,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.83888,
+          0.30991,
+          1.27812
+        ],
+        "radius": 0.30991
+      },
+      "rf": {
+        "center": [
+          0.83888,
+          0.30991,
+          1.27812
+        ],
+        "radius": 0.30991
+      },
+      "lr": {
+        "center": [
+          -0.83888,
+          0.30991,
+          -1.23297
+        ],
+        "radius": 0.30991
+      },
+      "rr": {
+        "center": [
+          0.83888,
+          0.30991,
+          -1.23297
+        ],
+        "radius": 0.30991
+      }
+    },
+    "scale": 0.009768191991013237,
+    "dimensions": [
+      1.9229653776925366,
+      1.2214761653526351,
+      4.52
+    ]
+  },
+  {
+    "id": "izzy",
+    "source": "C:\\Users\\tiiov\\Downloads\\izzy-mazda-rx-8-nfsmw.zip",
+    "sourceZipBytes": 3854948,
+    "sourceTriangles": 80031,
+    "triangles": 12204,
+    "gridMetres": 0.04455516000000002,
+    "parts": 55,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.86371,
+          0.35993,
+          1.33349
+        ],
+        "radius": 0.35993
+      },
+      "rf": {
+        "center": [
+          0.86371,
+          0.35993,
+          1.33349
+        ],
+        "radius": 0.35993
+      },
+      "lr": {
+        "center": [
+          -0.86371,
+          0.35993,
+          -1.321
+        ],
+        "radius": 0.35993
+      },
+      "rr": {
+        "center": [
+          0.86371,
+          0.35993,
+          -1.321
+        ],
+        "radius": 0.35993
+      }
+    },
+    "scale": 0.009925369475115676,
+    "dimensions": [
+      1.9874346081684806,
+      1.3626428765604772,
+      4.435
+    ]
+  },
+  {
+    "id": "big_lou",
+    "source": "C:\\Users\\tiiov\\Downloads\\big-lou-eclipse-gt-nfsmw.zip",
+    "sourceZipBytes": 1860090,
+    "sourceTriangles": 40026,
+    "triangles": 12866,
+    "gridMetres": 0.03427320000000001,
+    "parts": 31,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.84368,
+          0.33725,
+          1.24712
+        ],
+        "radius": 0.33725
+      },
+      "rf": {
+        "center": [
+          0.84368,
+          0.33725,
+          1.24712
+        ],
+        "radius": 0.33725
+      },
+      "lr": {
+        "center": [
+          -0.84368,
+          0.33725,
+          -1.24523
+        ],
+        "radius": 0.33725
+      },
+      "rr": {
+        "center": [
+          0.84368,
+          0.33725,
+          -1.24523
+        ],
+        "radius": 0.33725
+      }
+    },
+    "scale": 0.009629417751088576,
+    "dimensions": [
+      1.9744615207412712,
+      1.3451040794881277,
+      4.565
+    ]
+  },
+  {
+    "id": "baron",
+    "source": "C:\\Users\\tiiov\\Downloads\\baron-s-porsche-cayman-nfsmw.zip",
+    "sourceZipBytes": 3178328,
+    "sourceTriangles": 61581,
+    "triangles": 12512,
+    "gridMetres": 0.04455516000000002,
+    "parts": 46,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.75515,
+          0.32211,
+          1.14067
+        ],
+        "radius": 0.32211
+      },
+      "rf": {
+        "center": [
+          0.75515,
+          0.32211,
+          1.14067
+        ],
+        "radius": 0.32211
+      },
+      "lr": {
+        "center": [
+          -0.79737,
+          0.32211,
+          -1.19814
+        ],
+        "radius": 0.32211
+      },
+      "rr": {
+        "center": [
+          0.79737,
+          0.32211,
+          -1.19814
+        ],
+        "radius": 0.32211
+      }
+    },
+    "scale": 0.00964307719364202,
+    "dimensions": [
+      1.887391167851511,
+      1.2263504256809292,
+      4.341
+    ]
+  },
+  {
+    "id": "earl",
+    "source": "C:\\Users\\tiiov\\Downloads\\lancer-evp-xiii-nfsmw.zip",
+    "sourceZipBytes": 3958323,
+    "sourceTriangles": 58005,
+    "triangles": 13767,
+    "gridMetres": 0.03427320000000001,
+    "parts": 47,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.79942,
+          0.31116,
+          1.26253
+        ],
+        "radius": 0.31116
+      },
+      "rf": {
+        "center": [
+          0.79768,
+          0.31116,
+          1.26253
+        ],
+        "radius": 0.31116
+      },
+      "lr": {
+        "center": [
+          -0.79942,
+          0.31116,
+          -1.2661
+        ],
+        "radius": 0.31116
+      },
+      "rr": {
+        "center": [
+          0.79768,
+          0.31116,
+          -1.2661
+        ],
+        "radius": 0.31116
+      }
+    },
+    "scale": 0.009724919898249073,
+    "dimensions": [
+      1.8914774949653737,
+      1.3947819393669798,
+      4.49
+    ]
+  },
+  {
+    "id": "razor",
+    "source": "C:\\Users\\tiiov\\Downloads\\razor-s-mustang.zip",
+    "sourceZipBytes": 1962613,
+    "sourceTriangles": 43446,
+    "triangles": 13363,
+    "gridMetres": 0.03427320000000001,
+    "parts": 28,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.8665,
+          0.35371,
+          1.38515
+        ],
+        "radius": 0.35371
+      },
+      "rf": {
+        "center": [
+          0.8665,
+          0.35371,
+          1.38515
+        ],
+        "radius": 0.35371
+      },
+      "lr": {
+        "center": [
+          -0.8665,
+          0.35371,
+          -1.2866
+        ],
+        "radius": 0.35371
+      },
+      "rr": {
+        "center": [
+          0.8665,
+          0.35371,
+          -1.2866
+        ],
+        "radius": 0.35371
+      }
+    },
+    "scale": 0.009876106399348165,
+    "dimensions": [
+      1.9961168905380764,
+      1.3868665103004132,
+      4.775
+    ]
+  },
+  {
+    "id": "jewels",
+    "source": "C:\\Users\\tiiov\\Downloads\\jewels-mustang-gt-nfsmw.zip",
+    "sourceZipBytes": 2059861,
+    "sourceTriangles": 37495,
+    "triangles": 12211,
+    "gridMetres": 0.03427320000000001,
+    "parts": 47,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.8923,
+          0.35132,
+          1.44155
+        ],
+        "radius": 0.35132
+      },
+      "rf": {
+        "center": [
+          0.8923,
+          0.35132,
+          1.44155
+        ],
+        "radius": 0.35132
+      },
+      "lr": {
+        "center": [
+          -0.93485,
+          0.35132,
+          -1.29159
+        ],
+        "radius": 0.35132
+      },
+      "rr": {
+        "center": [
+          0.93485,
+          0.35132,
+          -1.29159
+        ],
+        "radius": 0.35132
+      }
+    },
+    "scale": 0.010034807889056838,
+    "dimensions": [
+      2.1742388402667117,
+      1.377139128478319,
+      4.775
+    ]
+  },
+  {
+    "id": "kaze",
+    "source": "C:\\Users\\tiiov\\Downloads\\kaze-s-clk-500-nfsmw.zip",
+    "sourceZipBytes": 16286595,
+    "sourceTriangles": 66090,
+    "triangles": 12490,
+    "gridMetres": 0.05792170800000002,
+    "parts": 47,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.85018,
+          0.35153,
+          1.4798
+        ],
+        "radius": 0.35153
+      },
+      "rf": {
+        "center": [
+          0.84494,
+          0.35153,
+          1.4798
+        ],
+        "radius": 0.35153
+      },
+      "lr": {
+        "center": [
+          -0.85018,
+          0.35153,
+          -1.204
+        ],
+        "radius": 0.35153
+      },
+      "rr": {
+        "center": [
+          0.84494,
+          0.35153,
+          -1.204
+        ],
+        "radius": 0.35153
+      }
+    },
+    "scale": 0.009861850560772099,
+    "dimensions": [
+      1.965348343938599,
+      1.432451898811087,
+      4.638
+    ]
+  },
+  {
+    "id": "ming",
+    "source": "C:\\Users\\tiiov\\Downloads\\lamborghini-gallardo-nfsmw.zip",
+    "sourceZipBytes": 23185442,
+    "sourceTriangles": 60778,
+    "triangles": 13717,
+    "gridMetres": 0.04455516000000002,
+    "parts": 44,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.79268,
+          0.32015,
+          1.15223
+        ],
+        "radius": 0.32015
+      },
+      "rf": {
+        "center": [
+          0.84702,
+          0.32015,
+          1.15223
+        ],
+        "radius": 0.32015
+      },
+      "lr": {
+        "center": [
+          -0.81601,
+          0.33026,
+          -1.40664
+        ],
+        "radius": 0.32774
+      },
+      "rr": {
+        "center": [
+          0.84702,
+          0.33026,
+          -1.40664
+        ],
+        "radius": 0.32774
+      }
+    },
+    "scale": 0.010005957080021013,
+    "dimensions": [
+      2.178663569777104,
+      1.1499225675380669,
+      4.3
+    ]
+  },
+  {
+    "id": "webster",
+    "source": "C:\\Users\\tiiov\\Downloads\\webster-corvette-nfsmw.zip",
+    "sourceZipBytes": 21062953,
+    "sourceTriangles": 55321,
+    "triangles": 12773,
+    "gridMetres": 0.04455516000000002,
+    "parts": 48,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.8283,
+          0.32653,
+          1.34298
+        ],
+        "radius": 0.31986
+      },
+      "rf": {
+        "center": [
+          0.8283,
+          0.32653,
+          1.34298
+        ],
+        "radius": 0.31986
+      },
+      "lr": {
+        "center": [
+          -0.8283,
+          0.35188,
+          -1.34927
+        ],
+        "radius": 0.35188
+      },
+      "rr": {
+        "center": [
+          0.8283,
+          0.35188,
+          -1.34927
+        ],
+        "radius": 0.35188
+      }
+    },
+    "scale": 0.009996930525011468,
+    "dimensions": [
+      2.0787315260472834,
+      1.2247682400985238,
+      4.435
+    ]
+  },
+  {
+    "id": "jv_viper",
+    "source": "C:\\Users\\tiiov\\Downloads\\jvs-viper-nfsmw.zip",
+    "sourceZipBytes": 9677016,
+    "sourceTriangles": 65174,
+    "triangles": 13962,
+    "gridMetres": 0.04455516000000002,
+    "parts": 53,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.85551,
+          0.31256,
+          1.25028
+        ],
+        "radius": 0.31255
+      },
+      "rf": {
+        "center": [
+          0.85551,
+          0.31256,
+          1.25028
+        ],
+        "radius": 0.31255
+      },
+      "lr": {
+        "center": [
+          -0.8855,
+          0.3252,
+          -1.18336
+        ],
+        "radius": 0.32379
+      },
+      "rr": {
+        "center": [
+          0.8855,
+          0.3252,
+          -1.18336
+        ],
+        "radius": 0.32379
+      }
+    },
+    "scale": 0.00976846624874851,
+    "dimensions": [
+      2.1010543457544717,
+      1.1745953027494591,
+      4.459
+    ]
+  },
+  {
+    "id": "m3gtr",
+    "source": "C:\\Users\\tiiov\\Downloads\\bmw-m3-need-for-speed-most-wanted.zip",
+    "sourceZipBytes": 29327096,
+    "sourceTriangles": 80455,
+    "triangles": 10721,
+    "gridMetres": 0.05792170800000002,
+    "parts": 50,
+    "wheels": {
+      "lf": {
+        "center": [
+          -0.79813,
+          0.32437,
+          1.45255
+        ],
+        "radius": 0.32437
+      },
+      "rf": {
+        "center": [
+          0.79813,
+          0.32437,
+          1.45255
+        ],
+        "radius": 0.32437
+      },
+      "lr": {
+        "center": [
+          -0.79813,
+          0.32437,
+          -1.30194
+        ],
+        "radius": 0.32437
+      },
+      "rr": {
+        "center": [
+          0.79813,
+          0.32437,
+          -1.30194
+        ],
+        "radius": 0.32437
+      }
+    },
+    "scale": 0.010109823765139215,
+    "dimensions": [
+      1.8880414725116883,
+      1.3157990322780624,
+      4.61
+    ]
+  }
+]

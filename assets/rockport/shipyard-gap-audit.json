@@ -1,0 +1,28 @@
+[
+  {
+    "x": 4271.0,
+    "z": -482.0,
+    "sourceSurfaces": [
+      {
+        "part": 12,
+        "node": "TRN_CP_BE_Terrain_A_23_.001",
+        "height": 50.68
+      }
+    ]
+  },
+  {
+    "x": 4260.0,
+    "z": -480.0,
+    "sourceSurfaces": []
+  },
+  {
+    "x": 4245.0,
+    "z": -480.0,
+    "sourceSurfaces": []
+  },
+  {
+    "x": 4230.0,
+    "z": -480.0,
+    "sourceSurfaces": []
+  }
+]

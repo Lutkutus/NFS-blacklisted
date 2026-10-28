@@ -1,0 +1,32 @@
+[
+  {
+    "vehicle": "crown",
+    "stage": 0,
+    "seconds": 30,
+    "previousStraightMetres": 967.0669047591108,
+    "improvedStraightMetres": 1474.2728222357289,
+    "gainPercent": 52.44786218828978,
+    "boostSeconds": 7.899999999999977,
+    "minNitro": 11.61666666666631
+  },
+  {
+    "vehicle": "skyline",
+    "stage": 2,
+    "seconds": 30,
+    "previousStraightMetres": 1429.1897317851106,
+    "improvedStraightMetres": 2001.5323358202402,
+    "gainPercent": 40.04664960195681,
+    "boostSeconds": 9.600000000000056,
+    "minNitro": 16.683333333330413
+  },
+  {
+    "vehicle": "m3gtr",
+    "stage": 4,
+    "seconds": 30,
+    "previousStraightMetres": 2700.3069607368952,
+    "improvedStraightMetres": 3492.806692279288,
+    "gainPercent": 29.348505302009276,
+    "boostSeconds": 9.600000000000056,
+    "minNitro": 45.91666666665778
+  }
+]

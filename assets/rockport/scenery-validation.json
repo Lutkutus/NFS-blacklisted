@@ -1,0 +1,16 @@
+{
+  "exclusionsApplied": 306,
+  "beforeCollision": {
+    "road": 127782,
+    "walkable": 1028967,
+    "wall": 2021322
+  },
+  "afterCollision": {
+    "road": 127782,
+    "walkable": 1029229,
+    "wall": 2021029
+  },
+  "roadTriangleCountUnchanged": true,
+  "removedRenderTriangles": 128424,
+  "spawnAndPickupsPreserved": true
+}

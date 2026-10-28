@@ -1,0 +1,7026 @@
+{
+  "panoramas": [
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_CPNorthTreesA_02",
+      "span": [
+        538.547,
+        139.608,
+        992.124
+      ],
+      "min": [
+        3032.212,
+        -2.897,
+        -3328.268
+      ],
+      "max": [
+        3570.759,
+        136.711,
+        -2336.145
+      ],
+      "triangles": 150
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_TerrainCannery_01",
+      "span": [
+        805.757,
+        138.644,
+        1119.477
+      ],
+      "min": [
+        2900.697,
+        -7.694,
+        -3368.846
+      ],
+      "max": [
+        3706.454,
+        130.949,
+        -2249.369
+      ],
+      "triangles": 559
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_CP_CanneryBoat",
+      "span": [
+        129.215,
+        33.742,
+        272.902
+      ],
+      "min": [
+        3613.785,
+        -0.026,
+        -3045.829
+      ],
+      "max": [
+        3742.999,
+        33.716,
+        -2772.927
+      ],
+      "triangles": 176
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_FishingDockB",
+      "span": [
+        167.72,
+        0.703,
+        368.507
+      ],
+      "min": [
+        3559.239,
+        5.656,
+        -3089.301
+      ],
+      "max": [
+        3726.959,
+        6.358,
+        -2720.794
+      ],
+      "triangles": 16
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_CP_Cannery_01",
+      "span": [
+        468.272,
+        59.008,
+        539.383
+      ],
+      "min": [
+        3271.289,
+        -1.259,
+        -3271.507
+      ],
+      "max": [
+        3739.562,
+        57.749,
+        -2732.124
+      ],
+      "triangles": 632
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_CPNorthTreesA_03",
+      "span": [
+        292.91,
+        80.607,
+        214.235
+      ],
+      "min": [
+        3859.866,
+        2.973,
+        -3571.779
+      ],
+      "max": [
+        4152.776,
+        83.58,
+        -3357.544
+      ],
+      "triangles": 54
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_TerrainFishV_02",
+      "span": [
+        528.465,
+        63.543,
+        429.5
+      ],
+      "min": [
+        3838.54,
+        -16.178,
+        -3658.868
+      ],
+      "max": [
+        4367.004,
+        47.365,
+        -3229.368
+      ],
+      "triangles": 242
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_FishingDocksA",
+      "span": [
+        215.038,
+        6.059,
+        147.672
+      ],
+      "min": [
+        3902.929,
+        1.243,
+        -3312.626
+      ],
+      "max": [
+        4117.967,
+        7.302,
+        -3164.954
+      ],
+      "triangles": 236
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_CP_FishVillage_01",
+      "span": [
+        294.643,
+        52.397,
+        274.776
+      ],
+      "min": [
+        3918.315,
+        1.459,
+        -3440.602
+      ],
+      "max": [
+        4212.957,
+        53.856,
+        -3165.825
+      ],
+      "triangles": 399
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_CP_FishVillageBoat_",
+      "span": [
+        202.25,
+        16.828,
+        129.113
+      ],
+      "min": [
+        3903.76,
+        -4.174,
+        -3293.972
+      ],
+      "max": [
+        4106.01,
+        12.654,
+        -3164.859
+      ],
+      "triangles": 554
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_Scaffold_OILREF_02",
+      "span": [
+        636.701,
+        75.44,
+        370.11
+      ],
+      "min": [
+        3807.728,
+        25.525,
+        -2220.842
+      ],
+      "max": [
+        4444.429,
+        100.965,
+        -1850.732
+      ],
+      "triangles": 168
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_CPNorthTreesA_04",
+      "span": [
+        538.868,
+        83.478,
+        182.385
+      ],
+      "min": [
+        3568.401,
+        27.488,
+        -2352.715
+      ],
+      "max": [
+        4107.27,
+        110.965,
+        -2170.33
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_TerrainOilRef_01",
+      "span": [
+        1286.593,
+        118.496,
+        941.047
+      ],
+      "min": [
+        3205.007,
+        -7.694,
+        -2343.649
+      ],
+      "max": [
+        4491.6,
+        110.801,
+        -1402.602
+      ],
+      "triangles": 375
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_CP_OilRefinery_01",
+      "span": [
+        672.688,
+        211.866,
+        475.108
+      ],
+      "min": [
+        3472.083,
+        1.05,
+        -2260.502
+      ],
+      "max": [
+        4144.771,
+        212.916,
+        -1785.395
+      ],
+      "triangles": 737
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_CPNorthTreesA_01",
+      "span": [
+        848.002,
+        175.816,
+        647.287
+      ],
+      "min": [
+        3353.511,
+        0.322,
+        -2309.557
+      ],
+      "max": [
+        4201.513,
+        176.138,
+        -1662.271
+      ],
+      "triangles": 114
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_TreesHydro_04",
+      "span": [
+        796.788,
+        136.259,
+        396.718
+      ],
+      "min": [
+        2391.384,
+        72.813,
+        -1540.28
+      ],
+      "max": [
+        3188.172,
+        209.072,
+        -1143.562
+      ],
+      "triangles": 88
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_TreesHydro_05",
+      "span": [
+        873.894,
+        126.736,
+        448.658
+      ],
+      "min": [
+        2257.318,
+        57.737,
+        -1371.765
+      ],
+      "max": [
+        3131.212,
+        184.472,
+        -923.107
+      ],
+      "triangles": 244
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_HydroPlantA_02_DEIN",
+      "span": [
+        1321.508,
+        312.482,
+        1103.663
+      ],
+      "min": [
+        2206.316,
+        -10.71,
+        -1924.772
+      ],
+      "max": [
+        3527.823,
+        301.772,
+        -821.11
+      ],
+      "triangles": 943
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_CP_LOD_PANA_24",
+      "span": [
+        210.509,
+        38.366,
+        137.413
+      ],
+      "min": [
+        3882.145,
+        -1.71,
+        203.75
+      ],
+      "max": [
+        4092.653,
+        36.656,
+        341.163
+      ],
+      "triangles": 40
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_LighthouseSign01",
+      "span": [
+        19.729,
+        16.214,
+        31.823
+      ],
+      "min": [
+        4093.391,
+        15.246,
+        153.469
+      ],
+      "max": [
+        4113.121,
+        31.46,
+        185.291
+      ],
+      "triangles": 12
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_BoatFishing01",
+      "span": [
+        85.035,
+        23.5,
+        102.704
+      ],
+      "min": [
+        3803.217,
+        -0.62,
+        -42.723
+      ],
+      "max": [
+        3888.251,
+        22.88,
+        59.981
+      ],
+      "triangles": 100
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_LighthouseTerrain01",
+      "span": [
+        560.174,
+        24.792,
+        447.212
+      ],
+      "min": [
+        3635.514,
+        -4.006,
+        38.304
+      ],
+      "max": [
+        4195.688,
+        20.787,
+        485.515
+      ],
+      "triangles": 188
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_LighthouseBridge01_",
+      "span": [
+        656.419,
+        34.623,
+        363.113
+      ],
+      "min": [
+        3667.386,
+        -5.374,
+        -13.49
+      ],
+      "max": [
+        4323.806,
+        29.249,
+        349.623
+      ],
+      "triangles": 450
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_CPNorthTreesA_05",
+      "span": [
+        238.964,
+        67.824,
+        293.843
+      ],
+      "min": [
+        3129.464,
+        14.902,
+        -3624.571
+      ],
+      "max": [
+        3368.429,
+        82.726,
+        -3330.728
+      ],
+      "triangles": 62
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_TerrainCannery_02",
+      "span": [
+        687.013,
+        139.805,
+        602.841
+      ],
+      "min": [
+        2755.989,
+        -3.664,
+        -3677.428
+      ],
+      "max": [
+        3443.001,
+        136.141,
+        -3074.587
+      ],
+      "triangles": 199
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_CPNorthEVTreesA_01",
+      "span": [
+        388.175,
+        92.339,
+        372.844
+      ],
+      "min": [
+        2893.593,
+        30.047,
+        -3609.042
+      ],
+      "max": [
+        3281.769,
+        122.386,
+        -3236.198
+      ],
+      "triangles": 48
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_TerrainOilREFTunnel",
+      "span": [
+        303.001,
+        78.61,
+        977.676
+      ],
+      "min": [
+        4001.727,
+        -4.706,
+        -3233.305
+      ],
+      "max": [
+        4304.728,
+        73.904,
+        -2255.629
+      ],
+      "triangles": 418
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "Pan_IndustrialTerrain_0",
+      "span": [
+        226.036,
+        34.378,
+        348.793
+      ],
+      "min": [
+        3564.788,
+        -2.816,
+        -939.382
+      ],
+      "max": [
+        3790.825,
+        31.561,
+        -590.589
+      ],
+      "triangles": 66
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_IndustScaffold_03",
+      "span": [
+        207.913,
+        58.69,
+        313.718
+      ],
+      "min": [
+        3553.506,
+        8.222,
+        -923.296
+      ],
+      "max": [
+        3761.419,
+        66.912,
+        -609.578
+      ],
+      "triangles": 276
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "Pan_IndustrialBuildings",
+      "span": [
+        206.855,
+        54.668,
+        315.513
+      ],
+      "min": [
+        3568.406,
+        8.913,
+        -947.636
+      ],
+      "max": [
+        3775.261,
+        63.581,
+        -632.123
+      ],
+      "triangles": 113
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_Island_2a_07",
+      "span": [
+        2875.252,
+        322.274,
+        876.949
+      ],
+      "min": [
+        2279.695,
+        -6.293,
+        -4717.443
+      ],
+      "max": [
+        5154.947,
+        315.981,
+        -3840.493
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_Island_1a_09",
+      "span": [
+        1768.533,
+        272.67,
+        528.925
+      ],
+      "min": [
+        2472.843,
+        -8.756,
+        -4215.861
+      ],
+      "max": [
+        4241.375,
+        263.915,
+        -3686.936
+      ],
+      "triangles": 110
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_Island_1a_08",
+      "span": [
+        862.67,
+        296.413,
+        1866.965
+      ],
+      "min": [
+        2370.003,
+        14.581,
+        -3637.947
+      ],
+      "max": [
+        3232.673,
+        310.995,
+        -1770.981
+      ],
+      "triangles": 110
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "PAN_Island_2a_08",
+      "span": [
+        1318.582,
+        424.177,
+        2211.258
+      ],
+      "min": [
+        2010.447,
+        -32.637,
+        -3175.961
+      ],
+      "max": [
+        3329.029,
+        391.54,
+        -964.703
+      ],
+      "triangles": 30
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-12.zip",
+      "node": "PAN_CP_LODA_04",
+      "span": [
+        491.129,
+        21.343,
+        441.063
+      ],
+      "min": [
+        3044.885,
+        -9.095,
+        -479.485
+      ],
+      "max": [
+        3536.014,
+        12.249,
+        -38.422
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-12.zip",
+      "node": "PAN_CP_Buildings_LODA_4",
+      "span": [
+        66.968,
+        14.299,
+        243.844
+      ],
+      "min": [
+        3442.365,
+        7.561,
+        -291.107
+      ],
+      "max": [
+        3509.333,
+        21.86,
+        -47.263
+      ],
+      "triangles": 6
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-12.zip",
+      "node": "PAN_CP_Scaffold_LODA_04",
+      "span": [
+        263.664,
+        56.482,
+        259.061
+      ],
+      "min": [
+        3129.942,
+        2.712,
+        -450.812
+      ],
+      "max": [
+        3393.605,
+        59.194,
+        -191.751
+      ],
+      "triangles": 228
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-12.zip",
+      "node": "PAN_CP_Buildings_LODA_4.001",
+      "span": [
+        165.068,
+        11.788,
+        36.169
+      ],
+      "min": [
+        3348.27,
+        7.62,
+        -223.067
+      ],
+      "max": [
+        3513.339,
+        19.408,
+        -186.898
+      ],
+      "triangles": 19
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-12.zip",
+      "node": "PAN_CP_Buildings_LODA_4.002",
+      "span": [
+        284.499,
+        70.227,
+        123.968
+      ],
+      "min": [
+        3103.321,
+        -11.858,
+        -418.062
+      ],
+      "max": [
+        3387.82,
+        58.37,
+        -294.094
+      ],
+      "triangles": 72
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Mountains_College_0",
+      "span": [
+        2683.43,
+        394.961,
+        1045.197
+      ],
+      "min": [
+        -1231.211,
+        13.634,
+        -2857.808
+      ],
+      "max": [
+        1452.22,
+        408.596,
+        -1812.611
+      ],
+      "triangles": 391
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_EverGTreesA_01",
+      "span": [
+        2878.799,
+        375.878,
+        1899.367
+      ],
+      "min": [
+        -512.329,
+        188.606,
+        -4707.558
+      ],
+      "max": [
+        2366.471,
+        564.484,
+        -2808.191
+      ],
+      "triangles": 880
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_Buildings1",
+      "span": [
+        368.778,
+        264.146,
+        416.193
+      ],
+      "min": [
+        -510.214,
+        369.402,
+        -4073.289
+      ],
+      "max": [
+        -141.437,
+        633.548,
+        -3657.096
+      ],
+      "triangles": 108
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_TreesA_01",
+      "span": [
+        1794.467,
+        356.402,
+        1927.812
+      ],
+      "min": [
+        211.295,
+        157.826,
+        -4742.801
+      ],
+      "max": [
+        2005.763,
+        514.229,
+        -2814.989
+      ],
+      "triangles": 520
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_TerrainA_01",
+      "span": [
+        2719.953,
+        395.753,
+        2624.468
+      ],
+      "min": [
+        -394.838,
+        91.082,
+        -5239.104
+      ],
+      "max": [
+        2325.115,
+        486.834,
+        -2614.635
+      ],
+      "triangles": 275
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Campus_Towers",
+      "span": [
+        104.65,
+        228.441,
+        217.899
+      ],
+      "min": [
+        861.791,
+        263.61,
+        -3649.512
+      ],
+      "max": [
+        966.44,
+        492.052,
+        -3431.613
+      ],
+      "triangles": 138
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_CityTreesA_01",
+      "span": [
+        1247.683,
+        188.558,
+        883.502
+      ],
+      "min": [
+        525.396,
+        77.712,
+        -1027.136
+      ],
+      "max": [
+        1773.078,
+        266.27,
+        -143.634
+      ],
+      "triangles": 234
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_Panorama_City",
+      "span": [
+        876.159,
+        396.658,
+        613.995
+      ],
+      "min": [
+        913.655,
+        136.858,
+        -644.009
+      ],
+      "max": [
+        1789.814,
+        533.516,
+        -30.014
+      ],
+      "triangles": 547
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_EverGTreesA_03",
+      "span": [
+        1556.071,
+        328.512,
+        1217.244
+      ],
+      "min": [
+        719.553,
+        158.419,
+        -4875.023
+      ],
+      "max": [
+        2275.624,
+        486.932,
+        -3657.779
+      ],
+      "triangles": 192
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_TreesA_03",
+      "span": [
+        1813.185,
+        356.402,
+        1927.812
+      ],
+      "min": [
+        303.208,
+        87.01,
+        -4742.801
+      ],
+      "max": [
+        2116.394,
+        443.412,
+        -2814.989
+      ],
+      "triangles": 584
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_TerrainA_03",
+      "span": [
+        2177.532,
+        274.808,
+        2649.867
+      ],
+      "min": [
+        204.76,
+        80.683,
+        -5375.691
+      ],
+      "max": [
+        2382.291,
+        355.491,
+        -2725.824
+      ],
+      "triangles": 230
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Mountains_College_0.001",
+      "span": [
+        2409.309,
+        696.2,
+        3060.08
+      ],
+      "min": [
+        -1359.886,
+        20.19,
+        -5708.682
+      ],
+      "max": [
+        1049.423,
+        716.389,
+        -2648.602
+      ],
+      "triangles": 210
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Mountains_College_0.002",
+      "span": [
+        1840.464,
+        622.0,
+        2859.051
+      ],
+      "min": [
+        -1225.895,
+        -228.361,
+        -5086.003
+      ],
+      "max": [
+        614.569,
+        393.639,
+        -2226.953
+      ],
+      "triangles": 126
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Mountains_College_0.003",
+      "span": [
+        3781.536,
+        1165.363,
+        2630.13
+      ],
+      "min": [
+        -834.972,
+        -459.511,
+        -6397.454
+      ],
+      "max": [
+        2946.563,
+        705.852,
+        -3767.324
+      ],
+      "triangles": 169
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Mountains_College_0.004",
+      "span": [
+        1993.652,
+        1057.43,
+        1776.696
+      ],
+      "min": [
+        -1015.519,
+        150.95,
+        -5513.241
+      ],
+      "max": [
+        978.134,
+        1208.38,
+        -3736.546
+      ],
+      "triangles": 120
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Mountains_College_1",
+      "span": [
+        2712.491,
+        637.923,
+        577.758
+      ],
+      "min": [
+        -2.192,
+        -11.359,
+        -5552.135
+      ],
+      "max": [
+        2710.298,
+        626.564,
+        -4974.377
+      ],
+      "triangles": 197
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Mountains_College_0.005",
+      "span": [
+        4334.511,
+        906.678,
+        2679.49
+      ],
+      "min": [
+        -371.201,
+        47.697,
+        -6124.89
+      ],
+      "max": [
+        3963.31,
+        954.375,
+        -3445.4
+      ],
+      "triangles": 144
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Mountains_College_0.006",
+      "span": [
+        572.556,
+        903.147,
+        2497.008
+      ],
+      "min": [
+        -974.257,
+        -239.633,
+        -3796.401
+      ],
+      "max": [
+        -401.701,
+        663.514,
+        -1299.394
+      ],
+      "triangles": 80
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Mountains_College_0.007",
+      "span": [
+        385.792,
+        777.967,
+        2094.873
+      ],
+      "min": [
+        -1030.475,
+        126.385,
+        -3892.756
+      ],
+      "max": [
+        -644.684,
+        904.353,
+        -1797.883
+      ],
+      "triangles": 66
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Island_CT_2a_05",
+      "span": [
+        2766.504,
+        925.458,
+        5098.871
+      ],
+      "min": [
+        4634.642,
+        -6.692,
+        -2167.633
+      ],
+      "max": [
+        7401.146,
+        918.766,
+        2931.238
+      ],
+      "triangles": 46
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_Island_CT_2a_06",
+      "span": [
+        2584.094,
+        778.266,
+        3793.098
+      ],
+      "min": [
+        4082.756,
+        -9.495,
+        -5827.866
+      ],
+      "max": [
+        6666.85,
+        768.77,
+        -2034.768
+      ],
+      "triangles": 46
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_Island_2a_05",
+      "span": [
+        3731.917,
+        604.036,
+        704.475
+      ],
+      "min": [
+        20.106,
+        -5.898,
+        650.526
+      ],
+      "max": [
+        3752.022,
+        598.138,
+        1355.002
+      ],
+      "triangles": 46
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "PAN_CT_Island_2a_06",
+      "span": [
+        2670.613,
+        604.036,
+        2657.834
+      ],
+      "min": [
+        -1703.384,
+        -5.898,
+        -1448.962
+      ],
+      "max": [
+        967.229,
+        598.138,
+        1208.872
+      ],
+      "triangles": 46
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "Panorama_TC_City",
+      "span": [
+        2091.917,
+        333.631,
+        2083.439
+      ],
+      "min": [
+        -308.536,
+        39.263,
+        -938.435
+      ],
+      "max": [
+        1783.381,
+        372.894,
+        1145.004
+      ],
+      "triangles": 7944
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "PAN_Mountains_College_1",
+      "span": [
+        2683.43,
+        312.626,
+        1045.197
+      ],
+      "min": [
+        1021.88,
+        -82.042,
+        -1830.48
+      ],
+      "max": [
+        3705.31,
+        230.584,
+        -785.283
+      ],
+      "triangles": 367
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "Panorama_TC_NorthView",
+      "span": [
+        896.24,
+        303.916,
+        1047.197
+      ],
+      "min": [
+        887.141,
+        68.978,
+        -656.85
+      ],
+      "max": [
+        1783.381,
+        372.894,
+        390.347
+      ],
+      "triangles": 881
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "Panorama_TC_NWestView",
+      "span": [
+        904.105,
+        303.916,
+        921.102
+      ],
+      "min": [
+        879.276,
+        68.978,
+        -516.93
+      ],
+      "max": [
+        1783.381,
+        372.894,
+        404.172
+      ],
+      "triangles": 872
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "Panorama_TC_SouthView",
+      "span": [
+        1328.429,
+        316.438,
+        999.447
+      ],
+      "min": [
+        454.952,
+        56.457,
+        -520.204
+      ],
+      "max": [
+        1783.381,
+        372.894,
+        479.243
+      ],
+      "triangles": 843
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "Panorama_TC_EastPark",
+      "span": [
+        1197.919,
+        303.916,
+        1659.344
+      ],
+      "min": [
+        402.558,
+        68.978,
+        -656.85
+      ],
+      "max": [
+        1600.477,
+        372.894,
+        1002.494
+      ],
+      "triangles": 710
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "PAN_CT_EverGTreesA_02",
+      "span": [
+        911.378,
+        225.851,
+        832.241
+      ],
+      "min": [
+        2125.715,
+        172.814,
+        -4663.539
+      ],
+      "max": [
+        3037.093,
+        398.665,
+        -3831.297
+      ],
+      "triangles": 104
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "PAN_CT_TreesA_02",
+      "span": [
+        671.612,
+        182.616,
+        1392.495
+      ],
+      "min": [
+        2168.227,
+        139.577,
+        -4239.982
+      ],
+      "max": [
+        2839.839,
+        322.193,
+        -2847.487
+      ],
+      "triangles": 368
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "PAN_Mountains_College_0",
+      "span": [
+        3083.091,
+        640.064,
+        2253.737
+      ],
+      "min": [
+        -32.624,
+        171.858,
+        -6003.151
+      ],
+      "max": [
+        3050.468,
+        811.921,
+        -3749.414
+      ],
+      "triangles": 112
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "PAN_CT_TerrainA_02",
+      "span": [
+        922.306,
+        106.115,
+        1763.769
+      ],
+      "min": [
+        1967.263,
+        129.164,
+        -4584.152
+      ],
+      "max": [
+        2889.569,
+        235.279,
+        -2820.383
+      ],
+      "triangles": 163
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "PAN_Mountains_College_0.001",
+      "span": [
+        394.574,
+        275.346,
+        1644.431
+      ],
+      "min": [
+        2797.858,
+        111.067,
+        -4360.981
+      ],
+      "max": [
+        3192.432,
+        386.413,
+        -2716.55
+      ],
+      "triangles": 186
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "Panorama_TC_NorthView02",
+      "span": [
+        1371.649,
+        277.705,
+        1481.28
+      ],
+      "min": [
+        189.341,
+        57.182,
+        -516.93
+      ],
+      "max": [
+        1560.99,
+        334.887,
+        964.35
+      ],
+      "triangles": 609
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "Panorama_TC_EastView",
+      "span": [
+        719.967,
+        303.916,
+        1130.614
+      ],
+      "min": [
+        1063.414,
+        68.978,
+        -656.85
+      ],
+      "max": [
+        1783.381,
+        372.894,
+        473.764
+      ],
+      "triangles": 613
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "Panorama_TC_TunnelView",
+      "span": [
+        1861.492,
+        286.231,
+        1024.975
+      ],
+      "min": [
+        -291.069,
+        70.239,
+        120.028
+      ],
+      "max": [
+        1570.423,
+        356.469,
+        1145.004
+      ],
+      "triangles": 577
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "Panorama_TC_SouthView2",
+      "span": [
+        520.045,
+        83.502,
+        428.116
+      ],
+      "min": [
+        1746.589,
+        94.043,
+        476.566
+      ],
+      "max": [
+        2266.634,
+        177.545,
+        904.682
+      ],
+      "triangles": 539
+    }
+  ],
+  "nonPanoramaTallTreeGroups": [
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Tree_Windbreak1_1.002",
+      "span": [
+        8.824,
+        49.37,
+        7.084
+      ],
+      "min": [
+        -1014.446,
+        147.692,
+        -2558.722
+      ],
+      "max": [
+        -1005.622,
+        197.062,
+        -2551.638
+      ],
+      "triangles": 109
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Tree_Windbreak1_1.005",
+      "span": [
+        10.167,
+        72.774,
+        13.223
+      ],
+      "min": [
+        -876.285,
+        204.103,
+        -2391.3
+      ],
+      "max": [
+        -866.118,
+        276.877,
+        -2378.077
+      ],
+      "triangles": 109
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Tree_Windbreak1_1.006",
+      "span": [
+        8.824,
+        49.37,
+        7.084
+      ],
+      "min": [
+        -1014.446,
+        205.14,
+        -2558.722
+      ],
+      "max": [
+        -1005.622,
+        254.51,
+        -2551.638
+      ],
+      "triangles": 109
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Tree_Windbreak1_1.007",
+      "span": [
+        8.899,
+        63.701,
+        11.574
+      ],
+      "min": [
+        -857.881,
+        203.934,
+        -2395.401
+      ],
+      "max": [
+        -848.982,
+        267.636,
+        -2383.827
+      ],
+      "triangles": 109
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Tree_Windbreak1_1.010",
+      "span": [
+        7.28,
+        52.106,
+        9.468
+      ],
+      "min": [
+        -843.11,
+        204.136,
+        -2398.359
+      ],
+      "max": [
+        -835.83,
+        256.242,
+        -2388.891
+      ],
+      "triangles": 109
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Tree_Windbreak1_1.012",
+      "span": [
+        10.081,
+        56.403,
+        8.094
+      ],
+      "min": [
+        -1075.464,
+        204.934,
+        -2663.289
+      ],
+      "max": [
+        -1065.382,
+        261.337,
+        -2655.196
+      ],
+      "triangles": 109
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Tree_Windbreak1_1.015",
+      "span": [
+        10.081,
+        56.403,
+        8.094
+      ],
+      "min": [
+        -1071.325,
+        203.329,
+        -2639.12
+      ],
+      "max": [
+        -1061.243,
+        259.731,
+        -2631.026
+      ],
+      "triangles": 109
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Tree_Windbreak1_1.016",
+      "span": [
+        8.22,
+        52.106,
+        7.817
+      ],
+      "min": [
+        -1067.786,
+        203.609,
+        -2631.221
+      ],
+      "max": [
+        -1059.566,
+        255.715,
+        -2623.404
+      ],
+      "triangles": 109
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Tree_Windbreak1_1.017",
+      "span": [
+        10.081,
+        56.403,
+        8.094
+      ],
+      "min": [
+        -1071.325,
+        141.846,
+        -2639.12
+      ],
+      "max": [
+        -1061.243,
+        198.248,
+        -2631.026
+      ],
+      "triangles": 109
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Tree_Windbreak1_1.019",
+      "span": [
+        10.167,
+        54.719,
+        13.223
+      ],
+      "min": [
+        -894.722,
+        204.103,
+        -2387.097
+      ],
+      "max": [
+        -884.555,
+        258.822,
+        -2373.874
+      ],
+      "triangles": 109
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Tree_Windbreak1_1.020",
+      "span": [
+        8.22,
+        52.106,
+        7.817
+      ],
+      "min": [
+        -1067.786,
+        146.423,
+        -2631.221
+      ],
+      "max": [
+        -1059.566,
+        198.529,
+        -2623.404
+      ],
+      "triangles": 109
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Tree_Windbreak1_1.021",
+      "span": [
+        12.842,
+        72.774,
+        10.535
+      ],
+      "min": [
+        -935.851,
+        202.082,
+        -2390.751
+      ],
+      "max": [
+        -923.009,
+        274.857,
+        -2380.216
+      ],
+      "triangles": 109
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Tree_Windbreak1_1.022",
+      "span": [
+        8.899,
+        63.701,
+        11.574
+      ],
+      "min": [
+        -952.456,
+        203.934,
+        -2396.397
+      ],
+      "max": [
+        -943.557,
+        267.636,
+        -2384.823
+      ],
+      "triangles": 109
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_",
+      "span": [
+        292.931,
+        57.043,
+        425.145
+      ],
+      "min": [
+        -1006.352,
+        201.246,
+        -3003.25
+      ],
+      "max": [
+        -713.422,
+        258.289,
+        -2578.106
+      ],
+      "triangles": 168
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.001",
+      "span": [
+        198.613,
+        51.151,
+        251.099
+      ],
+      "min": [
+        -1207.37,
+        201.452,
+        -3032.928
+      ],
+      "max": [
+        -1008.757,
+        252.603,
+        -2781.829
+      ],
+      "triangles": 84
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.002",
+      "span": [
+        235.858,
+        47.878,
+        46.113
+      ],
+      "min": [
+        -1408.538,
+        206.56,
+        -2476.573
+      ],
+      "max": [
+        -1172.68,
+        254.438,
+        -2430.46
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.003",
+      "span": [
+        371.185,
+        70.213,
+        407.869
+      ],
+      "min": [
+        -1203.357,
+        199.529,
+        -2741.975
+      ],
+      "max": [
+        -832.171,
+        269.742,
+        -2334.106
+      ],
+      "triangles": 168
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.004",
+      "span": [
+        160.121,
+        73.226,
+        188.381
+      ],
+      "min": [
+        -842.618,
+        199.152,
+        -2567.655
+      ],
+      "max": [
+        -682.497,
+        272.378,
+        -2379.274
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.005",
+      "span": [
+        280.777,
+        84.962,
+        307.837
+      ],
+      "min": [
+        -963.274,
+        121.266,
+        -2655.021
+      ],
+      "max": [
+        -682.497,
+        206.228,
+        -2347.184
+      ],
+      "triangles": 112
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_",
+      "span": [
+        480.116,
+        77.873,
+        250.005
+      ],
+      "min": [
+        -1164.86,
+        185.352,
+        -2579.642
+      ],
+      "max": [
+        -684.743,
+        263.225,
+        -2329.637
+      ],
+      "triangles": 1590
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.001",
+      "span": [
+        241.491,
+        56.464,
+        144.961
+      ],
+      "min": [
+        -1428.931,
+        195.21,
+        -2561.448
+      ],
+      "max": [
+        -1187.44,
+        251.674,
+        -2416.487
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.002",
+      "span": [
+        169.062,
+        51.277,
+        160.66
+      ],
+      "min": [
+        -983.144,
+        196.443,
+        -2951.261
+      ],
+      "max": [
+        -814.082,
+        247.719,
+        -2790.601
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_",
+      "span": [
+        175.568,
+        47.942,
+        291.344
+      ],
+      "min": [
+        1410.246,
+        159.976,
+        -2931.896
+      ],
+      "max": [
+        1585.814,
+        207.917,
+        -2640.552
+      ],
+      "triangles": 1908
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.007",
+      "span": [
+        88.569,
+        50.312,
+        210.29
+      ],
+      "min": [
+        2071.761,
+        134.258,
+        -2582.426
+      ],
+      "max": [
+        2160.329,
+        184.57,
+        -2372.135
+      ],
+      "triangles": 168
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.004",
+      "span": [
+        200.598,
+        49.766,
+        267.065
+      ],
+      "min": [
+        2079.458,
+        135.342,
+        -2501.177
+      ],
+      "max": [
+        2280.056,
+        185.108,
+        -2234.112
+      ],
+      "triangles": 3816
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Treeline1_1b_00.009",
+      "span": [
+        96.957,
+        45.779,
+        44.199
+      ],
+      "min": [
+        754.245,
+        163.23,
+        -2141.412
+      ],
+      "max": [
+        851.202,
+        209.009,
+        -2097.213
+      ],
+      "triangles": 40
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.006",
+      "span": [
+        190.046,
+        71.746,
+        152.334
+      ],
+      "min": [
+        986.245,
+        149.643,
+        -2125.983
+      ],
+      "max": [
+        1176.291,
+        221.389,
+        -1973.649
+      ],
+      "triangles": 240
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.009",
+      "span": [
+        115.762,
+        49.268,
+        70.94
+      ],
+      "min": [
+        1001.66,
+        156.605,
+        -2101.057
+      ],
+      "max": [
+        1117.422,
+        205.873,
+        -2030.117
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.010",
+      "span": [
+        301.874,
+        71.635,
+        227.752
+      ],
+      "min": [
+        1941.199,
+        113.096,
+        -2811.945
+      ],
+      "max": [
+        2243.073,
+        184.731,
+        -2584.193
+      ],
+      "triangles": 176
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.011",
+      "span": [
+        272.899,
+        68.333,
+        145.13
+      ],
+      "min": [
+        1914.3,
+        126.839,
+        -2899.143
+      ],
+      "max": [
+        2187.199,
+        195.172,
+        -2754.012
+      ],
+      "triangles": 100
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.003",
+      "span": [
+        232.719,
+        53.458,
+        178.62
+      ],
+      "min": [
+        1957.095,
+        113.052,
+        -2811.101
+      ],
+      "max": [
+        2189.814,
+        166.509,
+        -2632.481
+      ],
+      "triangles": 2104
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.004",
+      "span": [
+        68.598,
+        45.296,
+        202.953
+      ],
+      "min": [
+        -168.121,
+        193.056,
+        -3362.15
+      ],
+      "max": [
+        -99.523,
+        238.353,
+        -3159.197
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.012",
+      "span": [
+        115.148,
+        47.878,
+        31.48
+      ],
+      "min": [
+        -660.876,
+        245.407,
+        -2487.496
+      ],
+      "max": [
+        -545.728,
+        293.285,
+        -2456.016
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.013",
+      "span": [
+        33.757,
+        47.878,
+        114.612
+      ],
+      "min": [
+        -711.889,
+        221.939,
+        -2787.544
+      ],
+      "max": [
+        -678.132,
+        269.818,
+        -2672.931
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.002",
+      "span": [
+        171.584,
+        50.88,
+        98.7
+      ],
+      "min": [
+        3983.421,
+        39.483,
+        -605.95
+      ],
+      "max": [
+        4155.005,
+        90.363,
+        -507.25
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "XT_CT_Treeline1_1b_00.004",
+      "span": [
+        52.834,
+        61.8,
+        93.671
+      ],
+      "min": [
+        2977.146,
+        84.772,
+        -1224.129
+      ],
+      "max": [
+        3029.98,
+        146.572,
+        -1130.458
+      ],
+      "triangles": 40
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "XT_CT_Treeline1_1b_00.005",
+      "span": [
+        48.393,
+        45.804,
+        89.615
+      ],
+      "min": [
+        2932.42,
+        130.957,
+        -1282.513
+      ],
+      "max": [
+        2980.813,
+        176.762,
+        -1192.899
+      ],
+      "triangles": 40
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "XT_CT_Treeline1Z_1a_00.028",
+      "span": [
+        46.255,
+        48.795,
+        72.606
+      ],
+      "min": [
+        4215.402,
+        65.111,
+        -905.979
+      ],
+      "max": [
+        4261.656,
+        113.907,
+        -833.373
+      ],
+      "triangles": 318
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "XT_CT_Treeline1Z_1a_00.029",
+      "span": [
+        58.168,
+        52.129,
+        83.068
+      ],
+      "min": [
+        4199.087,
+        65.0,
+        -957.867
+      ],
+      "max": [
+        4257.255,
+        117.129,
+        -874.799
+      ],
+      "triangles": 318
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "XT_CT_FallTreeS_1z_JG_0",
+      "span": [
+        195.852,
+        73.366,
+        212.292
+      ],
+      "min": [
+        4045.787,
+        8.912,
+        -2806.594
+      ],
+      "max": [
+        4241.639,
+        82.278,
+        -2594.302
+      ],
+      "triangles": 132
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "XT_CT_FallTreeS_1z_JG_0.001",
+      "span": [
+        54.161,
+        51.088,
+        89.185
+      ],
+      "min": [
+        4021.314,
+        21.434,
+        -2900.927
+      ],
+      "max": [
+        4075.475,
+        72.522,
+        -2811.742
+      ],
+      "triangles": 44
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "node": "XT_CT_FallTreeS_1z_JG_0.002",
+      "span": [
+        85.847,
+        45.907,
+        90.631
+      ],
+      "min": [
+        4064.85,
+        30.617,
+        -3097.579
+      ],
+      "max": [
+        4150.697,
+        76.524,
+        -3006.948
+      ],
+      "triangles": 66
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_",
+      "span": [
+        102.855,
+        52.719,
+        222.934
+      ],
+      "min": [
+        2193.172,
+        146.571,
+        -3065.764
+      ],
+      "max": [
+        2296.027,
+        199.29,
+        -2842.831
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.001",
+      "span": [
+        131.784,
+        63.399,
+        267.615
+      ],
+      "min": [
+        2380.379,
+        137.915,
+        -2925.849
+      ],
+      "max": [
+        2512.164,
+        201.314,
+        -2658.234
+      ],
+      "triangles": 168
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_",
+      "span": [
+        175.694,
+        50.459,
+        184.327
+      ],
+      "min": [
+        2278.127,
+        150.42,
+        -3115.829
+      ],
+      "max": [
+        2453.821,
+        200.88,
+        -2931.502
+      ],
+      "triangles": 2346
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.001",
+      "span": [
+        311.49,
+        70.416,
+        245.406
+      ],
+      "min": [
+        2179.357,
+        123.15,
+        -2953.558
+      ],
+      "max": [
+        2490.847,
+        193.566,
+        -2708.152
+      ],
+      "triangles": 3896
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.002",
+      "span": [
+        217.836,
+        63.449,
+        128.112
+      ],
+      "min": [
+        2265.111,
+        126.068,
+        -2814.136
+      ],
+      "max": [
+        2482.947,
+        189.517,
+        -2686.023
+      ],
+      "triangles": 2028
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.003",
+      "span": [
+        59.667,
+        50.597,
+        254.015
+      ],
+      "min": [
+        2429.846,
+        158.608,
+        -3137.365
+      ],
+      "max": [
+        2489.514,
+        209.205,
+        -2883.349
+      ],
+      "triangles": 1710
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.004",
+      "span": [
+        251.179,
+        45.291,
+        257.548
+      ],
+      "min": [
+        2360.108,
+        106.368,
+        -2581.018
+      ],
+      "max": [
+        2611.288,
+        151.659,
+        -2323.47
+      ],
+      "triangles": 9296
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1_1b_00_D",
+      "span": [
+        187.751,
+        57.473,
+        80.684
+      ],
+      "min": [
+        2686.203,
+        78.996,
+        -2521.659
+      ],
+      "max": [
+        2873.954,
+        136.468,
+        -2440.975
+      ],
+      "triangles": 80
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.005",
+      "span": [
+        181.815,
+        64.763,
+        234.95
+      ],
+      "min": [
+        2797.177,
+        76.956,
+        -2389.901
+      ],
+      "max": [
+        2978.992,
+        141.719,
+        -2154.95
+      ],
+      "triangles": 196
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.011",
+      "span": [
+        186.809,
+        49.004,
+        260.451
+      ],
+      "min": [
+        2738.924,
+        65.517,
+        -3208.159
+      ],
+      "max": [
+        2925.733,
+        114.521,
+        -2947.707
+      ],
+      "triangles": 112
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_FallTreeFillerB_1.048",
+      "span": [
+        132.873,
+        47.604,
+        134.84
+      ],
+      "min": [
+        2886.469,
+        38.915,
+        -2470.07
+      ],
+      "max": [
+        3019.341,
+        86.519,
+        -2335.23
+      ],
+      "triangles": 182
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.015",
+      "span": [
+        197.388,
+        58.006,
+        228.358
+      ],
+      "min": [
+        2923.656,
+        47.515,
+        -2534.555
+      ],
+      "max": [
+        3121.044,
+        105.521,
+        -2306.197
+      ],
+      "triangles": 280
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.004",
+      "span": [
+        101.049,
+        45.758,
+        144.599
+      ],
+      "min": [
+        2850.051,
+        56.667,
+        -2556.434
+      ],
+      "max": [
+        2951.1,
+        102.424,
+        -2411.835
+      ],
+      "triangles": 120
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.016",
+      "span": [
+        110.059,
+        45.546,
+        30.792
+      ],
+      "min": [
+        2304.185,
+        144.816,
+        -1687.483
+      ],
+      "max": [
+        2414.244,
+        190.362,
+        -1656.691
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.017",
+      "span": [
+        224.54,
+        45.895,
+        94.368
+      ],
+      "min": [
+        1878.071,
+        143.824,
+        -2148.467
+      ],
+      "max": [
+        2102.611,
+        189.719,
+        -2054.099
+      ],
+      "triangles": 84
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.011",
+      "span": [
+        263.842,
+        50.534,
+        266.231
+      ],
+      "min": [
+        2227.691,
+        133.028,
+        -1676.982
+      ],
+      "max": [
+        2491.533,
+        183.561,
+        -1410.751
+      ],
+      "triangles": 1642
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.001",
+      "span": [
+        201.906,
+        81.312,
+        219.025
+      ],
+      "min": [
+        2348.08,
+        73.739,
+        -1243.487
+      ],
+      "max": [
+        2549.987,
+        155.051,
+        -1024.461
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.018",
+      "span": [
+        95.46,
+        47.878,
+        73.861
+      ],
+      "min": [
+        1476.36,
+        173.094,
+        -1612.524
+      ],
+      "max": [
+        1571.821,
+        220.972,
+        -1538.663
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.019",
+      "span": [
+        29.036,
+        47.878,
+        115.691
+      ],
+      "min": [
+        1785.635,
+        173.094,
+        -1840.367
+      ],
+      "max": [
+        1814.671,
+        220.972,
+        -1724.676
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.002",
+      "span": [
+        198.952,
+        75.127,
+        260.901
+      ],
+      "min": [
+        1482.09,
+        149.506,
+        -2018.243
+      ],
+      "max": [
+        1681.041,
+        224.633,
+        -1757.341
+      ],
+      "triangles": 1908
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.003",
+      "span": [
+        226.116,
+        62.209,
+        239.313
+      ],
+      "min": [
+        1564.073,
+        157.385,
+        -1851.763
+      ],
+      "max": [
+        1790.189,
+        219.594,
+        -1612.45
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_Evrgrn_TreelineS_1b_.005",
+      "span": [
+        26.318,
+        46.229,
+        96.804
+      ],
+      "min": [
+        1605.591,
+        169.537,
+        -1926.42
+      ],
+      "max": [
+        1631.908,
+        215.766,
+        -1829.616
+      ],
+      "triangles": 16
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.020",
+      "span": [
+        129.576,
+        96.722,
+        208.145
+      ],
+      "min": [
+        1503.036,
+        156.263,
+        -1986.102
+      ],
+      "max": [
+        1632.613,
+        252.985,
+        -1777.957
+      ],
+      "triangles": 112
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.009",
+      "span": [
+        84.589,
+        61.248,
+        168.939
+      ],
+      "min": [
+        3747.089,
+        15.878,
+        -963.23
+      ],
+      "max": [
+        3831.678,
+        77.126,
+        -794.291
+      ],
+      "triangles": 120
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.012",
+      "span": [
+        70.09,
+        58.954,
+        177.798
+      ],
+      "min": [
+        3760.104,
+        13.377,
+        -972.209
+      ],
+      "max": [
+        3830.194,
+        72.331,
+        -794.41
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.021",
+      "span": [
+        186.116,
+        60.016,
+        241.876
+      ],
+      "min": [
+        2900.273,
+        103.504,
+        -2022.898
+      ],
+      "max": [
+        3086.389,
+        163.52,
+        -1781.022
+      ],
+      "triangles": 84
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_Evrgrn_TreelineS_1b_.006",
+      "span": [
+        72.967,
+        49.235,
+        53.905
+      ],
+      "min": [
+        1398.352,
+        125.552,
+        -1338.615
+      ],
+      "max": [
+        1471.319,
+        174.787,
+        -1284.71
+      ],
+      "triangles": 32
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_TreeWide_1a_MM_00_DE",
+      "span": [
+        82.52,
+        46.574,
+        94.296
+      ],
+      "min": [
+        2619.302,
+        77.288,
+        -414.492
+      ],
+      "max": [
+        2701.822,
+        123.862,
+        -320.195
+      ],
+      "triangles": 820
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.015",
+      "span": [
+        91.105,
+        81.397,
+        91.703
+      ],
+      "min": [
+        3706.355,
+        13.677,
+        -1056.639
+      ],
+      "max": [
+        3797.46,
+        95.074,
+        -964.936
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.013",
+      "span": [
+        332.38,
+        64.403,
+        314.997
+      ],
+      "min": [
+        3576.68,
+        79.253,
+        -1995.436
+      ],
+      "max": [
+        3909.06,
+        143.656,
+        -1680.439
+      ],
+      "triangles": 440
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.014",
+      "span": [
+        274.113,
+        61.092,
+        121.237
+      ],
+      "min": [
+        3718.609,
+        70.077,
+        -1751.684
+      ],
+      "max": [
+        3992.722,
+        131.168,
+        -1630.448
+      ],
+      "triangles": 200
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.023",
+      "span": [
+        252.89,
+        65.272,
+        105.74
+      ],
+      "min": [
+        3046.211,
+        100.533,
+        -2092.186
+      ],
+      "max": [
+        3299.1,
+        165.805,
+        -1986.446
+      ],
+      "triangles": 84
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.015",
+      "span": [
+        169.971,
+        51.411,
+        117.746
+      ],
+      "min": [
+        4152.618,
+        48.687,
+        -1547.856
+      ],
+      "max": [
+        4322.589,
+        100.098,
+        -1430.11
+      ],
+      "triangles": 120
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-12.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_",
+      "span": [
+        254.595,
+        67.091,
+        137.791
+      ],
+      "min": [
+        4221.102,
+        23.8,
+        -1305.819
+      ],
+      "max": [
+        4475.697,
+        90.891,
+        -1168.028
+      ],
+      "triangles": 112
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-13.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.002",
+      "span": [
+        144.785,
+        45.086,
+        226.355
+      ],
+      "min": [
+        1164.796,
+        108.777,
+        -935.842
+      ],
+      "max": [
+        1309.581,
+        153.862,
+        -709.487
+      ],
+      "triangles": 280
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-13.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.015",
+      "span": [
+        94.344,
+        50.913,
+        357.662
+      ],
+      "min": [
+        572.085,
+        107.312,
+        -708.608
+      ],
+      "max": [
+        666.429,
+        158.225,
+        -350.946
+      ],
+      "triangles": 400
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-13.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.017",
+      "span": [
+        189.34,
+        47.874,
+        149.36
+      ],
+      "min": [
+        587.268,
+        101.052,
+        -458.898
+      ],
+      "max": [
+        776.608,
+        148.926,
+        -309.538
+      ],
+      "triangles": 80
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-13.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.019",
+      "span": [
+        150.946,
+        52.158,
+        88.34
+      ],
+      "min": [
+        -122.539,
+        96.973,
+        -233.184
+      ],
+      "max": [
+        28.407,
+        149.131,
+        -144.844
+      ],
+      "triangles": 80
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-13.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.021",
+      "span": [
+        307.827,
+        45.306,
+        175.605
+      ],
+      "min": [
+        624.638,
+        102.894,
+        -899.244
+      ],
+      "max": [
+        932.464,
+        148.2,
+        -723.639
+      ],
+      "triangles": 200
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-2.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_",
+      "span": [
+        263.714,
+        52.159,
+        110.991
+      ],
+      "min": [
+        -736.715,
+        204.198,
+        -3066.687
+      ],
+      "max": [
+        -473.001,
+        256.357,
+        -2955.696
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-2.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_",
+      "span": [
+        228.685,
+        54.778,
+        266.674
+      ],
+      "min": [
+        -664.709,
+        208.366,
+        -3157.918
+      ],
+      "max": [
+        -436.024,
+        263.144,
+        -2891.244
+      ],
+      "triangles": 112
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-2.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.001",
+      "span": [
+        64.817,
+        47.878,
+        100.9
+      ],
+      "min": [
+        -827.82,
+        224.01,
+        -2943.097
+      ],
+      "max": [
+        -763.004,
+        271.888,
+        -2842.198
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-2.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.002",
+      "span": [
+        62.221,
+        47.878,
+        102.454
+      ],
+      "min": [
+        -723.523,
+        217.515,
+        -2892.052
+      ],
+      "max": [
+        -661.302,
+        265.393,
+        -2789.598
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "XT_CT_Treeline1_1b_00.003",
+      "span": [
+        55.77,
+        48.421,
+        111.393
+      ],
+      "min": [
+        2372.489,
+        98.045,
+        -210.439
+      ],
+      "max": [
+        2428.259,
+        146.467,
+        -99.046
+      ],
+      "triangles": 40
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.001",
+      "span": [
+        91.066,
+        55.8,
+        378.688
+      ],
+      "min": [
+        2348.459,
+        84.789,
+        -156.751
+      ],
+      "max": [
+        2439.525,
+        140.589,
+        221.937
+      ],
+      "triangles": 160
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.004",
+      "span": [
+        76.366,
+        51.89,
+        331.595
+      ],
+      "min": [
+        2382.648,
+        88.699,
+        -187.085
+      ],
+      "max": [
+        2459.015,
+        140.589,
+        144.509
+      ],
+      "triangles": 200
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_",
+      "span": [
+        104.264,
+        62.957,
+        62.553
+      ],
+      "min": [
+        130.768,
+        184.675,
+        -4162.175
+      ],
+      "max": [
+        235.032,
+        247.632,
+        -4099.622
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "XT_Evrgrn_TreelineS_1b_",
+      "span": [
+        53.318,
+        59.954,
+        72.618
+      ],
+      "min": [
+        54.998,
+        184.675,
+        -4081.22
+      ],
+      "max": [
+        108.316,
+        244.629,
+        -4008.603
+      ],
+      "triangles": 24
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.001",
+      "span": [
+        82.978,
+        62.483,
+        263.348
+      ],
+      "min": [
+        -3.869,
+        184.675,
+        -4109.018
+      ],
+      "max": [
+        79.109,
+        247.158,
+        -3845.67
+      ],
+      "triangles": 84
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.007",
+      "span": [
+        109.317,
+        56.22,
+        181.217
+      ],
+      "min": [
+        26.396,
+        186.34,
+        -4132.708
+      ],
+      "max": [
+        135.713,
+        242.56,
+        -3951.491
+      ],
+      "triangles": 80
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.002",
+      "span": [
+        50.989,
+        47.878,
+        109.569
+      ],
+      "min": [
+        1298.375,
+        125.334,
+        -1335.792
+      ],
+      "max": [
+        1349.364,
+        173.212,
+        -1226.223
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_",
+      "span": [
+        172.004,
+        55.485,
+        203.687
+      ],
+      "min": [
+        1106.853,
+        177.818,
+        -3101.716
+      ],
+      "max": [
+        1278.857,
+        233.302,
+        -2898.029
+      ],
+      "triangles": 1590
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.003",
+      "span": [
+        210.121,
+        58.056,
+        53.334
+      ],
+      "min": [
+        1001.108,
+        152.338,
+        -1869.157
+      ],
+      "max": [
+        1211.229,
+        210.394,
+        -1815.823
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.004",
+      "span": [
+        31.217,
+        47.878,
+        115.753
+      ],
+      "min": [
+        386.766,
+        227.442,
+        -1948.066
+      ],
+      "max": [
+        417.983,
+        275.32,
+        -1832.312
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.005",
+      "span": [
+        31.888,
+        47.878,
+        86.548
+      ],
+      "min": [
+        403.554,
+        229.297,
+        -1867.823
+      ],
+      "max": [
+        435.442,
+        277.175,
+        -1781.275
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.006",
+      "span": [
+        112.216,
+        48.907,
+        310.431
+      ],
+      "min": [
+        377.186,
+        199.51,
+        -2038.677
+      ],
+      "max": [
+        489.402,
+        248.417,
+        -1728.246
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.003",
+      "span": [
+        191.241,
+        50.157,
+        114.791
+      ],
+      "min": [
+        1139.021,
+        88.191,
+        -147.874
+      ],
+      "max": [
+        1330.262,
+        138.348,
+        -33.083
+      ],
+      "triangles": 240
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.011",
+      "span": [
+        338.048,
+        59.325,
+        214.638
+      ],
+      "min": [
+        1752.022,
+        99.758,
+        -914.129
+      ],
+      "max": [
+        2090.07,
+        159.082,
+        -699.491
+      ],
+      "triangles": 680
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-5.zip",
+      "node": "XT_CT_FallTreeFillerB_1.051",
+      "span": [
+        139.524,
+        48.136,
+        80.027
+      ],
+      "min": [
+        2005.877,
+        86.57,
+        -235.416
+      ],
+      "max": [
+        2145.401,
+        134.706,
+        -155.389
+      ],
+      "triangles": 338
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-5.zip",
+      "node": "XT_CT_Treeline1_1b_00.018",
+      "span": [
+        73.307,
+        46.909,
+        64.861
+      ],
+      "min": [
+        2493.444,
+        167.734,
+        -1503.857
+      ],
+      "max": [
+        2566.751,
+        214.643,
+        -1438.996
+      ],
+      "triangles": 40
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-5.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_",
+      "span": [
+        100.54,
+        58.411,
+        132.148
+      ],
+      "min": [
+        2426.069,
+        118.177,
+        -1349.374
+      ],
+      "max": [
+        2526.609,
+        176.587,
+        -1217.226
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-5.zip",
+      "node": "XT_CT_Treeline1_1b_00.026",
+      "span": [
+        57.564,
+        45.668,
+        89.075
+      ],
+      "min": [
+        2985.69,
+        105.868,
+        -1347.401
+      ],
+      "max": [
+        3043.254,
+        151.536,
+        -1258.326
+      ],
+      "triangles": 40
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-5.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.028",
+      "span": [
+        123.385,
+        45.476,
+        337.276
+      ],
+      "min": [
+        2960.803,
+        107.368,
+        -1790.875
+      ],
+      "max": [
+        3084.188,
+        152.844,
+        -1453.599
+      ],
+      "triangles": 120
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_CT_Treeline1_1b_00.006",
+      "span": [
+        79.029,
+        54.466,
+        43.737
+      ],
+      "min": [
+        189.086,
+        188.092,
+        -4219.845
+      ],
+      "max": [
+        268.114,
+        242.558,
+        -4176.108
+      ],
+      "triangles": 40
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_CT_Treeline1Z_1a_00",
+      "span": [
+        79.11,
+        53.534,
+        120.384
+      ],
+      "min": [
+        370.602,
+        212.015,
+        -3991.844
+      ],
+      "max": [
+        449.712,
+        265.549,
+        -3871.459
+      ],
+      "triangles": 318
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.003",
+      "span": [
+        216.12,
+        63.48,
+        211.038
+      ],
+      "min": [
+        319.625,
+        187.288,
+        -4272.199
+      ],
+      "max": [
+        535.744,
+        250.768,
+        -4061.161
+      ],
+      "triangles": 120
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.004",
+      "span": [
+        149.019,
+        64.769,
+        130.49
+      ],
+      "min": [
+        233.406,
+        188.092,
+        -4031.32
+      ],
+      "max": [
+        382.425,
+        252.861,
+        -3900.83
+      ],
+      "triangles": 80
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_",
+      "span": [
+        346.042,
+        69.185,
+        310.047
+      ],
+      "min": [
+        204.269,
+        184.675,
+        -4303.121
+      ],
+      "max": [
+        550.311,
+        253.86,
+        -3993.074
+      ],
+      "triangles": 128
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.001",
+      "span": [
+        145.752,
+        60.774,
+        143.201
+      ],
+      "min": [
+        421.618,
+        211.679,
+        -4079.836
+      ],
+      "max": [
+        567.37,
+        272.453,
+        -3936.635
+      ],
+      "triangles": 84
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.002",
+      "span": [
+        62.232,
+        47.878,
+        102.453
+      ],
+      "min": [
+        -181.369,
+        234.908,
+        -4239.119
+      ],
+      "max": [
+        -119.137,
+        282.786,
+        -4136.666
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_",
+      "span": [
+        182.682,
+        47.803,
+        60.031
+      ],
+      "min": [
+        1418.733,
+        179.665,
+        -3936.192
+      ],
+      "max": [
+        1601.416,
+        227.467,
+        -3876.161
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.003",
+      "span": [
+        389.165,
+        85.557,
+        348.917
+      ],
+      "min": [
+        1196.472,
+        175.793,
+        -4182.777
+      ],
+      "max": [
+        1585.637,
+        261.35,
+        -3833.86
+      ],
+      "triangles": 308
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.004",
+      "span": [
+        217.909,
+        80.014,
+        161.566
+      ],
+      "min": [
+        1341.505,
+        177.992,
+        -4227.919
+      ],
+      "max": [
+        1559.414,
+        258.006,
+        -4066.354
+      ],
+      "triangles": 120
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_CT_FallTreeS_1b_JG_0.010",
+      "span": [
+        32.718,
+        45.201,
+        42.307
+      ],
+      "min": [
+        821.798,
+        216.678,
+        -4139.202
+      ],
+      "max": [
+        854.516,
+        261.879,
+        -4096.895
+      ],
+      "triangles": 142
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.001",
+      "span": [
+        229.622,
+        55.838,
+        439.941
+      ],
+      "min": [
+        715.739,
+        215.653,
+        -4290.382
+      ],
+      "max": [
+        945.361,
+        271.49,
+        -3850.44
+      ],
+      "triangles": 1908
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.006",
+      "span": [
+        241.013,
+        58.014,
+        341.779
+      ],
+      "min": [
+        703.22,
+        215.921,
+        -4266.74
+      ],
+      "max": [
+        944.233,
+        273.935,
+        -3924.961
+      ],
+      "triangles": 148
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.007",
+      "span": [
+        382.982,
+        61.072,
+        93.798
+      ],
+      "min": [
+        236.629,
+        236.51,
+        -4475.521
+      ],
+      "max": [
+        619.611,
+        297.582,
+        -4381.723
+      ],
+      "triangles": 140
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.008",
+      "span": [
+        92.307,
+        56.377,
+        115.247
+      ],
+      "min": [
+        153.619,
+        248.992,
+        -4446.849
+      ],
+      "max": [
+        245.926,
+        305.369,
+        -4331.603
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.009",
+      "span": [
+        363.275,
+        67.458,
+        395.713
+      ],
+      "min": [
+        -146.934,
+        232.087,
+        -4400.753
+      ],
+      "max": [
+        216.341,
+        299.545,
+        -4005.04
+      ],
+      "triangles": 196
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.010",
+      "span": [
+        210.65,
+        79.862,
+        73.58
+      ],
+      "min": [
+        925.079,
+        219.702,
+        -4268.375
+      ],
+      "max": [
+        1135.729,
+        299.564,
+        -4194.796
+      ],
+      "triangles": 84
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.002",
+      "span": [
+        175.814,
+        56.534,
+        212.49
+      ],
+      "min": [
+        918.021,
+        205.139,
+        -4207.384
+      ],
+      "max": [
+        1093.835,
+        261.672,
+        -3994.894
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.012",
+      "span": [
+        177.158,
+        121.044,
+        464.028
+      ],
+      "min": [
+        -570.304,
+        228.023,
+        -4037.145
+      ],
+      "max": [
+        -393.146,
+        349.067,
+        -3573.117
+      ],
+      "triangles": 420
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.013",
+      "span": [
+        82.759,
+        76.382,
+        293.126
+      ],
+      "min": [
+        -521.604,
+        250.179,
+        -4247.653
+      ],
+      "max": [
+        -438.845,
+        326.561,
+        -3954.527
+      ],
+      "triangles": 84
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.014",
+      "span": [
+        287.329,
+        67.833,
+        297.865
+      ],
+      "min": [
+        -279.573,
+        239.758,
+        -4068.294
+      ],
+      "max": [
+        7.756,
+        307.591,
+        -3770.429
+      ],
+      "triangles": 224
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.015",
+      "span": [
+        93.869,
+        47.878,
+        77.788
+      ],
+      "min": [
+        -422.719,
+        262.335,
+        -4214.337
+      ],
+      "max": [
+        -328.85,
+        310.213,
+        -4136.55
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.016",
+      "span": [
+        191.613,
+        67.368,
+        352.578
+      ],
+      "min": [
+        -185.045,
+        235.874,
+        -4546.365
+      ],
+      "max": [
+        6.568,
+        303.242,
+        -4193.787
+      ],
+      "triangles": 112
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.017",
+      "span": [
+        315.005,
+        70.573,
+        109.717
+      ],
+      "min": [
+        -10.949,
+        250.91,
+        -4613.31
+      ],
+      "max": [
+        304.056,
+        321.483,
+        -4503.593
+      ],
+      "triangles": 112
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineS_1b_",
+      "span": [
+        149.925,
+        58.726,
+        126.093
+      ],
+      "min": [
+        949.545,
+        201.614,
+        -4499.766
+      ],
+      "max": [
+        1099.47,
+        260.34,
+        -4373.673
+      ],
+      "triangles": 40
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.001",
+      "span": [
+        150.701,
+        63.982,
+        71.063
+      ],
+      "min": [
+        551.019,
+        218.569,
+        -4501.016
+      ],
+      "max": [
+        701.72,
+        282.551,
+        -4429.953
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_",
+      "span": [
+        350.163,
+        46.029,
+        104.338
+      ],
+      "min": [
+        661.061,
+        195.448,
+        -4487.741
+      ],
+      "max": [
+        1011.225,
+        241.476,
+        -4383.402
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.004",
+      "span": [
+        32.833,
+        47.878,
+        115.646
+      ],
+      "min": [
+        1342.25,
+        230.733,
+        -4450.345
+      ],
+      "max": [
+        1375.084,
+        278.611,
+        -4334.699
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.001",
+      "span": [
+        242.174,
+        56.146,
+        233.682
+      ],
+      "min": [
+        1093.748,
+        206.062,
+        -4515.007
+      ],
+      "max": [
+        1335.922,
+        262.207,
+        -4281.325
+      ],
+      "triangles": 2064
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineS_1b_.001",
+      "span": [
+        186.183,
+        70.694,
+        136.38
+      ],
+      "min": [
+        1114.166,
+        207.167,
+        -4469.146
+      ],
+      "max": [
+        1300.349,
+        277.861,
+        -4332.765
+      ],
+      "triangles": 40
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.006",
+      "span": [
+        370.363,
+        74.533,
+        224.378
+      ],
+      "min": [
+        1015.725,
+        211.878,
+        -4515.744
+      ],
+      "max": [
+        1386.088,
+        286.411,
+        -4291.366
+      ],
+      "triangles": 84
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.003",
+      "span": [
+        120.012,
+        50.184,
+        211.553
+      ],
+      "min": [
+        545.841,
+        197.441,
+        -3976.771
+      ],
+      "max": [
+        665.853,
+        247.624,
+        -3765.218
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.007",
+      "span": [
+        113.738,
+        49.012,
+        45.54
+      ],
+      "min": [
+        2004.427,
+        164.856,
+        -3855.172
+      ],
+      "max": [
+        2118.166,
+        213.868,
+        -3809.631
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineS_1b_.002",
+      "span": [
+        124.142,
+        52.351,
+        175.694
+      ],
+      "min": [
+        1957.892,
+        167.778,
+        -3965.711
+      ],
+      "max": [
+        2082.033,
+        220.129,
+        -3790.017
+      ],
+      "triangles": 32
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.012",
+      "span": [
+        189.659,
+        97.429,
+        210.508
+      ],
+      "min": [
+        2097.265,
+        164.856,
+        -3926.29
+      ],
+      "max": [
+        2286.924,
+        262.285,
+        -3715.781
+      ],
+      "triangles": 120
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.005",
+      "span": [
+        228.073,
+        73.057,
+        195.429
+      ],
+      "min": [
+        2070.069,
+        164.748,
+        -3896.792
+      ],
+      "max": [
+        2298.142,
+        237.805,
+        -3701.362
+      ],
+      "triangles": 1908
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.007",
+      "span": [
+        326.366,
+        56.35,
+        154.253
+      ],
+      "min": [
+        723.906,
+        169.869,
+        -4652.656
+      ],
+      "max": [
+        1050.272,
+        226.219,
+        -4498.403
+      ],
+      "triangles": 1590
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.008",
+      "span": [
+        97.323,
+        60.318,
+        126.385
+      ],
+      "min": [
+        1065.593,
+        202.278,
+        -4612.125
+      ],
+      "max": [
+        1162.917,
+        262.595,
+        -4485.741
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.013",
+      "span": [
+        462.722,
+        172.794,
+        172.917
+      ],
+      "min": [
+        377.506,
+        178.36,
+        -4735.23
+      ],
+      "max": [
+        840.227,
+        351.154,
+        -4562.312
+      ],
+      "triangles": 568
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.014",
+      "span": [
+        280.704,
+        74.691,
+        211.807
+      ],
+      "min": [
+        799.371,
+        171.123,
+        -4734.292
+      ],
+      "max": [
+        1080.074,
+        245.814,
+        -4522.485
+      ],
+      "triangles": 200
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.015",
+      "span": [
+        114.946,
+        47.878,
+        42.397
+      ],
+      "min": [
+        278.956,
+        252.037,
+        -4591.968
+      ],
+      "max": [
+        393.902,
+        299.915,
+        -4549.571
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.016",
+      "span": [
+        92.857,
+        47.878,
+        115.712
+      ],
+      "min": [
+        1062.283,
+        221.528,
+        -4616.9
+      ],
+      "max": [
+        1155.139,
+        269.406,
+        -4501.188
+      ],
+      "triangles": 36
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.017",
+      "span": [
+        60.543,
+        47.878,
+        103.43
+      ],
+      "min": [
+        1709.543,
+        247.602,
+        -4378.231
+      ],
+      "max": [
+        1770.085,
+        295.481,
+        -4274.8
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.018",
+      "span": [
+        165.789,
+        119.259,
+        214.6
+      ],
+      "min": [
+        1694.651,
+        171.161,
+        -4277.601
+      ],
+      "max": [
+        1860.441,
+        290.42,
+        -4063.001
+      ],
+      "triangles": 72
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.009",
+      "span": [
+        165.156,
+        59.87,
+        99.8
+      ],
+      "min": [
+        1739.09,
+        215.452,
+        -4281.955
+      ],
+      "max": [
+        1904.246,
+        275.321,
+        -4182.154
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineS_1b_.006",
+      "span": [
+        196.975,
+        50.721,
+        66.561
+      ],
+      "min": [
+        2016.771,
+        199.2,
+        -4070.992
+      ],
+      "max": [
+        2213.747,
+        249.921,
+        -4004.431
+      ],
+      "triangles": 24
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.020",
+      "span": [
+        128.738,
+        80.137,
+        141.482
+      ],
+      "min": [
+        2028.855,
+        204.353,
+        -4007.996
+      ],
+      "max": [
+        2157.593,
+        284.49,
+        -3866.514
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_FallTree2D_1b_JG_.017",
+      "span": [
+        34.722,
+        49.15,
+        36.616
+      ],
+      "min": [
+        978.605,
+        152.843,
+        -2587.247
+      ],
+      "max": [
+        1013.327,
+        201.992,
+        -2550.63
+      ],
+      "triangles": 144
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.002",
+      "span": [
+        94.713,
+        46.749,
+        185.396
+      ],
+      "min": [
+        2751.861,
+        274.87,
+        -4345.958
+      ],
+      "max": [
+        2846.574,
+        321.618,
+        -4160.561
+      ],
+      "triangles": 240
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.024",
+      "span": [
+        194.58,
+        59.723,
+        244.924
+      ],
+      "min": [
+        1039.086,
+        205.785,
+        -4226.748
+      ],
+      "max": [
+        1233.666,
+        265.508,
+        -3981.824
+      ],
+      "triangles": 92
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.010",
+      "span": [
+        205.074,
+        62.001,
+        281.072
+      ],
+      "min": [
+        1066.383,
+        198.701,
+        -4252.729
+      ],
+      "max": [
+        1271.457,
+        260.702,
+        -3971.657
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.011",
+      "span": [
+        197.273,
+        49.443,
+        129.62
+      ],
+      "min": [
+        1055.927,
+        196.402,
+        -3941.4
+      ],
+      "max": [
+        1253.2,
+        245.845,
+        -3811.78
+      ],
+      "triangles": 1590
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.004",
+      "span": [
+        108.431,
+        58.572,
+        211.238
+      ],
+      "min": [
+        2661.794,
+        265.662,
+        -4186.036
+      ],
+      "max": [
+        2770.225,
+        324.234,
+        -3974.798
+      ],
+      "triangles": 280
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineS_1b_.008",
+      "span": [
+        101.933,
+        61.117,
+        186.231
+      ],
+      "min": [
+        2643.639,
+        242.708,
+        -4171.149
+      ],
+      "max": [
+        2745.573,
+        303.825,
+        -3984.918
+      ],
+      "triangles": 80
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.026",
+      "span": [
+        260.157,
+        66.607,
+        231.256
+      ],
+      "min": [
+        2635.761,
+        209.032,
+        -3678.792
+      ],
+      "max": [
+        2895.918,
+        275.639,
+        -3447.537
+      ],
+      "triangles": 308
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.027",
+      "span": [
+        164.328,
+        108.628,
+        266.298
+      ],
+      "min": [
+        2591.821,
+        210.783,
+        -4172.79
+      ],
+      "max": [
+        2756.149,
+        319.411,
+        -3906.492
+      ],
+      "triangles": 84
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.030",
+      "span": [
+        243.898,
+        71.948,
+        191.964
+      ],
+      "min": [
+        1731.146,
+        169.603,
+        -4154.083
+      ],
+      "max": [
+        1975.044,
+        241.551,
+        -3962.118
+      ],
+      "triangles": 148
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineS_1b_.012",
+      "span": [
+        55.44,
+        48.541,
+        64.915
+      ],
+      "min": [
+        2181.307,
+        222.019,
+        -4369.074
+      ],
+      "max": [
+        2236.747,
+        270.56,
+        -4304.159
+      ],
+      "triangles": 24
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.012",
+      "span": [
+        205.059,
+        48.409,
+        122.901
+      ],
+      "min": [
+        1362.865,
+        179.234,
+        -3796.737
+      ],
+      "max": [
+        1567.924,
+        227.642,
+        -3673.835
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.034",
+      "span": [
+        204.927,
+        51.834,
+        173.858
+      ],
+      "min": [
+        1415.608,
+        175.22,
+        -3881.622
+      ],
+      "max": [
+        1620.534,
+        227.054,
+        -3707.764
+      ],
+      "triangles": 140
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.035",
+      "span": [
+        63.635,
+        47.878,
+        103.67
+      ],
+      "min": [
+        1182.777,
+        221.528,
+        -4589.212
+      ],
+      "max": [
+        1246.412,
+        269.406,
+        -4485.542
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.036",
+      "span": [
+        169.36,
+        111.767,
+        314.705
+      ],
+      "min": [
+        1839.569,
+        201.494,
+        -4711.644
+      ],
+      "max": [
+        2008.929,
+        313.261,
+        -4396.939
+      ],
+      "triangles": 112
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.037",
+      "span": [
+        167.395,
+        49.569,
+        93.066
+      ],
+      "min": [
+        1770.023,
+        242.879,
+        -4448.367
+      ],
+      "max": [
+        1937.418,
+        292.448,
+        -4355.3
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.013",
+      "span": [
+        276.992,
+        66.735,
+        192.07
+      ],
+      "min": [
+        1800.793,
+        215.704,
+        -4533.795
+      ],
+      "max": [
+        2077.784,
+        282.439,
+        -4341.725
+      ],
+      "triangles": 1590
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.038",
+      "span": [
+        148.42,
+        49.012,
+        244.452
+      ],
+      "min": [
+        1830.169,
+        139.649,
+        -3105.411
+      ],
+      "max": [
+        1978.588,
+        188.661,
+        -2860.959
+      ],
+      "triangles": 168
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.039",
+      "span": [
+        144.739,
+        60.925,
+        267.291
+      ],
+      "min": [
+        2094.804,
+        146.222,
+        -3109.791
+      ],
+      "max": [
+        2239.543,
+        207.147,
+        -2842.5
+      ],
+      "triangles": 168
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.040",
+      "span": [
+        198.832,
+        58.262,
+        234.705
+      ],
+      "min": [
+        1846.364,
+        180.58,
+        -4211.986
+      ],
+      "max": [
+        2045.196,
+        238.842,
+        -3977.281
+      ],
+      "triangles": 140
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.041",
+      "span": [
+        83.488,
+        59.502,
+        89.852
+      ],
+      "min": [
+        1930.893,
+        203.567,
+        -4298.541
+      ],
+      "max": [
+        2014.381,
+        263.069,
+        -4208.689
+      ],
+      "triangles": 92
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.042",
+      "span": [
+        192.138,
+        50.978,
+        232.923
+      ],
+      "min": [
+        2174.947,
+        194.762,
+        -3552.489
+      ],
+      "max": [
+        2367.085,
+        245.74,
+        -3319.565
+      ],
+      "triangles": 140
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.043",
+      "span": [
+        150.144,
+        47.469,
+        235.146
+      ],
+      "min": [
+        2353.926,
+        201.337,
+        -3754.128
+      ],
+      "max": [
+        2504.07,
+        248.806,
+        -3518.982
+      ],
+      "triangles": 168
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.009",
+      "span": [
+        167.533,
+        45.133,
+        79.612
+      ],
+      "min": [
+        658.596,
+        193.236,
+        -3174.958
+      ],
+      "max": [
+        826.129,
+        238.369,
+        -3095.346
+      ],
+      "triangles": 344
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.010",
+      "span": [
+        168.584,
+        55.372,
+        158.035
+      ],
+      "min": [
+        633.673,
+        189.815,
+        -3219.988
+      ],
+      "max": [
+        802.258,
+        245.187,
+        -3061.952
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.005",
+      "span": [
+        138.812,
+        56.859,
+        150.08
+      ],
+      "min": [
+        633.533,
+        187.495,
+        -3211.328
+      ],
+      "max": [
+        772.345,
+        244.354,
+        -3061.248
+      ],
+      "triangles": 120
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.046",
+      "span": [
+        37.52,
+        47.878,
+        113.423
+      ],
+      "min": [
+        464.813,
+        223.914,
+        -4004.746
+      ],
+      "max": [
+        502.333,
+        271.792,
+        -3891.323
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1_1b_00.011",
+      "span": [
+        108.08,
+        49.233,
+        67.484
+      ],
+      "min": [
+        1292.56,
+        190.592,
+        -3780.385
+      ],
+      "max": [
+        1400.64,
+        239.825,
+        -3712.901
+      ],
+      "triangles": 40
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_CT_Treeline1Z_1a_00.031",
+      "span": [
+        133.641,
+        46.938,
+        51.207
+      ],
+      "min": [
+        1284.437,
+        190.585,
+        -3768.794
+      ],
+      "max": [
+        1418.078,
+        237.524,
+        -3717.587
+      ],
+      "triangles": 318
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.047",
+      "span": [
+        115.529,
+        47.878,
+        29.034
+      ],
+      "min": [
+        1604.372,
+        177.827,
+        -4079.745
+      ],
+      "max": [
+        1719.901,
+        225.705,
+        -4050.711
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.048",
+      "span": [
+        230.764,
+        55.579,
+        157.707
+      ],
+      "min": [
+        1817.906,
+        157.16,
+        -3753.797
+      ],
+      "max": [
+        2048.669,
+        212.739,
+        -3596.089
+      ],
+      "triangles": 148
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_",
+      "span": [
+        49.236,
+        47.878,
+        110.249
+      ],
+      "min": [
+        58.346,
+        184.675,
+        -3888.081
+      ],
+      "max": [
+        107.582,
+        232.553,
+        -3777.833
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_Evrgrn_TreelineS_1b_",
+      "span": [
+        52.099,
+        46.284,
+        50.734
+      ],
+      "min": [
+        195.79,
+        184.675,
+        -3980.96
+      ],
+      "max": [
+        247.889,
+        230.959,
+        -3930.226
+      ],
+      "triangles": 16
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_",
+      "span": [
+        47.621,
+        51.73,
+        246.552
+      ],
+      "min": [
+        329.771,
+        218.399,
+        -3932.986
+      ],
+      "max": [
+        377.392,
+        270.129,
+        -3686.434
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.001",
+      "span": [
+        249.522,
+        107.811,
+        234.872
+      ],
+      "min": [
+        193.374,
+        184.324,
+        -3955.237
+      ],
+      "max": [
+        442.897,
+        292.135,
+        -3720.365
+      ],
+      "triangles": 140
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.001",
+      "span": [
+        94.386,
+        49.235,
+        191.72
+      ],
+      "min": [
+        1271.251,
+        198.039,
+        -3390.512
+      ],
+      "max": [
+        1365.637,
+        247.274,
+        -3198.792
+      ],
+      "triangles": 80
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.002",
+      "span": [
+        87.279,
+        48.877,
+        194.973
+      ],
+      "min": [
+        1275.095,
+        199.924,
+        -3434.217
+      ],
+      "max": [
+        1362.374,
+        248.801,
+        -3239.244
+      ],
+      "triangles": 80
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.004",
+      "span": [
+        106.028,
+        53.045,
+        126.424
+      ],
+      "min": [
+        1111.113,
+        191.6,
+        -3868.514
+      ],
+      "max": [
+        1217.141,
+        244.645,
+        -3742.09
+      ],
+      "triangles": 80
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.001",
+      "span": [
+        117.245,
+        50.765,
+        139.953
+      ],
+      "min": [
+        1110.682,
+        191.595,
+        -3873.518
+      ],
+      "max": [
+        1227.927,
+        242.36,
+        -3733.565
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_FallTreeD_1b_JG_0.031",
+      "span": [
+        30.819,
+        47.975,
+        32.566
+      ],
+      "min": [
+        557.198,
+        170.077,
+        -2832.164
+      ],
+      "max": [
+        588.017,
+        218.053,
+        -2799.598
+      ],
+      "triangles": 166
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_FallTreeD_1b_JG_0.032",
+      "span": [
+        33.776,
+        47.975,
+        36.747
+      ],
+      "min": [
+        488.801,
+        177.469,
+        -2813.147
+      ],
+      "max": [
+        522.577,
+        225.444,
+        -2776.4
+      ],
+      "triangles": 166
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_FallTreeD_1b_JG_0.033",
+      "span": [
+        34.608,
+        50.298,
+        31.746
+      ],
+      "min": [
+        537.63,
+        173.593,
+        -2802.577
+      ],
+      "max": [
+        572.238,
+        223.891,
+        -2770.83
+      ],
+      "triangles": 166
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_FallTreeD_1b_JG_0.034",
+      "span": [
+        31.696,
+        47.975,
+        35.38
+      ],
+      "min": [
+        516.351,
+        174.869,
+        -2832.327
+      ],
+      "max": [
+        548.047,
+        222.844,
+        -2796.947
+      ],
+      "triangles": 166
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.001",
+      "span": [
+        120.973,
+        47.206,
+        101.708
+      ],
+      "min": [
+        486.42,
+        176.02,
+        -2926.45
+      ],
+      "max": [
+        607.394,
+        223.227,
+        -2824.742
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.004",
+      "span": [
+        333.379,
+        58.368,
+        145.136
+      ],
+      "min": [
+        1695.526,
+        157.782,
+        -3534.131
+      ],
+      "max": [
+        2028.904,
+        216.15,
+        -3388.995
+      ],
+      "triangles": 240
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_FallTreeD_1b_JG_0.048",
+      "span": [
+        36.827,
+        47.975,
+        34.297
+      ],
+      "min": [
+        472.917,
+        177.711,
+        -2841.417
+      ],
+      "max": [
+        509.743,
+        225.686,
+        -2807.12
+      ],
+      "triangles": 166
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_FallTreeD_1b_JG_0.052",
+      "span": [
+        30.819,
+        47.975,
+        32.566
+      ],
+      "min": [
+        445.953,
+        179.28,
+        -2824.738
+      ],
+      "max": [
+        476.773,
+        227.255,
+        -2792.171
+      ],
+      "triangles": 166
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.003",
+      "span": [
+        86.38,
+        57.872,
+        193.411
+      ],
+      "min": [
+        434.775,
+        182.774,
+        -3084.888
+      ],
+      "max": [
+        521.154,
+        240.647,
+        -2891.477
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.005",
+      "span": [
+        170.797,
+        51.023,
+        197.989
+      ],
+      "min": [
+        1769.779,
+        150.181,
+        -2018.032
+      ],
+      "max": [
+        1940.576,
+        201.204,
+        -1820.043
+      ],
+      "triangles": 84
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.006",
+      "span": [
+        216.361,
+        49.827,
+        307.621
+      ],
+      "min": [
+        417.134,
+        198.96,
+        -3410.002
+      ],
+      "max": [
+        633.495,
+        248.787,
+        -3102.381
+      ],
+      "triangles": 5406
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.007",
+      "span": [
+        331.467,
+        51.236,
+        195.161
+      ],
+      "min": [
+        1008.643,
+        174.513,
+        -2940.278
+      ],
+      "max": [
+        1340.11,
+        225.748,
+        -2745.116
+      ],
+      "triangles": 1590
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_Treeline1_1b_00.006",
+      "span": [
+        83.679,
+        45.924,
+        50.023
+      ],
+      "min": [
+        1237.123,
+        199.149,
+        -3734.712
+      ],
+      "max": [
+        1320.802,
+        245.073,
+        -3684.689
+      ],
+      "triangles": 40
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.006",
+      "span": [
+        82.588,
+        53.045,
+        145.016
+      ],
+      "min": [
+        1297.462,
+        191.6,
+        -3633.509
+      ],
+      "max": [
+        1380.05,
+        244.645,
+        -3488.493
+      ],
+      "triangles": 80
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.006",
+      "span": [
+        181.628,
+        45.325,
+        216.847
+      ],
+      "min": [
+        1185.454,
+        198.374,
+        -3755.967
+      ],
+      "max": [
+        1367.082,
+        243.699,
+        -3539.119
+      ],
+      "triangles": 140
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.007",
+      "span": [
+        42.445,
+        46.353,
+        173.682
+      ],
+      "min": [
+        1933.174,
+        137.915,
+        -2083.044
+      ],
+      "max": [
+        1975.619,
+        184.268,
+        -1909.362
+      ],
+      "triangles": 64
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.008",
+      "span": [
+        98.532,
+        59.999,
+        137.821
+      ],
+      "min": [
+        1872.178,
+        141.05,
+        -2068.343
+      ],
+      "max": [
+        1970.711,
+        201.049,
+        -1930.522
+      ],
+      "triangles": 84
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_FallTreeS_1b_JG_0.051",
+      "span": [
+        47.249,
+        49.617,
+        36.791
+      ],
+      "min": [
+        1633.187,
+        178.611,
+        -3865.917
+      ],
+      "max": [
+        1680.436,
+        228.228,
+        -3829.126
+      ],
+      "triangles": 142
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.009",
+      "span": [
+        74.178,
+        51.628,
+        234.234
+      ],
+      "min": [
+        1637.443,
+        166.227,
+        -3763.189
+      ],
+      "max": [
+        1711.621,
+        217.855,
+        -3528.956
+      ],
+      "triangles": 192
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.010",
+      "span": [
+        108.916,
+        47.878,
+        49.934
+      ],
+      "min": [
+        859.296,
+        212.394,
+        -3897.952
+      ],
+      "max": [
+        968.212,
+        260.272,
+        -3848.018
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.011",
+      "span": [
+        360.003,
+        92.282,
+        326.049
+      ],
+      "min": [
+        1870.371,
+        137.846,
+        -3386.85
+      ],
+      "max": [
+        2230.375,
+        230.128,
+        -3060.801
+      ],
+      "triangles": 420
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.012",
+      "span": [
+        113.97,
+        53.14,
+        106.406
+      ],
+      "min": [
+        2154.802,
+        190.276,
+        -3383.03
+      ],
+      "max": [
+        2268.772,
+        243.416,
+        -3276.624
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.010",
+      "span": [
+        108.402,
+        54.403,
+        187.741
+      ],
+      "min": [
+        1917.516,
+        138.668,
+        -3281.827
+      ],
+      "max": [
+        2025.918,
+        193.07,
+        -3094.085
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.001",
+      "span": [
+        113.311,
+        47.878,
+        41.333
+      ],
+      "min": [
+        1708.955,
+        138.702,
+        -1376.853
+      ],
+      "max": [
+        1822.266,
+        186.581,
+        -1335.519
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.001",
+      "span": [
+        62.774,
+        52.175,
+        56.618
+      ],
+      "min": [
+        1416.371,
+        125.2,
+        -1473.173
+      ],
+      "max": [
+        1479.145,
+        177.375,
+        -1416.554
+      ],
+      "triangles": 80
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.002",
+      "span": [
+        249.507,
+        70.137,
+        141.064
+      ],
+      "min": [
+        1449.389,
+        122.046,
+        -1472.533
+      ],
+      "max": [
+        1698.896,
+        192.183,
+        -1331.469
+      ],
+      "triangles": 112
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.001",
+      "span": [
+        183.37,
+        47.48,
+        132.345
+      ],
+      "min": [
+        1455.257,
+        121.984,
+        -1458.674
+      ],
+      "max": [
+        1638.626,
+        169.463,
+        -1326.328
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_",
+      "span": [
+        284.404,
+        56.106,
+        73.328
+      ],
+      "min": [
+        1006.432,
+        165.622,
+        -2768.734
+      ],
+      "max": [
+        1290.835,
+        221.727,
+        -2695.406
+      ],
+      "triangles": 1272
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.001",
+      "span": [
+        162.047,
+        50.529,
+        294.528
+      ],
+      "min": [
+        1263.177,
+        158.342,
+        -2930.496
+      ],
+      "max": [
+        1425.223,
+        208.87,
+        -2635.969
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.003",
+      "span": [
+        79.173,
+        47.878,
+        91.72
+      ],
+      "min": [
+        -114.179,
+        253.676,
+        -2128.527
+      ],
+      "max": [
+        -35.006,
+        301.554,
+        -2036.807
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.004",
+      "span": [
+        104.274,
+        47.878,
+        62.538
+      ],
+      "min": [
+        -223.304,
+        241.666,
+        -2386.202
+      ],
+      "max": [
+        -119.029,
+        289.544,
+        -2323.665
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineS_1b_",
+      "span": [
+        143.553,
+        71.431,
+        114.826
+      ],
+      "min": [
+        -196.627,
+        210.284,
+        -2235.945
+      ],
+      "max": [
+        -53.073,
+        281.715,
+        -2121.119
+      ],
+      "triangles": 64
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.003",
+      "span": [
+        164.399,
+        62.517,
+        218.537
+      ],
+      "min": [
+        -239.187,
+        208.381,
+        -2269.045
+      ],
+      "max": [
+        -74.788,
+        270.898,
+        -2050.509
+      ],
+      "triangles": 714
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.005",
+      "span": [
+        274.608,
+        89.234,
+        321.678
+      ],
+      "min": [
+        -272.837,
+        212.763,
+        -2307.17
+      ],
+      "max": [
+        1.771,
+        301.997,
+        -1985.492
+      ],
+      "triangles": 168
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.006",
+      "span": [
+        112.814,
+        49.116,
+        189.004
+      ],
+      "min": [
+        -386.383,
+        259.525,
+        -2215.079
+      ],
+      "max": [
+        -273.569,
+        308.641,
+        -2026.075
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.007",
+      "span": [
+        32.24,
+        47.878,
+        115.699
+      ],
+      "min": [
+        400.503,
+        175.01,
+        -2062.806
+      ],
+      "max": [
+        432.742,
+        222.888,
+        -1947.107
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.008",
+      "span": [
+        288.427,
+        77.607,
+        141.966
+      ],
+      "min": [
+        398.031,
+        163.856,
+        -2080.025
+      ],
+      "max": [
+        686.458,
+        241.463,
+        -1938.06
+      ],
+      "triangles": 84
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.009",
+      "span": [
+        279.4,
+        70.265,
+        166.573
+      ],
+      "min": [
+        445.049,
+        162.603,
+        -1844.516
+      ],
+      "max": [
+        724.449,
+        232.868,
+        -1677.943
+      ],
+      "triangles": 100
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.004",
+      "span": [
+        180.639,
+        49.182,
+        75.163
+      ],
+      "min": [
+        474.463,
+        164.794,
+        -1769.534
+      ],
+      "max": [
+        655.103,
+        213.975,
+        -1694.371
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.005",
+      "span": [
+        212.384,
+        53.189,
+        83.646
+      ],
+      "min": [
+        525.514,
+        156.936,
+        -2038.151
+      ],
+      "max": [
+        737.898,
+        210.125,
+        -1954.505
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_FallTreeD_1b_JG_0.007",
+      "span": [
+        34.626,
+        45.745,
+        31.465
+      ],
+      "min": [
+        306.458,
+        188.407,
+        -3233.803
+      ],
+      "max": [
+        341.084,
+        234.152,
+        -3202.339
+      ],
+      "triangles": 166
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_FallTreeD_1b_JG_0.008",
+      "span": [
+        35.054,
+        45.745,
+        32.244
+      ],
+      "min": [
+        385.439,
+        188.835,
+        -3255.359
+      ],
+      "max": [
+        420.494,
+        234.58,
+        -3223.116
+      ],
+      "triangles": 166
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_FallTreeD_1b_JG_0.009",
+      "span": [
+        35.054,
+        45.745,
+        32.244
+      ],
+      "min": [
+        363.251,
+        187.352,
+        -3186.984
+      ],
+      "max": [
+        398.305,
+        233.098,
+        -3154.741
+      ],
+      "triangles": 166
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_FallTreeD_1b_JG_0.010",
+      "span": [
+        31.176,
+        45.745,
+        29.436
+      ],
+      "min": [
+        394.398,
+        194.933,
+        -3343.029
+      ],
+      "max": [
+        425.575,
+        240.678,
+        -3313.592
+      ],
+      "triangles": 166
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.006",
+      "span": [
+        200.6,
+        52.763,
+        348.785
+      ],
+      "min": [
+        262.844,
+        190.288,
+        -3408.075
+      ],
+      "max": [
+        463.444,
+        243.051,
+        -3059.289
+      ],
+      "triangles": 3180
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineS_1b_.001",
+      "span": [
+        110.725,
+        59.063,
+        68.094
+      ],
+      "min": [
+        -265.486,
+        230.512,
+        -3753.988
+      ],
+      "max": [
+        -154.761,
+        289.575,
+        -3685.895
+      ],
+      "triangles": 32
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.008",
+      "span": [
+        114.79,
+        56.238,
+        121.406
+      ],
+      "min": [
+        -475.481,
+        195.77,
+        -3617.486
+      ],
+      "max": [
+        -360.691,
+        252.008,
+        -3496.08
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.011",
+      "span": [
+        102.016,
+        71.684,
+        193.747
+      ],
+      "min": [
+        -507.421,
+        195.948,
+        -3595.204
+      ],
+      "max": [
+        -405.405,
+        267.632,
+        -3401.457
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.013",
+      "span": [
+        234.203,
+        56.904,
+        109.565
+      ],
+      "min": [
+        1224.366,
+        129.516,
+        -1504.067
+      ],
+      "max": [
+        1458.568,
+        186.42,
+        -1394.501
+      ],
+      "triangles": 64
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.004",
+      "span": [
+        189.114,
+        46.752,
+        208.121
+      ],
+      "min": [
+        1263.466,
+        125.865,
+        -1531.817
+      ],
+      "max": [
+        1452.58,
+        172.616,
+        -1323.696
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.012",
+      "span": [
+        321.392,
+        51.66,
+        183.894
+      ],
+      "min": [
+        -45.863,
+        181.754,
+        -2919.273
+      ],
+      "max": [
+        275.529,
+        233.413,
+        -2735.38
+      ],
+      "triangles": 1272
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_FallTreeD_1b_JG_0.019",
+      "span": [
+        32.271,
+        47.975,
+        30.656
+      ],
+      "min": [
+        213.584,
+        188.623,
+        -3421.142
+      ],
+      "max": [
+        245.855,
+        236.598,
+        -3390.486
+      ],
+      "triangles": 166
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.015",
+      "span": [
+        31.301,
+        62.84,
+        115.749
+      ],
+      "min": [
+        436.247,
+        220.907,
+        -3750.249
+      ],
+      "max": [
+        467.549,
+        283.747,
+        -3634.5
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.013",
+      "span": [
+        186.885,
+        75.907,
+        357.034
+      ],
+      "min": [
+        243.243,
+        188.606,
+        -3760.45
+      ],
+      "max": [
+        430.128,
+        264.513,
+        -3403.416
+      ],
+      "triangles": 1590
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.005",
+      "span": [
+        101.019,
+        76.254,
+        169.648
+      ],
+      "min": [
+        1.848,
+        192.068,
+        -3917.691
+      ],
+      "max": [
+        102.867,
+        268.321,
+        -3748.043
+      ],
+      "triangles": 92
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.017",
+      "span": [
+        209.431,
+        97.463,
+        134.678
+      ],
+      "min": [
+        -131.51,
+        184.675,
+        -3858.755
+      ],
+      "max": [
+        77.921,
+        282.138,
+        -3724.077
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.015",
+      "span": [
+        177.491,
+        51.051,
+        89.284
+      ],
+      "min": [
+        -136.498,
+        212.976,
+        -3780.404
+      ],
+      "max": [
+        40.993,
+        264.027,
+        -3691.12
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.018",
+      "span": [
+        242.72,
+        68.204,
+        236.371
+      ],
+      "min": [
+        -614.641,
+        240.915,
+        -2441.499
+      ],
+      "max": [
+        -371.921,
+        309.119,
+        -2205.127
+      ],
+      "triangles": 140
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.019",
+      "span": [
+        254.116,
+        52.363,
+        239.229
+      ],
+      "min": [
+        -498.834,
+        237.747,
+        -2587.42
+      ],
+      "max": [
+        -244.718,
+        290.11,
+        -2348.191
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.018",
+      "span": [
+        139.705,
+        54.852,
+        282.868
+      ],
+      "min": [
+        1296.733,
+        141.71,
+        -1809.669
+      ],
+      "max": [
+        1436.438,
+        196.561,
+        -1526.801
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.022",
+      "span": [
+        302.145,
+        72.105,
+        142.671
+      ],
+      "min": [
+        1142.32,
+        138.927,
+        -1631.228
+      ],
+      "max": [
+        1444.464,
+        211.032,
+        -1488.557
+      ],
+      "triangles": 112
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.023",
+      "span": [
+        151.97,
+        62.518,
+        101.306
+      ],
+      "min": [
+        1003.232,
+        151.004,
+        -1623.956
+      ],
+      "max": [
+        1155.202,
+        213.522,
+        -1522.65
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.007",
+      "span": [
+        83.966,
+        52.037,
+        296.021
+      ],
+      "min": [
+        1874.252,
+        137.131,
+        -1796.471
+      ],
+      "max": [
+        1958.219,
+        189.168,
+        -1500.449
+      ],
+      "triangles": 2028
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.020",
+      "span": [
+        207.857,
+        64.234,
+        216.089
+      ],
+      "min": [
+        2235.245,
+        104.408,
+        -1297.027
+      ],
+      "max": [
+        2443.102,
+        168.641,
+        -1080.938
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1b_00_.008",
+      "span": [
+        148.972,
+        49.038,
+        184.607
+      ],
+      "min": [
+        2023.219,
+        148.036,
+        -1818.221
+      ],
+      "max": [
+        2172.191,
+        197.075,
+        -1633.615
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.024",
+      "span": [
+        117.32,
+        56.458,
+        158.703
+      ],
+      "min": [
+        -517.588,
+        226.696,
+        -2727.499
+      ],
+      "max": [
+        -400.268,
+        283.154,
+        -2568.796
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.025",
+      "span": [
+        104.269,
+        47.931,
+        83.478
+      ],
+      "min": [
+        500.539,
+        187.748,
+        -4348.312
+      ],
+      "max": [
+        604.808,
+        235.679,
+        -4264.834
+      ],
+      "triangles": 36
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.026",
+      "span": [
+        428.056,
+        74.64,
+        163.786
+      ],
+      "min": [
+        -148.347,
+        182.035,
+        -3063.252
+      ],
+      "max": [
+        279.708,
+        256.675,
+        -2899.466
+      ],
+      "triangles": 140
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.027",
+      "span": [
+        89.397,
+        71.106,
+        153.949
+      ],
+      "min": [
+        -154.009,
+        184.39,
+        -3105.503
+      ],
+      "max": [
+        -64.612,
+        255.496,
+        -2951.553
+      ],
+      "triangles": 84
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1_1b_00_D.009",
+      "span": [
+        320.541,
+        55.194,
+        227.104
+      ],
+      "min": [
+        -125.749,
+        187.118,
+        -3540.398
+      ],
+      "max": [
+        194.792,
+        242.312,
+        -3313.294
+      ],
+      "triangles": 320
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.028",
+      "span": [
+        300.557,
+        91.927,
+        240.329
+      ],
+      "min": [
+        -164.683,
+        188.153,
+        -3592.176
+      ],
+      "max": [
+        135.875,
+        280.08,
+        -3351.847
+      ],
+      "triangles": 168
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.024",
+      "span": [
+        75.111,
+        48.667,
+        308.65
+      ],
+      "min": [
+        -194.967,
+        203.351,
+        -3594.179
+      ],
+      "max": [
+        -119.857,
+        252.018,
+        -3285.529
+      ],
+      "triangles": 1272
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.025",
+      "span": [
+        216.889,
+        67.323,
+        110.901
+      ],
+      "min": [
+        -158.807,
+        189.027,
+        -3654.064
+      ],
+      "max": [
+        58.082,
+        256.349,
+        -3543.163
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.030",
+      "span": [
+        69.021,
+        55.979,
+        100.408
+      ],
+      "min": [
+        1030.729,
+        150.642,
+        -1587.708
+      ],
+      "max": [
+        1099.75,
+        206.621,
+        -1487.3
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.031",
+      "span": [
+        80.874,
+        47.878,
+        91.141
+      ],
+      "min": [
+        888.52,
+        151.926,
+        -1752.442
+      ],
+      "max": [
+        969.394,
+        199.805,
+        -1661.301
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.032",
+      "span": [
+        392.185,
+        88.64,
+        441.1
+      ],
+      "min": [
+        692.312,
+        129.915,
+        -2113.028
+      ],
+      "max": [
+        1084.497,
+        218.555,
+        -1671.928
+      ],
+      "triangles": 168
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.033",
+      "span": [
+        230.571,
+        52.51,
+        109.21
+      ],
+      "min": [
+        646.612,
+        213.862,
+        -4378.765
+      ],
+      "max": [
+        877.182,
+        266.372,
+        -4269.555
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.035",
+      "span": [
+        215.13,
+        58.625,
+        129.549
+      ],
+      "min": [
+        574.036,
+        196.246,
+        -4421.183
+      ],
+      "max": [
+        789.166,
+        254.871,
+        -4291.634
+      ],
+      "triangles": 56
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.027",
+      "span": [
+        206.008,
+        46.079,
+        147.649
+      ],
+      "min": [
+        727.567,
+        201.41,
+        -4478.803
+      ],
+      "max": [
+        933.575,
+        247.489,
+        -4331.154
+      ],
+      "triangles": 636
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.036",
+      "span": [
+        140.277,
+        58.796,
+        43.064
+      ],
+      "min": [
+        -54.454,
+        186.5,
+        -2747.554
+      ],
+      "max": [
+        85.823,
+        245.296,
+        -2704.489
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.037",
+      "span": [
+        138.503,
+        61.642,
+        67.819
+      ],
+      "min": [
+        -325.313,
+        199.935,
+        -2801.857
+      ],
+      "max": [
+        -186.81,
+        261.577,
+        -2734.038
+      ],
+      "triangles": 28
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_CT_Treeline1Z_1a_00_.030",
+      "span": [
+        257.767,
+        46.274,
+        108.281
+      ],
+      "min": [
+        -308.376,
+        201.161,
+        -2863.797
+      ],
+      "max": [
+        -50.609,
+        247.435,
+        -2755.516
+      ],
+      "triangles": 954
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "node": "XT_Evrgrn_TreelineL_1b_.038",
+      "span": [
+        162.207,
+        92.538,
+        261.051
+      ],
+      "min": [
+        1492.013,
+        165.468,
+        -4140.604
+      ],
+      "max": [
+        1654.22,
+        258.006,
+        -3879.553
+      ],
+      "triangles": 92
+    }
+  ]
+}

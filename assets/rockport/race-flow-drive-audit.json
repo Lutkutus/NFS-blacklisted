@@ -1,0 +1,86 @@
+[
+  {
+    "id": "harbour-run",
+    "target": [
+      2280,
+      146,
+      -1340
+    ],
+    "startMetres": 1359,
+    "drivenMetres": 240.30751131363854,
+    "requiredMetres": 240,
+    "contactFrames": 0,
+    "resets": 0,
+    "completed": true
+  },
+  {
+    "id": "harbour-run",
+    "target": [
+      2420,
+      94,
+      -430
+    ],
+    "startMetres": 4183,
+    "drivenMetres": 240.18350965576246,
+    "requiredMetres": 240,
+    "contactFrames": 0,
+    "resets": 0,
+    "completed": true
+  },
+  {
+    "id": "harbour-reverse",
+    "target": [
+      2280,
+      146,
+      -1340
+    ],
+    "startMetres": 5155,
+    "drivenMetres": 240.31749915202727,
+    "requiredMetres": 240,
+    "contactFrames": 0,
+    "resets": 0,
+    "completed": true
+  },
+  {
+    "id": "harbour-reverse",
+    "target": [
+      2420,
+      94,
+      -430
+    ],
+    "startMetres": 2331,
+    "drivenMetres": 240.33013857351307,
+    "requiredMetres": 240,
+    "contactFrames": 0,
+    "resets": 0,
+    "completed": true
+  },
+  {
+    "id": "last-run",
+    "target": [
+      -282,
+      190,
+      -2940
+    ],
+    "startMetres": 3591,
+    "drivenMetres": 240.01181474153236,
+    "requiredMetres": 240,
+    "contactFrames": 0,
+    "resets": 0,
+    "completed": true
+  },
+  {
+    "id": "industrial-cut",
+    "target": [
+      2280,
+      146,
+      -1340
+    ],
+    "startMetres": 459,
+    "drivenMetres": 240.48997525495258,
+    "requiredMetres": 240,
+    "contactFrames": 0,
+    "resets": 0,
+    "completed": true
+  }
+]

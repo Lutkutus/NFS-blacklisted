@@ -1,0 +1,48 @@
+{
+  "bytes": 210800,
+  "tire": {
+    "source": "tire.zip",
+    "triangles": 1100,
+    "radius": 1,
+    "width": 0.36,
+    "beadRadius": 0.759
+  },
+  "rims": [
+    {
+      "id": "draft",
+      "name": "Wheel Draft",
+      "source": "wheel-draft",
+      "sourceTriangles": 5942,
+      "triangles": 2400,
+      "assemblyTriangles": 3500,
+      "beadRadius": 0.772
+    },
+    {
+      "id": "zistance",
+      "name": "WORK Zistance W5S",
+      "source": "work-zistance-w5s",
+      "sourceTriangles": 138128,
+      "triangles": 2399,
+      "assemblyTriangles": 3499,
+      "beadRadius": 0.772
+    },
+    {
+      "id": "oni2",
+      "name": "ADVAN Racing ONI II",
+      "source": "advan-racing-oni-2",
+      "sourceTriangles": 11606,
+      "triangles": 2399,
+      "assemblyTriangles": 3499,
+      "beadRadius": 0.772
+    },
+    {
+      "id": "vsxx",
+      "name": "WORK VS-XX",
+      "source": "work-vs-xx-car-rim",
+      "sourceTriangles": 24461,
+      "triangles": 2399,
+      "assemblyTriangles": 3499,
+      "beadRadius": 0.772
+    }
+  ]
+}

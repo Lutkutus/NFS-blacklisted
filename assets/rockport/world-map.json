@@ -1,0 +1,217 @@
+{
+  "version": 1,
+  "bounds": {
+    "minX": -1584,
+    "maxX": 4950,
+    "minZ": -4722,
+    "maxZ": 1116
+  },
+  "referenceImage": "assets/rockport/reference-map.png",
+  "roadImage": "assets/rockport/world-map-roads.png",
+  "registration": {
+    "method": "Affine landmark fit; schematic reference, safe entrances snapped to actual road geometry",
+    "transform": {
+      "x": [
+        6.04408733,
+        -0.264296379,
+        -1039.00162
+      ],
+      "z": [
+        0.198749601,
+        6.08195533,
+        -4967.44483
+      ]
+    },
+    "landmarks": [
+      {
+        "pixel": [
+          585,
+          57
+        ],
+        "world": [
+          2490,
+          -4500
+        ]
+      },
+      {
+        "pixel": [
+          128,
+          177
+        ],
+        "world": [
+          -180,
+          -3980
+        ]
+      },
+      {
+        "pixel": [
+          80,
+          365
+        ],
+        "world": [
+          -570,
+          -2640
+        ]
+      },
+      {
+        "pixel": [
+          433,
+          511
+        ],
+        "world": [
+          1350,
+          -1660
+        ]
+      },
+      {
+        "pixel": [
+          234,
+          875
+        ],
+        "world": [
+          0,
+          395
+        ]
+      },
+      {
+        "pixel": [
+          343,
+          959
+        ],
+        "world": [
+          1010,
+          945
+        ]
+      },
+      {
+        "pixel": [
+          593,
+          890
+        ],
+        "world": [
+          2520,
+          520
+        ]
+      },
+      {
+        "pixel": [
+          371,
+          676
+        ],
+        "world": [
+          600,
+          -840
+        ]
+      }
+    ]
+  },
+  "garages": [
+    {
+      "id": "rosewood",
+      "label": "ROSEWOOD HIDEOUT",
+      "district": "Rosewood",
+      "pixel": [
+        478,
+        375
+      ],
+      "kind": "garage",
+      "referenceWorld": {
+        "x": 1750.9609816149996,
+        "z": -2591.709271972
+      },
+      "available": true,
+      "x": 1728,
+      "y": 147.719,
+      "z": -2508,
+      "yaw": 1.5707963267948966,
+      "nodeId": 24529,
+      "snapMetres": 86.8
+    },
+    {
+      "id": "gray-point",
+      "label": "GRAY POINT HIDEOUT",
+      "district": "Gray Point",
+      "pixel": [
+        786,
+        245
+      ],
+      "kind": "garage",
+      "referenceWorld": {
+        "x": 3646.8984085250004,
+        "z": -3321.1485877640002
+      },
+      "available": true,
+      "x": 3654,
+      "y": 4.103,
+      "z": -3330,
+      "yaw": 0.7853981633974483,
+      "nodeId": 57940,
+      "snapMetres": 11.35
+    },
+    {
+      "id": "downtown",
+      "label": "DOWNTOWN HIDEOUT",
+      "district": "Downtown Rockport",
+      "pixel": [
+        571,
+        813
+      ],
+      "kind": "garage",
+      "referenceWorld": {
+        "x": 2197.299289303,
+        "z": 90.67087546099992
+      },
+      "available": true,
+      "x": 2178,
+      "y": 107.15,
+      "z": 144,
+      "yaw": 1.5707963267948966,
+      "nodeId": 35997,
+      "snapMetres": 56.71
+    }
+  ],
+  "labels": [
+    {
+      "name": "ROSEWOOD",
+      "x": 1068.15276026,
+      "z": -3314.58658784
+    },
+    {
+      "name": "DOWNTOWN ROCKPORT",
+      "x": 1286.756473505,
+      "z": 12.00404307000008
+    },
+    {
+      "name": "GRAY POINT",
+      "x": 4083.589015785,
+      "z": -3063.1629040900007
+    },
+    {
+      "name": "POINT CAMDEN",
+      "x": 4207.566973395,
+      "z": 351.67581275500015
+    }
+  ],
+  "landmarks": [
+    {
+      "id": "masterson-shipyard",
+      "label": "MASTERSON NAVAL SHIPYARD",
+      "kind": "landmark",
+      "x": 3198,
+      "y": 22.776,
+      "z": -702,
+      "yaw": 0,
+      "nodeId": 46982
+    },
+    {
+      "id": "bayshore-coast",
+      "label": "BAYSHORE / COAST",
+      "kind": "landmark",
+      "x": 4254,
+      "y": 17.512,
+      "z": -1674,
+      "yaw": 0,
+      "nodeId": 61392
+    }
+  ]
+}

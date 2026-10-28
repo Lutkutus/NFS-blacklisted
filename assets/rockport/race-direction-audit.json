@@ -1,0 +1,38 @@
+[
+  {
+    "id": "rosewood-ridge",
+    "source": "rosewood-ridge",
+    "before": {
+      "forward": 8027.187504940267,
+      "reverse": 8032.714446165736
+    },
+    "length": 8027.187504940267
+  },
+  {
+    "id": "harbour-run",
+    "source": "harbour-reverse",
+    "before": {
+      "forward": 6694.671414393672,
+      "reverse": 6687.413984608114
+    },
+    "length": 6687.413984608101
+  },
+  {
+    "id": "downtown-descent",
+    "source": "downtown-descent",
+    "before": {
+      "forward": 4540.893520703227,
+      "reverse": 4541.706793349172
+    },
+    "length": 4540.893520703227
+  },
+  {
+    "id": "last-run",
+    "source": "last-run",
+    "before": {
+      "forward": 10242.59664447857,
+      "reverse": 10306.367149562104
+    },
+    "length": 10242.59664447857
+  }
+]

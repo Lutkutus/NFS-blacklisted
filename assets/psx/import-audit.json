@@ -1,0 +1,182 @@
+[
+  {
+    "id": "interceptor",
+    "folder": "police-interceptor-nfs-hot-pursuit-2",
+    "triangles": 5169,
+    "parts": 35,
+    "rotation": [
+      -0.00025217654456674836,
+      -0.9999999682034947
+    ],
+    "dimensions": [
+      2.0883767592982982,
+      1.674868413974622,
+      5.385
+    ]
+  },
+  {
+    "id": "livisa",
+    "folder": "sannis-livisa-180rs",
+    "triangles": 17044,
+    "parts": 80,
+    "rotation": [
+      0.0,
+      1.0
+    ],
+    "dimensions": [
+      1.9534257330981981,
+      1.2497603196476519,
+      4.52
+    ]
+  },
+  {
+    "id": "jv_viper",
+    "folder": "nfs-most-wanted-java-mod-blacklist-beta-models",
+    "triangles": 256,
+    "parts": 10,
+    "rotation": [
+      0.48168195533562674,
+      -0.8763461039475483
+    ],
+    "dimensions": [
+      1.7999097429052073,
+      1.1991452068151012,
+      4.459
+    ]
+  },
+  {
+    "id": "m3gtr",
+    "folder": "nfs-most-wanted-java-mod-blacklist-beta-models",
+    "triangles": 232,
+    "parts": 12,
+    "rotation": [
+      0.6632600817642644,
+      -0.7483889790330034
+    ],
+    "dimensions": [
+      2.1736014719634182,
+      1.3134348365310478,
+      4.61
+    ]
+  },
+  {
+    "id": "m3_redfire",
+    "folder": "nfs-most-wanted-java-mod-blacklist-beta-models",
+    "triangles": 514,
+    "parts": 11,
+    "rotation": [
+      -0.9984938233506198,
+      -0.054864239087600866
+    ],
+    "dimensions": [
+      1.762623717873178,
+      1.3176006777439513,
+      4.61
+    ]
+  },
+  {
+    "id": "razor",
+    "folder": "nfs-most-wanted-java-mod-blacklist-beta-models",
+    "triangles": 234,
+    "parts": 10,
+    "rotation": [
+      0.9999486366824707,
+      -0.010135284745289077
+    ],
+    "dimensions": [
+      1.8966937868047795,
+      1.3594183096030357,
+      4.775
+    ]
+  },
+  {
+    "id": "skyline_beta",
+    "folder": "nfs-most-wanted-java-mod-blacklist-beta-models",
+    "triangles": 200,
+    "parts": 9,
+    "rotation": [
+      0.8672512387362571,
+      -0.4978707552271249
+    ],
+    "dimensions": [
+      1.9296055681506672,
+      1.377936297649492,
+      4.6
+    ]
+  },
+  {
+    "id": "jewels",
+    "folder": "nfs-most-wanted-java-mod-blacklist-beta-models",
+    "triangles": 234,
+    "parts": 10,
+    "rotation": [
+      -0.9008232564323073,
+      -0.4341859747512506
+    ],
+    "dimensions": [
+      1.896693285514282,
+      1.3594181343519598,
+      4.775
+    ]
+  },
+  {
+    "id": "golf",
+    "folder": "nfs-most-wanted-java-mod-blacklist-beta-models",
+    "triangles": 346,
+    "parts": 9,
+    "rotation": [
+      -1.959534530401739e-07,
+      -0.9999999999999809
+    ],
+    "dimensions": [
+      1.924285887555169,
+      1.4358144248167577,
+      4.216
+    ]
+  },
+  {
+    "id": "ae86",
+    "folder": "nfs-most-wanted-java-mod-blacklist-beta-models",
+    "triangles": 330,
+    "parts": 9,
+    "rotation": [
+      -0.5923999490130937,
+      -0.8056440283458222
+    ],
+    "dimensions": [
+      1.893742785429375,
+      1.3449278622279985,
+      4.215
+    ]
+  },
+  {
+    "id": "skyline_java",
+    "folder": "nfs-most-wanted-java-mod-blacklist-beta-models",
+    "triangles": 200,
+    "parts": 9,
+    "rotation": [
+      0.8255285279507452,
+      0.5643603897683426
+    ],
+    "dimensions": [
+      1.929604377536813,
+      1.3779363398353228,
+      4.6
+    ]
+  },
+  {
+    "id": "mia_rx8",
+    "folder": "nfs-most-wanted-java-mod-blacklist-beta-models",
+    "triangles": 198,
+    "parts": 9,
+    "rotation": [
+      -0.32377243002053935,
+      -0.946134986964648
+    ],
+    "dimensions": [
+      1.6986740173606474,
+      1.228418465032505,
+      4.435
+    ]
+  }
+]

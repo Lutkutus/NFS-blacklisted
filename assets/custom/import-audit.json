@@ -1,0 +1,89 @@
+{
+  "assets": [
+    {
+      "id": "jdm1",
+      "source": "Rim1",
+      "originalTriangles": 29248,
+      "triangles": 2337
+    },
+    {
+      "id": "jdm2",
+      "source": "Rim2",
+      "originalTriangles": 53798,
+      "triangles": 2375
+    },
+    {
+      "id": "jdm3",
+      "source": "Rim3",
+      "originalTriangles": 55658,
+      "triangles": 2769
+    },
+    {
+      "id": "jdm4",
+      "source": "Rim4",
+      "originalTriangles": 48254,
+      "triangles": 2751
+    },
+    {
+      "id": "pack01",
+      "source": "Cube + Cube010",
+      "originalTriangles": 228,
+      "triangles": 228
+    },
+    {
+      "id": "pack02",
+      "source": "Cube001",
+      "originalTriangles": 102,
+      "triangles": 102
+    },
+    {
+      "id": "pack03",
+      "source": "Cube002 + Cube011",
+      "originalTriangles": 240,
+      "triangles": 240
+    },
+    {
+      "id": "pack04",
+      "source": "Cube003 + Cube012",
+      "originalTriangles": 518,
+      "triangles": 518
+    },
+    {
+      "id": "pack05",
+      "source": "Cube004 + Cube013",
+      "originalTriangles": 216,
+      "triangles": 216
+    },
+    {
+      "id": "pack06",
+      "source": "Cube005 + Cube014",
+      "originalTriangles": 432,
+      "triangles": 432
+    },
+    {
+      "id": "pack07",
+      "source": "Cube006 + Cube015",
+      "originalTriangles": 272,
+      "triangles": 272
+    },
+    {
+      "id": "pack08",
+      "source": "Cube007 + Cube016",
+      "originalTriangles": 278,
+      "triangles": 278
+    },
+    {
+      "id": "pack09",
+      "source": "Cube008 + Cube017",
+      "originalTriangles": 248,
+      "triangles": 248
+    },
+    {
+      "id": "pack10",
+      "source": "Cube009 + Cube018",
+      "originalTriangles": 656,
+      "triangles": 656
+    }
+  ],
+  "geometryBytes": 1105383
+}

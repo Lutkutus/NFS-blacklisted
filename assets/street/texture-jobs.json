@@ -1,0 +1,358 @@
+[
+  {
+    "source": "assets\\street-source\\rotary\\textures\\MAZDA_FD3S_1999_RX_7_A_spec_TYPE_GT_CONCEP__5.png",
+    "target": "rotary-0.png"
+  },
+  {
+    "source": "assets\\street-source\\rotary\\textures\\MAZDA_FD3S_1999_RX_7_A_spec_TYPE_GT_CONCEP__2.png",
+    "target": "rotary-1.png"
+  },
+  {
+    "source": "assets\\street-source\\rotary\\textures\\MAZDA_FD3S_1999_RX_7_A_spec_TYPE_GT_CONCEP.png",
+    "target": "rotary-2.png"
+  },
+  {
+    "source": "assets\\street-source\\rotary\\textures\\MAZDA_FD3S_1999_RX_7_A_spec_TYPE_GT_CONCEP__4.png",
+    "target": "rotary-3.png"
+  },
+  {
+    "source": "assets\\street-source\\rotary\\textures\\MAZDA_FD3S_1999_RX_7_A_spec_TYPE_GT_CONCEP__3.png",
+    "target": "rotary-4.png"
+  },
+  {
+    "source": "assets\\street-source\\datsun\\captured\\fbx-0.png",
+    "target": "datsun-0.png"
+  },
+  {
+    "source": "assets\\street-source\\datsun\\captured\\fbx-1.png",
+    "target": "datsun-1.png"
+  },
+  {
+    "source": "assets\\street-source\\datsun\\captured\\fbx-2.png",
+    "target": "datsun-2.png"
+  },
+  {
+    "source": "assets\\street-source\\datsun\\captured\\fbx-3.png",
+    "target": "datsun-3.png"
+  },
+  {
+    "source": "assets\\street-source\\datsun\\captured\\fbx-4.png",
+    "target": "datsun-4.png"
+  },
+  {
+    "source": "assets\\street-source\\datsun\\captured\\fbx-5.png",
+    "target": "datsun-5.png"
+  },
+  {
+    "source": "assets\\street-source\\supra\\textures\\Toyota_Supra_Tyre.png",
+    "target": "supra-0.png"
+  },
+  {
+    "source": "assets\\street-source\\supra\\textures\\Toyota_Supra_Wheel_Texture.png",
+    "target": "supra-1.png"
+  },
+  {
+    "source": "assets\\street-source\\supra\\textures\\Toyota_Supra_Brake_Disk.png",
+    "target": "supra-2.png"
+  },
+  {
+    "source": "assets\\street-source\\supra\\textures\\bolt.png",
+    "target": "supra-3.png"
+  },
+  {
+    "source": "assets\\street-source\\supra\\source\\supra-unpacked\\supra\\plastic.dds",
+    "target": "supra-4.png"
+  },
+  {
+    "source": "assets\\street-source\\supra\\source\\supra-unpacked\\supra\\undercarriage.dds",
+    "target": "supra-5.png"
+  },
+  {
+    "source": "assets\\street-source\\supra\\source\\supra-unpacked\\supra\\Toyota_Supra_Light_2.dds",
+    "target": "supra-6.png"
+  },
+  {
+    "source": "assets\\street-source\\supra\\textures\\badge-removebg-preview.png",
+    "target": "supra-7.png"
+  },
+  {
+    "source": "assets\\street-source\\supra\\source\\supra-unpacked\\supra\\Toyota_Supra_Interior.dds",
+    "target": "supra-8.png"
+  },
+  {
+    "source": "assets\\street-source\\supra\\source\\supra-unpacked\\supra\\Toyota_Supra_Engine.dds",
+    "target": "supra-9.png"
+  },
+  {
+    "source": "assets\\street-source\\carrera_gt\\captured\\fbx-0.png",
+    "target": "carrera_gt-0.png"
+  },
+  {
+    "source": "assets\\street-source\\carrera_gt\\captured\\fbx-1.png",
+    "target": "carrera_gt-1.png"
+  },
+  {
+    "source": "assets\\street-source\\carrera_gt\\captured\\fbx-2.png",
+    "target": "carrera_gt-2.png"
+  },
+  {
+    "source": "assets\\street-source\\carrera_gt\\captured\\fbx-3.png",
+    "target": "carrera_gt-3.png"
+  },
+  {
+    "source": "assets\\street-source\\carrera_gt\\captured\\fbx-4.png",
+    "target": "carrera_gt-4.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-0.png",
+    "target": "road_runner-0.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-1.png",
+    "target": "road_runner-1.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-2.png",
+    "target": "road_runner-2.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-3.png",
+    "target": "road_runner-3.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-4.png",
+    "target": "road_runner-4.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-5.png",
+    "target": "road_runner-5.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-6.png",
+    "target": "road_runner-6.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-7.png",
+    "target": "road_runner-7.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-8.png",
+    "target": "road_runner-8.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-9.png",
+    "target": "road_runner-9.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-10.png",
+    "target": "road_runner-10.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-11.png",
+    "target": "road_runner-11.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-12.png",
+    "target": "road_runner-12.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-13.png",
+    "target": "road_runner-13.png"
+  },
+  {
+    "source": "assets\\street-source\\road_runner\\source\\embedded\\embedded-14.png",
+    "target": "road_runner-14.png"
+  },
+  {
+    "source": "assets\\street-source\\m5_e39\\textures\\bmw5.png",
+    "target": "m5_e39-0.png"
+  },
+  {
+    "source": "assets\\street-source\\m5_e39\\textures\\tire3.png",
+    "target": "m5_e39-1.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\hyundai_misc.png",
+    "target": "tiburon-0.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\hyundai_interior.png",
+    "target": "tiburon-1.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\inboot.png",
+    "target": "tiburon-2.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\hyundai_seats.png",
+    "target": "tiburon-3.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\hyundai_dials.png",
+    "target": "tiburon-4.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\hyundai_mats.png",
+    "target": "tiburon-5.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\nobump.png",
+    "target": "tiburon-6.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\bottom.png",
+    "target": "tiburon-7.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\hyundai_v6engine.png",
+    "target": "tiburon-8.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\exhaust.png",
+    "target": "tiburon-9.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\plant.png",
+    "target": "tiburon-10.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\bonnet.png",
+    "target": "tiburon-11.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\lights.png",
+    "target": "tiburon-12.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\lights_lod0.png",
+    "target": "tiburon-13.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\NISMO_tread_tm.png",
+    "target": "tiburon-14.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\huyndai_wheel.png",
+    "target": "tiburon-15.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\Freio.png",
+    "target": "tiburon-16.png"
+  },
+  {
+    "source": "assets\\street-source\\tiburon\\source\\Hyundai_Tiburon_V6_Coupe_2003_ModLandNet-unpacked\\Hyundai Tiburon V6 Coupe 2003\\TXT\\NISMO_wheel_black.png",
+    "target": "tiburon-17.png"
+  },
+  {
+    "source": "assets\\street-source\\lb_f40\\source\\embedded\\embedded-0.png",
+    "target": "resonanso-0.png"
+  },
+  {
+    "source": "assets\\street-source\\lb_f40\\source\\embedded\\embedded-1.png",
+    "target": "resonanso-1.png"
+  },
+  {
+    "source": "assets\\street-source\\lb_f40\\source\\embedded\\embedded-2.png",
+    "target": "resonanso-2.png"
+  },
+  {
+    "source": "assets\\street-source\\lb_f40\\source\\embedded\\embedded-3.png",
+    "target": "resonanso-3.png"
+  },
+  {
+    "source": "assets\\street-source\\lb_f40\\source\\embedded\\embedded-4.png",
+    "target": "resonanso-4.png"
+  },
+  {
+    "source": "assets\\street-source\\lb_f40\\source\\embedded\\embedded-6.png",
+    "target": "resonanso-5.png"
+  },
+  {
+    "source": "assets\\street-source\\lb_f40\\source\\embedded\\embedded-7.png",
+    "target": "resonanso-6.png"
+  },
+  {
+    "source": "assets\\street-source\\lb_f40\\source\\embedded\\embedded-8.png",
+    "target": "resonanso-7.png"
+  },
+  {
+    "source": "assets\\street-source\\lb_f40\\source\\embedded\\embedded-9.png",
+    "target": "resonanso-8.png"
+  },
+  {
+    "source": "assets\\street-source\\lb_f40\\source\\embedded\\embedded-11.png",
+    "target": "resonanso-9.png"
+  },
+  {
+    "source": "assets\\street-source\\lb_f40\\source\\embedded\\embedded-13.png",
+    "target": "resonanso-10.png"
+  },
+  {
+    "source": "assets\\street-source\\lb_f40\\source\\embedded\\embedded-15.png",
+    "target": "resonanso-11.png"
+  },
+  {
+    "source": "assets\\street-source\\lb_f40\\source\\embedded\\embedded-18.jpg",
+    "target": "resonanso-12.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-1.png",
+    "target": "testarossa-0.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-3.png",
+    "target": "testarossa-1.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-4.png",
+    "target": "testarossa-2.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-6.png",
+    "target": "testarossa-3.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-8.png",
+    "target": "testarossa-4.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-10.png",
+    "target": "testarossa-5.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-12.png",
+    "target": "testarossa-6.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-14.png",
+    "target": "testarossa-7.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-16.png",
+    "target": "testarossa-8.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-18.png",
+    "target": "testarossa-9.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-19.png",
+    "target": "testarossa-10.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-21.png",
+    "target": "testarossa-11.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-23.png",
+    "target": "testarossa-12.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-24.png",
+    "target": "testarossa-13.png"
+  },
+  {
+    "source": "assets\\street-source\\testarossa\\embedded\\embedded-26.png",
+    "target": "testarossa-14.png"
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "routes": [
+    {
+      "id": "rosewood-ridge",
+      "length": 8555.391770308981,
+      "segments": 515,
+      "gates": 36,
+      "start": [
+        1278,
+        148.336,
+        -2142
+      ],
+      "finish": [
+        2400,
+        145.458,
+        -2898
+      ]
+    },
+    {
+      "id": "harbour-run",
+      "length": 7463.641553671052,
+      "segments": 374,
+      "gates": 31,
+      "start": [
+        2766,
+        85.779,
+        -2430
+      ],
+      "finish": [
+        1188,
+        122.668,
+        762
+      ]
+    },
+    {
+      "id": "downtown-descent",
+      "length": 4849.687875927792,
+      "segments": 218,
+      "gates": 20,
+      "start": [
+        1656,
+        179.823,
+        -1716
+      ],
+      "finish": [
+        1830,
+        107.681,
+        162
+      ]
+    },
+    {
+      "id": "last-run",
+      "length": 10975.3168773525,
+      "segments": 587,
+      "gates": 46,
+      "start": [
+        1998,
+        239.472,
+        -4380
+      ],
+      "finish": [
+        1614,
+        114.544,
+        654
+      ]
+    }
+  ],
+  "verifiedConnections": 4223,
+  "rejectedConnections": 3,
+  "collisionTriangles": 3178071
+}

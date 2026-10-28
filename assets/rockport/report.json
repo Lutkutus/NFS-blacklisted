@@ -1,0 +1,1952 @@
+{
+  "textureMax": 256,
+  "cellSize": 256,
+  "parts": [
+    {
+      "file": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "glbBytes": 56755568,
+      "bounds": {
+        "min": [
+          -1460.5,
+          96.0024185180664,
+          -3495.880583765402
+        ],
+        "max": [
+          2307.1918304345063,
+          333.1636657714844,
+          -1904.001892678729
+        ]
+      },
+      "instances": 5188,
+      "triangles": 445596
+    },
+    {
+      "file": "nfs-most-wanted-rockport-map-part-2.zip",
+      "glbBytes": 16623756,
+      "bounds": {
+        "min": [
+          -1466.333984375,
+          107.82442474365234,
+          -3497.43603515625
+        ],
+        "max": [
+          2265.69580078125,
+          275.0272246547688,
+          -2031.447509765625
+        ]
+      },
+      "instances": 339,
+      "triangles": 28289
+    },
+    {
+      "file": "nfs-most-wanted-rockport-map-part-3.zip",
+      "glbBytes": 37893176,
+      "bounds": {
+        "min": [
+          -1341.406494140625,
+          51.76561737060547,
+          -4108.991684115885
+        ],
+        "max": [
+          2598.734395024193,
+          633.5476684570312,
+          776.9324806475606
+        ]
+      },
+      "instances": 2385,
+      "triangles": 186141
+    },
+    {
+      "file": "nfs-most-wanted-rockport-map-part-4.zip",
+      "glbBytes": 43152844,
+      "bounds": {
+        "min": [
+          -381.1021423339844,
+          -35.122657775878906,
+          -3610.110107421875
+        ],
+        "max": [
+          3178.2470703125,
+          464.69378662109375,
+          2092.041259765625
+        ]
+      },
+      "instances": 2216,
+      "triangles": 209905
+    },
+    {
+      "file": "nfs-most-wanted-rockport-map-part-5.zip",
+      "glbBytes": 84916000,
+      "bounds": {
+        "min": [
+          1256.1605862868596,
+          -9.41164779663086,
+          -2312.575927734375
+        ],
+        "max": [
+          3736.75146484375,
+          238.44149780273438,
+          322.7266424633629
+        ]
+      },
+      "instances": 6664,
+      "triangles": 562092
+    },
+    {
+      "file": "nfs-most-wanted-rockport-map-part-6.zip",
+      "glbBytes": 60963108,
+      "bounds": {
+        "min": [
+          -538.3700561523438,
+          50.478534467123204,
+          -4584.39381085907
+        ],
+        "max": [
+          2866.301513671875,
+          400.41795349121094,
+          1136.314453125
+        ]
+      },
+      "instances": 4253,
+      "triangles": 461538
+    },
+    {
+      "file": "nfs-most-wanted-rockport-map-part-7.zip",
+      "glbBytes": 60135476,
+      "bounds": {
+        "min": [
+          338.71746826171875,
+          6.968358993530273,
+          -5270.22607421875
+        ],
+        "max": [
+          3472.032470703125,
+          456.48101806640625,
+          -2391.25732421875
+        ]
+      },
+      "instances": 5250,
+      "triangles": 526358
+    },
+    {
+      "file": "nfs-most-wanted-rockport-map-part-8.zip",
+      "glbBytes": 52950300,
+      "bounds": {
+        "min": [
+          63.12895902479177,
+          125.50202178955078,
+          -4094.380880960822
+        ],
+        "max": [
+          2269.809921090666,
+          348.56451416015625,
+          -1752.4399807041948
+        ]
+      },
+      "instances": 4769,
+      "triangles": 451432
+    },
+    {
+      "file": "nfs-most-wanted-rockport-map-part-9.zip",
+      "glbBytes": 89749056,
+      "bounds": {
+        "min": [
+          -919.3999020588988,
+          -0.0009420000133104622,
+          -4481.0791015625
+        ],
+        "max": [
+          2636.14208984375,
+          303.5284860757729,
+          558.420166015625
+        ]
+      },
+      "instances": 8522,
+      "triangles": 776002
+    },
+    {
+      "file": "nfs-most-wanted-rockport-map-part-10.zip",
+      "glbBytes": 76634832,
+      "bounds": {
+        "min": [
+          1288.5624685939226,
+          -97.27378645214844,
+          -3608.521728515625
+        ],
+        "max": [
+          4956.173828125,
+          230.9056396484375,
+          573.9993286132812
+        ]
+      },
+      "instances": 5343,
+      "triangles": 429811
+    },
+    {
+      "file": "nfs-most-wanted-rockport-map-part-11.zip",
+      "glbBytes": 84591780,
+      "bounds": {
+        "min": [
+          1386.2734375,
+          -208.58554077148438,
+          -3247.29736328125
+        ],
+        "max": [
+          4897.91259765625,
+          263.94657592813746,
+          365.5040588378906
+        ]
+      },
+      "instances": 7940,
+      "triangles": 603315
+    },
+    {
+      "file": "nfs-most-wanted-rockport-map-part-12.zip",
+      "glbBytes": 45966568,
+      "bounds": {
+        "min": [
+          205.78362655639648,
+          -18.283227196129715,
+          -3416.104705810547
+        ],
+        "max": [
+          4902.1304931640625,
+          274.4545650482178,
+          312.16259765625
+        ]
+      },
+      "instances": 2515,
+      "triangles": 192686
+    },
+    {
+      "file": "nfs-most-wanted-rockport-map-part-13.zip",
+      "glbBytes": 47807944,
+      "bounds": {
+        "min": [
+          -1298.17431640625,
+          -43.80006408691406,
+          -5684.66943359375
+        ],
+        "max": [
+          5625.4130859375,
+          842.4794311523438,
+          1392.097412109375
+        ]
+      },
+      "instances": 3231,
+      "triangles": 304274
+    }
+  ],
+  "excludedBackgrounds": [
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Tree_Windbreak1_1.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Tree_Windbreak1_1.005",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Tree_Windbreak1_1.006",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Tree_Windbreak1_1.007",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Tree_Windbreak1_1.010",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Tree_Windbreak1_1.012",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Tree_Windbreak1_1.015",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Tree_Windbreak1_1.016",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Tree_Windbreak1_1.017",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Tree_Windbreak1_1.019",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Tree_Windbreak1_1.020",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Tree_Windbreak1_1.021",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Tree_Windbreak1_1.022",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.003",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.005",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.007",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Treeline1_1b_00.009",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.006",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.009",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.010",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.011",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.003",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.012",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-2005-rockport-map-part-1.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.013",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-2.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-2.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-2.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-2.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "XT_CT_Treeline1_1b_00.003",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "XT_Evrgrn_TreelineS_1b_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.007",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_Mountains_College_0",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.003",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_CT_EverGTreesA_01",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_CT_TreesA_01",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_CT_TerrainA_01",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_Campus_Towers",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_CT_CityTreesA_01",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_CT_Panorama_City",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_CT_EverGTreesA_03",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_CT_TreesA_03",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_CT_TerrainA_03",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.005",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.006",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_Mountains_College_0.001",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_Mountains_College_0.002",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_Mountains_College_0.003",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_Mountains_College_0.004",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_Mountains_College_1",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_Mountains_College_0.005",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_Mountains_College_0.006",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_Mountains_College_0.007",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_Island_CT_2a_05",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_Island_CT_2a_06",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_CT_Island_2a_05",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-3.zip",
+      "name": "PAN_CT_Island_2a_06",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "Panorama_TC_City",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "PAN_Mountains_College_1",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.003",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.011",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "Panorama_TC_NorthView",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "Panorama_TC_NWestView",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "Panorama_TC_SouthView",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "Panorama_TC_EastPark",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "PAN_CT_EverGTreesA_02",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "PAN_CT_TreesA_02",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "PAN_Mountains_College_0",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "PAN_CT_TerrainA_02",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "PAN_Mountains_College_0.001",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "Panorama_TC_NorthView02",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "Panorama_TC_EastView",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "Panorama_TC_TunnelView",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-4.zip",
+      "name": "Panorama_TC_SouthView2",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-5.zip",
+      "name": "XT_CT_FallTreeFillerB_1.051",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-5.zip",
+      "name": "XT_CT_Treeline1_1b_00.018",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-5.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-5.zip",
+      "name": "XT_CT_Treeline1_1b_00.026",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-5.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.028",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_CT_Treeline1_1b_00.006",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_CT_Treeline1Z_1a_00",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.003",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.003",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_CT_FallTreeS_1b_JG_0.010",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.006",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.007",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.008",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.009",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.010",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.012",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.013",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.014",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.015",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.016",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-6.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.017",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineS_1b_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineS_1b_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.006",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.003",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.007",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineS_1b_.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.012",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.005",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.007",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.008",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.013",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.014",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.015",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.016",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.017",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.018",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.009",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineS_1b_.006",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.020",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_FallTree2D_1b_JG_.017",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.024",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.010",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.011",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineS_1b_.008",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.026",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.027",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.030",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineS_1b_.012",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.012",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.034",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.035",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.036",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.037",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.013",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.038",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.039",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.040",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.041",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.042",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.043",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.009",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.010",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.005",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.046",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1_1b_00.011",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_CT_Treeline1Z_1a_00.031",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.047",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-7.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.048",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_Evrgrn_TreelineS_1b_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_FallTreeD_1b_JG_0.031",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_FallTreeD_1b_JG_0.032",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_FallTreeD_1b_JG_0.033",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_FallTreeD_1b_JG_0.034",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_FallTreeD_1b_JG_0.048",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_FallTreeD_1b_JG_0.052",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.003",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.005",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.006",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.007",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_Treeline1_1b_00.006",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.006",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.006",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.007",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.008",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_FallTreeS_1b_JG_0.051",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.009",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.010",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.011",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.012",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-8.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.010",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.003",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineS_1b_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.003",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.005",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.006",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.007",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.008",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.009",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.005",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_FallTreeD_1b_JG_0.007",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_FallTreeD_1b_JG_0.008",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_FallTreeD_1b_JG_0.009",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_FallTreeD_1b_JG_0.010",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.006",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineS_1b_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.008",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.011",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.013",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.012",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_FallTreeD_1b_JG_0.019",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.015",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.013",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.005",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.017",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.015",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.018",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.019",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.018",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.022",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.023",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.007",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.020",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.008",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.024",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.025",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.026",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.027",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.009",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.028",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.024",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.025",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.030",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.031",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.032",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.033",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.035",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.027",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.036",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.037",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.030",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-9.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.038",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "XT_CT_Treeline1_1b_00.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "XT_CT_Treeline1_1b_00.005",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_CPNorthTreesA_02",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_TerrainCannery_01",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_CPNorthTreesA_03",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_TerrainFishV_02",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_CPNorthTreesA_04",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_TerrainOilRef_01",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_CPNorthTreesA_01",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_TreesHydro_04",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_TreesHydro_05",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_HydroPlantA_02_DEIN",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "XT_CT_Treeline1Z_1a_00.028",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "XT_CT_Treeline1Z_1a_00.029",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_LighthouseSign01",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_LighthouseTerrain01",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_CPNorthTreesA_05",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_TerrainCannery_02",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_CPNorthEVTreesA_01",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_TerrainOilREFTunnel",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "XT_CT_FallTreeS_1z_JG_0",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "XT_CT_FallTreeS_1z_JG_0.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "XT_CT_FallTreeS_1z_JG_0.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "Pan_IndustrialTerrain_0",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_Island_2a_07",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_Island_1a_09",
+      "reason": "oversized distant tree / mountain / composite landscape proxy"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_Island_1a_08",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-10.zip",
+      "name": "PAN_Island_2a_08",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.003",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1_1b_00_D",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.005",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.011",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_FallTreeFillerB_1.048",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.015",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.004",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.016",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.017",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.011",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.001",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.018",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.019",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1Z_1a_00_.003",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_Evrgrn_TreelineS_1b_.005",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.020",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.009",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.012",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.021",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_Evrgrn_TreelineS_1b_.006",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_TreeWide_1a_MM_00_DE",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1Z_1b_00_.015",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.013",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.014",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_.023",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-11.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.015",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-12.zip",
+      "name": "XT_Evrgrn_TreelineL_1b_",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-12.zip",
+      "name": "PAN_CP_LODA_04",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-12.zip",
+      "name": "PAN_CP_Scaffold_LODA_04",
+      "reason": "panorama overlaps detailed roads"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-13.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.002",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-13.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.015",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-13.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.017",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-13.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.019",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-13.zip",
+      "name": "XT_CT_Treeline1_1b_00_D.021",
+      "reason": "decorative tree / treeline group taller than 45 m; retain ordinary street trees"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-13.zip",
+      "name": "SKYDOME_XENON"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-13.zip",
+      "name": "SKY_SPECULAR"
+    },
+    {
+      "part": "nfs-most-wanted-rockport-map-part-13.zip",
+      "name": "SKYDOME"
+    }
+  ],
+  "inputGlbBytes": 758140408,
+  "sourceInstances": 58615,
+  "sourceDrawCalls": 118261,
+  "sourceTriangles": 5177439,
+  "sourceImageReferences": 6426,
+  "sourceMaterials": 47904,
+  "restoredCutoutMaterials": 180,
+  "outputGlbBytes": 327761316,
+  "uniqueImages": 1577,
+  "uniqueMaterials": 1594,
+  "cells": 485,
+  "outputDrawCalls": 23723,
+  "outputTriangles": 5155440,
+  "outputVertices": 8509882,
+  "bounds": {
+    "min": [
+      -1466.333984375,
+      -208.58554077148438,
+      -5684.66943359375
+    ],
+    "max": [
+      5625.4130859375,
+      842.4794311523438,
+      2092.041259765625
+    ]
+  },
+  "elapsedSeconds": 170.8,
+  "removedRaceBarrierTriangles": 21724
+}

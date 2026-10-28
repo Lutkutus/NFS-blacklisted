@@ -1,0 +1,201 @@
+{
+  "cars": [
+    {
+      "vehicle": "emery",
+      "parts": 32,
+      "maxMountDistance": 0.003970680951550832
+    },
+    {
+      "vehicle": "diablo",
+      "parts": 32,
+      "maxMountDistance": 0.003993985822427953
+    },
+    {
+      "vehicle": "porsche",
+      "parts": 32,
+      "maxMountDistance": 0.003983772134407143
+    },
+    {
+      "vehicle": "charger",
+      "parts": 32,
+      "maxMountDistance": 0.003988207555052377
+    },
+    {
+      "vehicle": "r390",
+      "parts": 32,
+      "maxMountDistance": 0.003999596616876312
+    },
+    {
+      "vehicle": "gtone",
+      "parts": 32,
+      "maxMountDistance": 0.0040000000000000036
+    },
+    {
+      "vehicle": "gtr",
+      "parts": 32,
+      "maxMountDistance": 0.003994168637677563
+    },
+    {
+      "vehicle": "crown",
+      "parts": 32,
+      "maxMountDistance": 0.0039853844044002015
+    },
+    {
+      "vehicle": "skyline",
+      "parts": 32,
+      "maxMountDistance": 0.003992608008669429
+    },
+    {
+      "vehicle": "rotary",
+      "parts": 32,
+      "maxMountDistance": 0.003949956839622885
+    },
+    {
+      "vehicle": "interceptor",
+      "parts": 32,
+      "maxMountDistance": 0.003978124076638705
+    },
+    {
+      "vehicle": "livisa",
+      "parts": 32,
+      "maxMountDistance": 0.003986602180623462
+    },
+    {
+      "vehicle": "jv_viper",
+      "parts": 32,
+      "maxMountDistance": 0.0039967333886345895
+    },
+    {
+      "vehicle": "m3gtr",
+      "parts": 32,
+      "maxMountDistance": 0.003999136893017103
+    },
+    {
+      "vehicle": "m3_redfire",
+      "parts": 32,
+      "maxMountDistance": 0.0039999979396868795
+    },
+    {
+      "vehicle": "razor",
+      "parts": 32,
+      "maxMountDistance": 0.003995200312422034
+    },
+    {
+      "vehicle": "jewels",
+      "parts": 32,
+      "maxMountDistance": 0.003999162317674262
+    },
+    {
+      "vehicle": "golf",
+      "parts": 32,
+      "maxMountDistance": 0.0040000000000000036
+    },
+    {
+      "vehicle": "ae86",
+      "parts": 32,
+      "maxMountDistance": 0.0039687944373545565
+    },
+    {
+      "vehicle": "skyline_beta",
+      "parts": 32,
+      "maxMountDistance": 0.003994996747711227
+    },
+    {
+      "vehicle": "skyline_java",
+      "parts": 32,
+      "maxMountDistance": 0.003994996747711227
+    },
+    {
+      "vehicle": "mia_rx8",
+      "parts": 32,
+      "maxMountDistance": 0.003992418113085606
+    },
+    {
+      "vehicle": "taz",
+      "parts": 32,
+      "maxMountDistance": 0.003957394528244398
+    },
+    {
+      "vehicle": "vic",
+      "parts": 32,
+      "maxMountDistance": 0.003983705012953205
+    },
+    {
+      "vehicle": "izzy",
+      "parts": 32,
+      "maxMountDistance": 0.0039874045697736536
+    },
+    {
+      "vehicle": "big_lou",
+      "parts": 32,
+      "maxMountDistance": 0.0040000000000000036
+    },
+    {
+      "vehicle": "baron",
+      "parts": 32,
+      "maxMountDistance": 0.0039866842567186835
+    },
+    {
+      "vehicle": "earl",
+      "parts": 32,
+      "maxMountDistance": 0.00398513662314938
+    },
+    {
+      "vehicle": "kaze",
+      "parts": 32,
+      "maxMountDistance": 0.003997614655337019
+    },
+    {
+      "vehicle": "ming",
+      "parts": 32,
+      "maxMountDistance": 0.0039753527558370584
+    },
+    {
+      "vehicle": "webster",
+      "parts": 32,
+      "maxMountDistance": 0.0039753622177636965
+    },
+    {
+      "vehicle": "tiburon",
+      "parts": 32,
+      "maxMountDistance": 0.003997561042599177
+    },
+    {
+      "vehicle": "datsun",
+      "parts": 32,
+      "maxMountDistance": 0.003975204696270769
+    },
+    {
+      "vehicle": "road_runner",
+      "parts": 32,
+      "maxMountDistance": 0.003996772898109172
+    },
+    {
+      "vehicle": "supra",
+      "parts": 32,
+      "maxMountDistance": 0.003984802416001104
+    },
+    {
+      "vehicle": "m5_e39",
+      "parts": 32,
+      "maxMountDistance": 0.003956935853097637
+    },
+    {
+      "vehicle": "resonanso",
+      "parts": 32,
+      "maxMountDistance": 0.0039980974471886125
+    },
+    {
+      "vehicle": "testarossa",
+      "parts": 32,
+      "maxMountDistance": 0.003994096970402229
+    },
+    {
+      "vehicle": "carrera_gt",
+      "parts": 32,
+      "maxMountDistance": 0.0039831320274803
+    }
+  ],
+  "errors": [],
+  "maxMountDistance": 0.0040000000000000036
+}

@@ -1,0 +1,10 @@
+{
+  "sourceBytes": 6142704,
+  "triangles": 14838,
+  "runtimeBytes": 419838,
+  "maxTextureSize": 256,
+  "removed": [
+    "occluder_blocker_mesh",
+    "godrays_non_shadow_casting_nobright"
+  ]
+}

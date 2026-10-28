@@ -1,0 +1,254 @@
+{
+  "assets": [
+    {
+      "id": "splitter-01",
+      "sourceTriangles": 5624,
+      "triangles": 2634,
+      "primitives": 5,
+      "gridMetres": 0.0036450000000000002
+    },
+    {
+      "id": "splitter-02",
+      "sourceTriangles": 8592,
+      "triangles": 1888,
+      "primitives": 7,
+      "gridMetres": 0.006643012500000002
+    },
+    {
+      "id": "splitter-03",
+      "sourceTriangles": 11186,
+      "triangles": 2868,
+      "primitives": 6,
+      "gridMetres": 0.012106890281250006
+    },
+    {
+      "id": "splitter-04",
+      "sourceTriangles": 6100,
+      "triangles": 2504,
+      "primitives": 4,
+      "gridMetres": 0.004920750000000001
+    },
+    {
+      "id": "splitter-05",
+      "sourceTriangles": 5744,
+      "triangles": 2770,
+      "primitives": 5,
+      "gridMetres": 0.0036450000000000002
+    },
+    {
+      "id": "splitter-06",
+      "sourceTriangles": 24012,
+      "triangles": 2299,
+      "primitives": 7,
+      "gridMetres": 0.022064807537578137
+    },
+    {
+      "id": "skirts-01",
+      "sourceTriangles": 6216,
+      "triangles": 2204,
+      "primitives": 8,
+      "gridMetres": 0.0036450000000000002
+    },
+    {
+      "id": "skirts-02",
+      "sourceTriangles": 6248,
+      "triangles": 2158,
+      "primitives": 8,
+      "gridMetres": 0.0036450000000000002
+    },
+    {
+      "id": "skirts-03",
+      "sourceTriangles": 6816,
+      "triangles": 2592,
+      "primitives": 10,
+      "gridMetres": 0.0036450000000000002
+    },
+    {
+      "id": "skirts-04",
+      "sourceTriangles": 6336,
+      "triangles": 2288,
+      "primitives": 10,
+      "gridMetres": 0.0036450000000000002
+    },
+    {
+      "id": "skirts-05",
+      "sourceTriangles": 6296,
+      "triangles": 2288,
+      "primitives": 12,
+      "gridMetres": 0.0036450000000000002
+    },
+    {
+      "id": "diffuser-01",
+      "sourceTriangles": 4572,
+      "triangles": 2753,
+      "primitives": 4,
+      "gridMetres": 0.0027
+    },
+    {
+      "id": "diffuser-02",
+      "sourceTriangles": 7172,
+      "triangles": 2230,
+      "primitives": 4,
+      "gridMetres": 0.004920750000000001
+    },
+    {
+      "id": "diffuser-03",
+      "sourceTriangles": 8924,
+      "triangles": 2672,
+      "primitives": 4,
+      "gridMetres": 0.004920750000000001
+    },
+    {
+      "id": "diffuser-04",
+      "sourceTriangles": 10588,
+      "triangles": 3486,
+      "primitives": 3,
+      "gridMetres": 0.029787490175730486
+    },
+    {
+      "id": "diffuser-05",
+      "sourceTriangles": 7476,
+      "triangles": 2236,
+      "primitives": 5,
+      "gridMetres": 0.006643012500000002
+    },
+    {
+      "id": "wing-01",
+      "sourceTriangles": 5662,
+      "triangles": 2809,
+      "primitives": 4,
+      "gridMetres": 0.008968066875000003
+    },
+    {
+      "id": "wing-02",
+      "sourceTriangles": 11602,
+      "triangles": 2993,
+      "primitives": 4,
+      "gridMetres": 0.012106890281250006
+    },
+    {
+      "id": "wing-03",
+      "sourceTriangles": 13786,
+      "triangles": 2685,
+      "primitives": 3,
+      "gridMetres": 0.022064807537578137
+    },
+    {
+      "id": "wing-04",
+      "sourceTriangles": 10194,
+      "triangles": 2862,
+      "primitives": 5,
+      "gridMetres": 0.01634430187968751
+    },
+    {
+      "id": "wing-05",
+      "sourceTriangles": 14812,
+      "triangles": 2950,
+      "primitives": 4,
+      "gridMetres": 0.029787490175730486
+    },
+    {
+      "id": "canards-01",
+      "sourceTriangles": 1712,
+      "triangles": 1172,
+      "primitives": 8,
+      "gridMetres": 0.002
+    },
+    {
+      "id": "canards-02",
+      "sourceTriangles": 3424,
+      "triangles": 2368,
+      "primitives": 8,
+      "gridMetres": 0.002
+    },
+    {
+      "id": "canards-03",
+      "sourceTriangles": 5136,
+      "triangles": 2232,
+      "primitives": 8,
+      "gridMetres": 0.0036450000000000002
+    },
+    {
+      "id": "canards-04",
+      "sourceTriangles": 5496,
+      "triangles": 2344,
+      "primitives": 8,
+      "gridMetres": 0.0036450000000000002
+    },
+    {
+      "id": "hood-01",
+      "sourceTriangles": 2472,
+      "triangles": 1740,
+      "primitives": 4,
+      "gridMetres": 0.002
+    },
+    {
+      "id": "hood-02",
+      "sourceTriangles": 2056,
+      "triangles": 1440,
+      "primitives": 4,
+      "gridMetres": 0.002
+    },
+    {
+      "id": "hood-03",
+      "sourceTriangles": 2844,
+      "triangles": 1628,
+      "primitives": 5,
+      "gridMetres": 0.002
+    },
+    {
+      "id": "spats-01",
+      "sourceTriangles": 2432,
+      "triangles": 1712,
+      "primitives": 8,
+      "gridMetres": 0.002
+    },
+    {
+      "id": "spats-02",
+      "sourceTriangles": 2792,
+      "triangles": 2000,
+      "primitives": 8,
+      "gridMetres": 0.002
+    },
+    {
+      "id": "arches-01",
+      "sourceTriangles": 10264,
+      "triangles": 2244,
+      "primitives": 6,
+      "gridMetres": 0.006643012500000002
+    },
+    {
+      "id": "arches-02",
+      "sourceTriangles": 10752,
+      "triangles": 2494,
+      "primitives": 8,
+      "gridMetres": 0.006643012500000002
+    },
+    {
+      "id": "sport1",
+      "sourceTriangles": 76654,
+      "triangles": 2399
+    },
+    {
+      "id": "sport2",
+      "sourceTriangles": 76634,
+      "triangles": 2382
+    },
+    {
+      "id": "sport3",
+      "sourceTriangles": 125654,
+      "triangles": 2399
+    },
+    {
+      "id": "sport4",
+      "sourceTriangles": 115262,
+      "triangles": 2400
+    },
+    {
+      "id": "sport5",
+      "sourceTriangles": 73758,
+      "triangles": 2315
+    }
+  ],
+  "bytes": 2349657
+}

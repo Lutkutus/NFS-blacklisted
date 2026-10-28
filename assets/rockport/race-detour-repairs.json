@@ -1,0 +1,74 @@
+[
+  {
+    "id": "rosewood-ridge",
+    "repairs": 0,
+    "before": 8027.187504940267,
+    "after": 8027.187504940267
+  },
+  {
+    "id": "harbour-run",
+    "repairs": 2,
+    "before": 6949.227143172548,
+    "after": 6694.671414393672
+  },
+  {
+    "id": "downtown-descent",
+    "repairs": 0,
+    "before": 4540.893520703227,
+    "after": 4540.893520703227
+  },
+  {
+    "id": "last-run",
+    "repairs": 1,
+    "before": 10306.36714956212,
+    "after": 10242.59664447857
+  },
+  {
+    "id": "rosewood-return",
+    "repairs": 0,
+    "before": 8032.714446165736,
+    "after": 8032.714446165736
+  },
+  {
+    "id": "harbour-reverse",
+    "repairs": 2,
+    "before": 6949.227143172559,
+    "after": 6687.413984608114
+  },
+  {
+    "id": "downtown-ascent",
+    "repairs": 0,
+    "before": 4541.706793349172,
+    "after": 4541.706793349172
+  },
+  {
+    "id": "the-long-climb",
+    "repairs": 0,
+    "before": 10306.367149562104,
+    "after": 10306.367149562104
+  },
+  {
+    "id": "campus-climb",
+    "repairs": 0,
+    "before": 3966.671167608638,
+    "after": 3966.671167608638
+  },
+  {
+    "id": "industrial-cut",
+    "repairs": 1,
+    "before": 2999.9999999999955,
+    "after": 2860.9124225950036
+  },
+  {
+    "id": "central-sprint",
+    "repairs": 0,
+    "before": 3000.000000000001,
+    "after": 3000.000000000001
+  },
+  {
+    "id": "cross-city",
+    "repairs": 1,
+    "before": 4472.958545420842,
+    "after": 4409.188040337294
+  }
+]
